@@ -1,0 +1,2176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1024"
+   height="800"
+   version="1.1"
+   id="svg2454"
+   sodipodi:docname="geoschema.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="H:\GitHub - Clone\gbvitrano\palermomeltingpot\docs\img\geoschema.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2458" />
+  <sodipodi:namedview
+     id="namedview2456"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.94875"
+     inkscape:cx="421.08037"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2454" />
+  <rect
+     width="1024"
+     height="800"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="backgorund" />
+  <g
+     id="g1863"
+     transform="translate(50,50)">
+    <rect
+       x="0"
+       y="34"
+       height="166.18666"
+       width="2"
+       fill="#000000"
+       id="rect1645">
+      <title
+         id="title1643">Africa: 57</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="18"
+       height="43.733334"
+       width="2"
+       fill="#000000"
+       id="rect1649">
+      <title
+         id="title1647">Africa centro meridionale: 15</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="65.73333"
+       height="46.648888"
+       width="2"
+       fill="#000000"
+       id="rect1653">
+      <title
+         id="title1651">Africa occidentale: 16</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="116.38223"
+       height="52.48"
+       width="2"
+       fill="#000000"
+       id="rect1657">
+      <title
+         id="title1655">Africa orientale: 18</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="172.86223"
+       height="23.324444"
+       width="2"
+       fill="#000000"
+       id="rect1661">
+      <title
+         id="title1659">Africa settentrionale: 8</title>
+    </rect>
+    <rect
+       x="0"
+       y="204.18666"
+       height="142.86223"
+       width="2"
+       fill="#000000"
+       id="rect1665">
+      <title
+         id="title1663">America: 49</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="200.18666"
+       height="128.28444"
+       width="2"
+       fill="#000000"
+       id="rect1669">
+      <title
+         id="title1667">America centro meridionale: 44</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="332.4711"
+       height="14.577778"
+       width="2"
+       fill="#000000"
+       id="rect1673">
+      <title
+         id="title1671">America settentrionale: 5</title>
+    </rect>
+    <rect
+       x="0"
+       y="351.04889"
+       height="137.03111"
+       width="2"
+       fill="#000000"
+       id="rect1677">
+      <title
+         id="title1675">Asia: 47</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="351.04889"
+       height="37.902222"
+       width="2"
+       fill="#000000"
+       id="rect1681">
+      <title
+         id="title1679">Asia centro meridionale: 13</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="392.95111"
+       height="49.564445"
+       width="2"
+       fill="#000000"
+       id="rect1685">
+      <title
+         id="title1683">Asia occidentale: 17</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="446.51556"
+       height="49.564445"
+       width="2"
+       fill="#000000"
+       id="rect1689">
+      <title
+         id="title1687">Asia orientale: 17</title>
+    </rect>
+    <rect
+       x="0"
+       y="492.07999"
+       height="154.52444"
+       width="2"
+       fill="#000000"
+       id="rect1693">
+      <title
+         id="title1691">Europa: 53</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="500.07999"
+       height="43.733334"
+       width="2"
+       fill="#000000"
+       id="rect1697">
+      <title
+         id="title1695">Altri Paesi Europei: 15</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="547.81335"
+       height="32.07111"
+       width="2"
+       fill="#000000"
+       id="rect1701">
+      <title
+         id="title1699">Europa centro orientale: 11</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="583.88446"
+       height="78.720001"
+       width="2"
+       fill="#000000"
+       id="rect1705">
+      <title
+         id="title1703">Unione europea: 27</title>
+    </rect>
+    <rect
+       x="0"
+       y="650.60443"
+       height="55.395557"
+       width="2"
+       fill="#000000"
+       id="rect1709">
+      <title
+         id="title1707">Oceania: 19</title>
+    </rect>
+    <rect
+       x="307.33334"
+       y="666.60443"
+       height="55.395557"
+       width="2"
+       fill="#000000"
+       id="rect1713">
+      <title
+         id="title1711">Oceania: 19</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="14"
+       height="142.86223"
+       width="2"
+       fill="#000000"
+       id="rect1717">
+      <title
+         id="title1715">Sub-Saharan Africa: 49</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="160.86223"
+       height="23.324444"
+       width="2"
+       fill="#000000"
+       id="rect1721">
+      <title
+         id="title1719">Northern Africa: 8</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="188.18666"
+       height="128.28444"
+       width="2"
+       fill="#000000"
+       id="rect1725">
+      <title
+         id="title1723">Latin America and the Caribbean: 44</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="320.4711"
+       height="14.577778"
+       width="2"
+       fill="#000000"
+       id="rect1729">
+      <title
+         id="title1727">Northern America: 5</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="339.04889"
+       height="23.324444"
+       width="2"
+       fill="#000000"
+       id="rect1733">
+      <title
+         id="title1731">Southern Asia: 8</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="366.37332"
+       height="14.577778"
+       width="2"
+       fill="#000000"
+       id="rect1737">
+      <title
+         id="title1735">Central Asia: 5</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="384.95111"
+       height="52.48"
+       width="2"
+       fill="#000000"
+       id="rect1741">
+      <title
+         id="title1739">Western Asia: 18</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="441.43112"
+       height="32.07111"
+       width="2"
+       fill="#000000"
+       id="rect1745">
+      <title
+         id="title1743">South-eastern Asia: 11</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="477.50223"
+       height="17.493334"
+       width="2"
+       fill="#000000"
+       id="rect1749">
+      <title
+         id="title1747">Eastern Asia: 6</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="498.99554"
+       height="72.888885"
+       width="2"
+       fill="#000000"
+       id="rect1753">
+      <title
+         id="title1751">Europeans out of EU: 25</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="575.88446"
+       height="78.720001"
+       width="2"
+       fill="#000000"
+       id="rect1757">
+      <title
+         id="title1755">EU-27: 27</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="658.60443"
+       height="5.831111"
+       width="2"
+       fill="#000000"
+       id="rect1761">
+      <title
+         id="title1759">Australia and New Zealand: 2</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="668.43555"
+       height="14.577778"
+       width="2"
+       fill="#000000"
+       id="rect1765">
+      <title
+         id="title1763">Melanesia: 5</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="687.01331"
+       height="20.40889"
+       width="2"
+       fill="#000000"
+       id="rect1769">
+      <title
+         id="title1767">Polinesia: 7</title>
+    </rect>
+    <rect
+       x="614.66669"
+       y="711.42224"
+       height="14.577778"
+       width="2"
+       fill="#000000"
+       id="rect1773">
+      <title
+         id="title1771">Micronesia: 5</title>
+    </rect>
+    <rect
+       x="922"
+       y="0"
+       height="23.324444"
+       width="2"
+       fill="#000000"
+       id="rect1777">
+      <title
+         id="title1775">Middle Africa: 8</title>
+    </rect>
+    <rect
+       x="922"
+       y="27.324444"
+       height="11.662222"
+       width="2"
+       fill="#000000"
+       id="rect1781">
+      <title
+         id="title1779">Southern Africa: 4</title>
+    </rect>
+    <rect
+       x="922"
+       y="42.986668"
+       height="58.311111"
+       width="2"
+       fill="#000000"
+       id="rect1785">
+      <title
+         id="title1783">Eastern Africa: 20</title>
+    </rect>
+    <rect
+       x="922"
+       y="105.29778"
+       height="49.564445"
+       width="2"
+       fill="#000000"
+       id="rect1789">
+      <title
+         id="title1787">Western Africa: 17</title>
+    </rect>
+    <rect
+       x="922"
+       y="158.86223"
+       height="23.324444"
+       width="2"
+       fill="#000000"
+       id="rect1793">
+      <title
+         id="title1791">Northern Africa: 8</title>
+    </rect>
+    <rect
+       x="922"
+       y="186.18666"
+       height="67.057777"
+       width="2"
+       fill="#000000"
+       id="rect1797">
+      <title
+         id="title1795">Caribbean: 23</title>
+    </rect>
+    <rect
+       x="922"
+       y="257.24445"
+       height="37.902222"
+       width="2"
+       fill="#000000"
+       id="rect1801">
+      <title
+         id="title1799">South America: 13</title>
+    </rect>
+    <rect
+       x="922"
+       y="299.14667"
+       height="23.324444"
+       width="2"
+       fill="#000000"
+       id="rect1805">
+      <title
+         id="title1803">Central America: 8</title>
+    </rect>
+    <rect
+       x="922"
+       y="326.4711"
+       height="14.577778"
+       width="2"
+       fill="#000000"
+       id="rect1809">
+      <title
+         id="title1807">Northern America: 5</title>
+    </rect>
+    <rect
+       x="922"
+       y="345.04889"
+       height="23.324444"
+       width="2"
+       fill="#000000"
+       id="rect1813">
+      <title
+         id="title1811">Southern Asia: 8</title>
+    </rect>
+    <rect
+       x="922"
+       y="372.37332"
+       height="14.577778"
+       width="2"
+       fill="#000000"
+       id="rect1817">
+      <title
+         id="title1815">Central Asia: 5</title>
+    </rect>
+    <rect
+       x="922"
+       y="390.95111"
+       height="55.395557"
+       width="2"
+       fill="#000000"
+       id="rect1821">
+      <title
+         id="title1819">Western Asia: 19</title>
+    </rect>
+    <rect
+       x="922"
+       y="450.34668"
+       height="32.07111"
+       width="2"
+       fill="#000000"
+       id="rect1825">
+      <title
+         id="title1823">South-eastern Asia: 11</title>
+    </rect>
+    <rect
+       x="922"
+       y="486.41779"
+       height="17.493334"
+       width="2"
+       fill="#000000"
+       id="rect1829">
+      <title
+         id="title1827">Eastern Asia: 6</title>
+    </rect>
+    <rect
+       x="922"
+       y="507.9111"
+       height="49.564445"
+       width="2"
+       fill="#000000"
+       id="rect1833">
+      <title
+         id="title1831">Southern Europe: 17</title>
+    </rect>
+    <rect
+       x="922"
+       y="561.47559"
+       height="40.81778"
+       width="2"
+       fill="#000000"
+       id="rect1837">
+      <title
+         id="title1835">Northern Europe: 14</title>
+    </rect>
+    <rect
+       x="922"
+       y="606.29333"
+       height="34.986668"
+       width="2"
+       fill="#000000"
+       id="rect1841">
+      <title
+         id="title1839">Western Europe: 12</title>
+    </rect>
+    <rect
+       x="922"
+       y="645.28003"
+       height="23.324444"
+       width="2"
+       fill="#000000"
+       id="rect1845">
+      <title
+         id="title1843">Eastern Europe: 8</title>
+    </rect>
+    <rect
+       x="922"
+       y="672.60443"
+       height="5.831111"
+       width="2"
+       fill="#000000"
+       id="rect1849">
+      <title
+         id="title1847">Australia and New Zealand: 2</title>
+    </rect>
+    <rect
+       x="922"
+       y="682.43555"
+       height="14.577778"
+       width="2"
+       fill="#000000"
+       id="rect1853">
+      <title
+         id="title1851">Melanesia: 5</title>
+    </rect>
+    <rect
+       x="922"
+       y="701.01331"
+       height="20.40889"
+       width="2"
+       fill="#000000"
+       id="rect1857">
+      <title
+         id="title1855">Polinesia: 7</title>
+    </rect>
+    <rect
+       x="922"
+       y="725.42224"
+       height="14.577778"
+       width="2"
+       fill="#000000"
+       id="rect1861">
+      <title
+         id="title1859">Micronesia: 5</title>
+    </rect>
+  </g>
+  <g
+     fill="none"
+     stroke-opacity="1"
+     id="g2219"
+     transform="translate(50,50)">
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1869">
+      <path
+         d="m 2,55.866667 c 152.66667,0 152.66667,-16 305.33333,-16"
+         stroke="#fedf90"
+         stroke-width="43.7333"
+         id="path1865" />
+      <title
+         id="title1867">Africa → Africa centro meridionale: 15</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1875">
+      <path
+         d="m 2,101.05778 c 152.66667,0 152.66667,-12.000002 305.33333,-12.000002"
+         stroke="#fedf90"
+         stroke-width="46.6489"
+         id="path1871" />
+      <title
+         id="title1873">Africa → Africa occidentale: 16</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1881">
+      <path
+         d="m 2,150.62222 c 152.66667,0 152.66667,-8 305.33333,-8"
+         stroke="#fedf90"
+         stroke-width="52.48"
+         id="path1877" />
+      <title
+         id="title1879">Africa → Africa orientale: 18</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1887">
+      <path
+         d="m 2,188.52444 c 152.66667,0 152.66667,-4 305.33333,-4"
+         stroke="#fedf90"
+         stroke-width="23.3244"
+         id="path1883" />
+      <title
+         id="title1885">Africa → Africa settentrionale: 8</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1893">
+      <path
+         d="m 2,268.32889 c 152.66667,0 152.66667,-4 305.33333,-4"
+         stroke="#feea9e"
+         stroke-width="128.284"
+         id="path1889" />
+      <title
+         id="title1891">America → America centro meridionale: 44</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1899">
+      <path
+         d="m 2,339.76 c 152.66667,0 152.66667,0 305.33333,0"
+         stroke="#feea9e"
+         stroke-width="14.5778"
+         id="path1895" />
+      <title
+         id="title1897">America → America settentrionale: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1905">
+      <path
+         d="m 2,370 c 152.66667,0 152.66667,0 305.33333,0"
+         stroke="#fdf3aa"
+         stroke-width="37.9022"
+         id="path1901" />
+      <title
+         id="title1903">Asia → Asia centro meridionale: 13</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1911">
+      <path
+         d="m 2,413.73333 c 152.66667,0 152.66667,4 305.33333,4"
+         stroke="#fdf3aa"
+         stroke-width="49.5644"
+         id="path1907" />
+      <title
+         id="title1909">Asia → Asia occidentale: 17</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1917">
+      <path
+         d="m 2,463.29778 c 152.66667,0 152.66667,8 305.33333,8"
+         stroke="#fdf3aa"
+         stroke-width="49.5644"
+         id="path1913" />
+      <title
+         id="title1915">Asia → Asia orientale: 17</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1923">
+      <path
+         d="m 2,513.94667 c 152.66667,0 152.66667,8 305.33333,8"
+         stroke="#fbf8b0"
+         stroke-width="43.7333"
+         id="path1919" />
+      <title
+         id="title1921">Europa → Altri Paesi Europei: 15</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1929">
+      <path
+         d="m 2,551.84889 c 152.66667,0 152.66667,12 305.33333,12"
+         stroke="#fbf8b0"
+         stroke-width="32.0711"
+         id="path1925" />
+      <title
+         id="title1927">Europa → Europa centro orientale: 11</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1935">
+      <path
+         d="m 2,607.24444 c 152.66667,0 152.66667,16 305.33333,16"
+         stroke="#fbf8b0"
+         stroke-width="78.72"
+         id="path1931" />
+      <title
+         id="title1933">Europa → Unione europea: 27</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1941">
+      <path
+         d="m 2,678.30222 c 152.66667,0 152.66667,16 305.33333,16"
+         stroke="#f6faae"
+         stroke-width="55.3956"
+         id="path1937" />
+      <title
+         id="title1939">Oceania → Oceania: 19</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1947">
+      <path
+         d="m 309.33333,39.866667 c 152.66667,0 152.66667,-4 305.33334,-4"
+         stroke="#9e0142"
+         stroke-width="43.7333"
+         id="path1943" />
+      <title
+         id="title1945">Africa centro meridionale → Sub-Saharan Africa: 15</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1953">
+      <path
+         d="m 309.33333,89.057778 c 152.66667,0 152.66667,-8 305.33334,-8"
+         stroke="#af1446"
+         stroke-width="46.6489"
+         id="path1949" />
+      <title
+         id="title1951">Africa occidentale → Sub-Saharan Africa: 16</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1959">
+      <path
+         d="m 309.33333,142.62222 c 152.66667,0 152.66667,-12 305.33334,-12"
+         stroke="#bf2749"
+         stroke-width="52.48"
+         id="path1955" />
+      <title
+         id="title1957">Africa orientale → Sub-Saharan Africa: 18</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1965">
+      <path
+         d="m 309.33333,184.52444 c 152.66667,0 152.66667,-12 305.33334,-12"
+         stroke="#ce384b"
+         stroke-width="23.3244"
+         id="path1961" />
+      <title
+         id="title1963">Africa settentrionale → Northern Africa: 8</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1971">
+      <path
+         d="m 309.33333,264.32889 c 152.66667,0 152.66667,-12 305.33334,-12"
+         stroke="#e55949"
+         stroke-width="128.284"
+         id="path1967" />
+      <title
+         id="title1969">America centro meridionale → Latin America and the Caribbean: 44</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1977">
+      <path
+         d="M 309.33333,339.76 C 462,339.76 462,327.76 614.66667,327.76"
+         stroke="#ee6949"
+         stroke-width="14.5778"
+         id="path1973" />
+      <title
+         id="title1975">America settentrionale → Northern America: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1983">
+      <path
+         d="m 309.33333,362.71111 c 152.66667,0 152.66667,-12 305.33334,-12"
+         stroke="#f47b4c"
+         stroke-width="23.3244"
+         id="path1979" />
+      <title
+         id="title1981">Asia centro meridionale → Southern Asia: 8</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1989">
+      <path
+         d="m 309.33333,381.66222 c 152.66667,0 152.66667,-8 305.33334,-8"
+         stroke="#f47b4c"
+         stroke-width="14.5778"
+         id="path1985" />
+      <title
+         id="title1987">Asia centro meridionale → Central Asia: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g1995">
+      <path
+         d="m 309.33333,417.73333 c 152.66667,0 152.66667,-8 305.33334,-8"
+         stroke="#f88e53"
+         stroke-width="49.5644"
+         id="path1991" />
+      <title
+         id="title1993">Asia occidentale → Western Asia: 17</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2001">
+      <path
+         d="M 309.33333,462.55111 C 462,462.55111 462,457.46667 614.66667,457.46667"
+         stroke="#fba05c"
+         stroke-width="32.0711"
+         id="path1997" />
+      <title
+         id="title1999">Asia orientale → South-eastern Asia: 11</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2007">
+      <path
+         d="M 309.33333,487.33333 C 462,487.33333 462,486.24889 614.66667,486.24889"
+         stroke="#fba05c"
+         stroke-width="17.4933"
+         id="path2003" />
+      <title
+         id="title2005">Asia orientale → Eastern Asia: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2013">
+      <path
+         d="M 309.33333,521.94667 C 462,521.94667 462,520.86222 614.66667,520.86222"
+         stroke="#db494a"
+         stroke-width="43.7333"
+         id="path2009" />
+      <title
+         id="title2011">Altri Paesi Europei → Europeans out of EU: 15</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2019">
+      <path
+         d="m 309.33333,565.30667 c 152.66667,0 152.66667,-8 305.33334,-8"
+         stroke="#fcb368"
+         stroke-width="29.1556"
+         id="path2015" />
+      <title
+         id="title2017">Europa centro orientale → Europeans out of EU: 10</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2025">
+      <path
+         d="M 309.33333,549.27111 C 462,549.27111 462,435.97333 614.66667,435.97333"
+         stroke="#fcb368"
+         stroke-width="2.91556"
+         id="path2021" />
+      <title
+         id="title2023">Europa centro orientale → Western Asia: 1</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2031">
+      <path
+         d="m 309.33333,623.24444 c 152.66667,0 152.66667,-8 305.33334,-8"
+         stroke="#fed281"
+         stroke-width="78.72"
+         id="path2027" />
+      <title
+         id="title2029">Unione europea → EU-27: 27</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2037">
+      <path
+         d="m 309.33333,669.52 c 152.66667,0 152.66667,-8 305.33334,-8"
+         stroke="#fdc374"
+         stroke-width="5.83111"
+         id="path2033" />
+      <title
+         id="title2035">Oceania → Australia and New Zealand: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2043">
+      <path
+         d="m 309.33333,679.72444 c 152.66667,0 152.66667,-4 305.33334,-4"
+         stroke="#fdc374"
+         stroke-width="14.5778"
+         id="path2039" />
+      <title
+         id="title2041">Oceania → Melanesia: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2049">
+      <path
+         d="m 309.33333,697.21778 c 152.66667,0 152.66667,0 305.33334,0"
+         stroke="#fdc374"
+         stroke-width="20.4089"
+         id="path2045" />
+      <title
+         id="title2047">Oceania → Polinesia: 7</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2055">
+      <path
+         d="m 309.33333,714.71111 c 152.66667,0 152.66667,4 305.33334,4"
+         stroke="#fdc374"
+         stroke-width="14.5778"
+         id="path2051" />
+      <title
+         id="title2053">Oceania → Micronesia: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2061">
+      <path
+         d="m 616.66667,25.662222 c 152.66666,0 152.66666,-14 305.33333,-14"
+         stroke="#5161aa"
+         stroke-width="23.3244"
+         id="path2057" />
+      <title
+         id="title2059">Sub-Saharan Africa → Middle Africa: 8</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2067">
+      <path
+         d="m 616.66667,43.155556 c 152.66666,0 152.66666,-10 305.33333,-10"
+         stroke="#5161aa"
+         stroke-width="11.6622"
+         id="path2063" />
+      <title
+         id="title2065">Sub-Saharan Africa → Southern Africa: 4</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2073">
+      <path
+         d="m 616.66667,78.142222 c 152.66666,0 152.66666,-6 305.33333,-6"
+         stroke="#5161aa"
+         stroke-width="58.3111"
+         id="path2069" />
+      <title
+         id="title2071">Sub-Saharan Africa → Eastern Africa: 20</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2079">
+      <path
+         d="m 616.66667,132.08 c 152.66666,0 152.66666,-2 305.33333,-2"
+         stroke="#5161aa"
+         stroke-width="49.5644"
+         id="path2075" />
+      <title
+         id="title2077">Sub-Saharan Africa → Western Africa: 17</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2085">
+      <path
+         d="m 616.66667,172.52444 c 152.66666,0 152.66666,-2 305.33333,-2"
+         stroke="#61b7ab"
+         stroke-width="23.3244"
+         id="path2081" />
+      <title
+         id="title2083">Northern Africa → Northern Africa: 8</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2091">
+      <path
+         d="m 616.66667,221.71556 c 152.66666,0 152.66666,-2 305.33333,-2"
+         stroke="#9dd8a3"
+         stroke-width="67.0578"
+         id="path2087" />
+      <title
+         id="title2089">Latin America and the Caribbean → Caribbean: 23</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2097">
+      <path
+         d="m 616.66667,274.19556 c 152.66666,0 152.66666,2 305.33333,2"
+         stroke="#9dd8a3"
+         stroke-width="37.9022"
+         id="path2093" />
+      <title
+         id="title2095">Latin America and the Caribbean → South America: 13</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2103">
+      <path
+         d="m 616.66667,304.80889 c 152.66666,0 152.66666,6 305.33333,6"
+         stroke="#9dd8a3"
+         stroke-width="23.3244"
+         id="path2099" />
+      <title
+         id="title2101">Latin America and the Caribbean → Central America: 8</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2109">
+      <path
+         d="m 616.66667,327.76 c 152.66666,0 152.66666,6 305.33333,6"
+         stroke="#51a8af"
+         stroke-width="14.5778"
+         id="path2105" />
+      <title
+         id="title2107">Northern America → Northern America: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2115">
+      <path
+         d="m 616.66667,350.71111 c 152.66666,0 152.66666,6 305.33333,6"
+         stroke="#4673b1"
+         stroke-width="23.3244"
+         id="path2111" />
+      <title
+         id="title2113">Southern Asia → Southern Asia: 8</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2121">
+      <path
+         d="m 616.66667,373.66222 c 152.66666,0 152.66666,6 305.33333,6"
+         stroke="#e3f4a1"
+         stroke-width="14.5778"
+         id="path2117" />
+      <title
+         id="title2119">Central Asia → Central Asia: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2127">
+      <path
+         d="m 616.66667,411.19111 c 152.66666,0 152.66666,6 305.33333,6"
+         stroke="#5e4fa2"
+         stroke-width="52.48"
+         id="path2123" />
+      <title
+         id="title2125">Western Asia → Western Asia: 18</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2133">
+      <path
+         d="m 616.66667,457.46667 c 152.66666,0 152.66666,8.91555 305.33333,8.91555"
+         stroke="#4285b4"
+         stroke-width="32.0711"
+         id="path2129" />
+      <title
+         id="title2131">South-eastern Asia → South-eastern Asia: 11</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2139">
+      <path
+         d="m 616.66667,486.24889 c 152.66666,0 152.66666,8.91555 305.33333,8.91555"
+         stroke="#c4e79f"
+         stroke-width="17.4933"
+         id="path2135" />
+      <title
+         id="title2137">Eastern Asia → Eastern Asia: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2145">
+      <path
+         d="m 616.66667,513.57333 c 152.66666,0 152.66666,8.91556 305.33333,8.91556"
+         stroke="#b1e0a1"
+         stroke-width="29.1556"
+         id="path2141" />
+      <title
+         id="title2143">Europeans out of EU → Southern Europe: 10</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2151">
+      <path
+         d="M 616.66667,538.35556 C 769.33333,538.35556 769.33333,571.68 922,571.68"
+         stroke="#b1e0a1"
+         stroke-width="20.4089"
+         id="path2147" />
+      <title
+         id="title2149">Europeans out of EU → Northern Europe: 7</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2157">
+      <path
+         d="M 616.66667,557.30667 C 769.33333,557.30667 769.33333,615.04 922,615.04"
+         stroke="#b1e0a1"
+         stroke-width="17.4933"
+         id="path2153" />
+      <title
+         id="title2155">Europeans out of EU → Western Europe: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2163">
+      <path
+         d="m 616.66667,568.96889 c 152.66666,0 152.66666,79.22667 305.33333,79.22667"
+         stroke="#b1e0a1"
+         stroke-width="5.83111"
+         id="path2159" />
+      <title
+         id="title2161">Europeans out of EU → Eastern Europe: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2169">
+      <path
+         d="m 616.66667,628.36444 c 152.66666,0 152.66666,4.16889 305.33333,4.16889"
+         stroke="#d5ee9f"
+         stroke-width="17.4933"
+         id="path2165" />
+      <title
+         id="title2167">EU-27 → Western Europe: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2175">
+      <path
+         d="m 616.66667,645.85778 c 152.66666,0 152.66666,14 305.33333,14"
+         stroke="#d5ee9f"
+         stroke-width="17.4933"
+         id="path2171" />
+      <title
+         id="title2173">EU-27 → Eastern Europe: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2181">
+      <path
+         d="M 616.66667,577.34222 C 769.33333,577.34222 769.33333,444.88889 922,444.88889"
+         stroke="#d5ee9f"
+         stroke-width="2.91556"
+         id="path2177" />
+      <title
+         id="title2179">EU-27 → Western Asia: 1</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2187">
+      <path
+         d="m 616.66667,589.00444 c 152.66666,0 152.66666,-41.73333 305.33333,-41.73333"
+         stroke="#d5ee9f"
+         stroke-width="20.4089"
+         id="path2183" />
+      <title
+         id="title2185">EU-27 → Southern Europe: 7</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2193">
+      <path
+         d="m 616.66667,609.41333 c 152.66666,0 152.66666,-17.32444 305.33333,-17.32444"
+         stroke="#d5ee9f"
+         stroke-width="20.4089"
+         id="path2189" />
+      <title
+         id="title2191">EU-27 → Northern Europe: 7</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2199">
+      <path
+         d="m 616.66667,661.52 c 152.66666,0 152.66666,14 305.33333,14"
+         stroke="#eef8a8"
+         stroke-width="5.83111"
+         id="path2195" />
+      <title
+         id="title2197">Australia and New Zealand → Australia and New Zealand: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2205">
+      <path
+         d="m 616.66667,675.72444 c 152.66666,0 152.66666,14 305.33333,14"
+         stroke="#89cfa5"
+         stroke-width="14.5778"
+         id="path2201" />
+      <title
+         id="title2203">Melanesia → Melanesia: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2211">
+      <path
+         d="m 616.66667,697.21778 c 152.66666,0 152.66666,14 305.33333,14"
+         stroke="#4696b3"
+         stroke-width="20.4089"
+         id="path2207" />
+      <title
+         id="title2209">Polinesia → Polinesia: 7</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g2217">
+      <path
+         d="m 616.66667,718.71111 c 152.66666,0 152.66666,14 305.33333,14"
+         stroke="#74c4a7"
+         stroke-width="14.5778"
+         id="path2213" />
+      <title
+         id="title2215">Micronesia → Micronesia: 5</title>
+    </g>
+  </g>
+  <image
+     width="77.339653"
+     height="77.339653"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABuCAYAAADGWyb7AAAACXBIWXMAAAexAAAHsQEGxWGGAAA4
+JmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0w
+TXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRh
+LyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMwMTQgNzkuMTU2Nzk3LCAyMDE0LzA4LzIw
+LTA5OjUzOjAyICAgICAgICAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMu
+b3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJk
+ZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFw
+LzEuMC8iCiAgICAgICAgICAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMv
+MS4xLyIKICAgICAgICAgICAgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bo
+b3Rvc2hvcC8xLjAvIgogICAgICAgICAgICB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNv
+bS94YXAvMS4wL21tLyIKICAgICAgICAgICAgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5j
+b20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIKICAgICAgICAgICAgeG1sbnM6dGlmZj0i
+aHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOmV4aWY9Imh0
+dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5B
+ZG9iZSBQaG90b3Nob3AgQ0MgMjAxNCAoV2luZG93cyk8L3htcDpDcmVhdG9yVG9vbD4KICAgICAg
+ICAgPHhtcDpDcmVhdGVEYXRlPjIwMjEtMDctMjNUMTQ6NDM6NTMrMDI6MDA8L3htcDpDcmVhdGVE
+YXRlPgogICAgICAgICA8eG1wOk1vZGlmeURhdGU+MjAyMS0wNy0yNVQyMDo0Mzo0MSswMjowMDwv
+eG1wOk1vZGlmeURhdGU+CiAgICAgICAgIDx4bXA6TWV0YWRhdGFEYXRlPjIwMjEtMDctMjVUMjA6
+NDM6NDErMDI6MDA8L3htcDpNZXRhZGF0YURhdGU+CiAgICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uv
+cG5nPC9kYzpmb3JtYXQ+CiAgICAgICAgIDxwaG90b3Nob3A6Q29sb3JNb2RlPjM8L3Bob3Rvc2hv
+cDpDb2xvck1vZGU+CiAgICAgICAgIDx4bXBNTTpJbnN0YW5jZUlEPnhtcC5paWQ6MjQwODQ5N2Et
+MDNkNi02ODRjLThiNzMtNTA4OGVmNzY5MmVjPC94bXBNTTpJbnN0YW5jZUlEPgogICAgICAgICA8
+eG1wTU06RG9jdW1lbnRJRD54bXAuZGlkOjI0MDg0OTdhLTAzZDYtNjg0Yy04YjczLTUwODhlZjc2
+OTJlYzwveG1wTU06RG9jdW1lbnRJRD4KICAgICAgICAgPHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJ
+RD54bXAuZGlkOjI0MDg0OTdhLTAzZDYtNjg0Yy04YjczLTUwODhlZjc2OTJlYzwveG1wTU06T3Jp
+Z2luYWxEb2N1bWVudElEPgogICAgICAgICA8eG1wTU06SGlzdG9yeT4KICAgICAgICAgICAgPHJk
+ZjpTZXE+CiAgICAgICAgICAgICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgog
+ICAgICAgICAgICAgICAgICA8c3RFdnQ6YWN0aW9uPmNyZWF0ZWQ8L3N0RXZ0OmFjdGlvbj4KICAg
+ICAgICAgICAgICAgICAgPHN0RXZ0Omluc3RhbmNlSUQ+eG1wLmlpZDoyNDA4NDk3YS0wM2Q2LTY4
+NGMtOGI3My01MDg4ZWY3NjkyZWM8L3N0RXZ0Omluc3RhbmNlSUQ+CiAgICAgICAgICAgICAgICAg
+IDxzdEV2dDp3aGVuPjIwMjEtMDctMjNUMTQ6NDM6NTMrMDI6MDA8L3N0RXZ0OndoZW4+CiAgICAg
+ICAgICAgICAgICAgIDxzdEV2dDpzb2Z0d2FyZUFnZW50PkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0
+IChXaW5kb3dzKTwvc3RFdnQ6c29mdHdhcmVBZ2VudD4KICAgICAgICAgICAgICAgPC9yZGY6bGk+
+CiAgICAgICAgICAgIDwvcmRmOlNlcT4KICAgICAgICAgPC94bXBNTTpIaXN0b3J5PgogICAgICAg
+ICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICAgICA8dGlmZjpY
+UmVzb2x1dGlvbj41MDAwMDAvMTAwMDA8L3RpZmY6WFJlc29sdXRpb24+CiAgICAgICAgIDx0aWZm
+OllSZXNvbHV0aW9uPjUwMDAwMC8xMDAwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRp
+ZmY6UmVzb2x1dGlvblVuaXQ+MjwvdGlmZjpSZXNvbHV0aW9uVW5pdD4KICAgICAgICAgPGV4aWY6
+Q29sb3JTcGFjZT42NTUzNTwvZXhpZjpDb2xvclNwYWNlPgogICAgICAgICA8ZXhpZjpQaXhlbFhE
+aW1lbnNpb24+MTEwPC9leGlmOlBpeGVsWERpbWVuc2lvbj4KICAgICAgICAgPGV4aWY6UGl4ZWxZ
+RGltZW5zaW9uPjExMDwvZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0
+aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hw
+YWNrZXQgZW5kPSJ3Ij8+X9Uz0QAAACBjSFJNAAB6JQAAgIMAAPk2AACBSwAAeRcAAPPCAAA8iwAA
+GccD4pQbAAAeOklEQVR42uxde1yN2fr/trvsanezu6ekopJcuqqUy9jaZYpcShx7pBGiwoQYJOPW
+oJGZDiecOjnmMJlh0mEMijFyNyQql1JJRTelQrv2+v3h7PfX1ru77m54Pp8+vfu9rLXe9X3Xeq5r
+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
+2jBpSAAAAABJRU5ErkJggg==
+"
+     id="image3749"
+     x="131.55415"
+     y="707.04822"
+     style="opacity:0.1679049" />
+  <g
+     id="g2441"
+     transform="translate(50,50)">
+    <text
+       x="6"
+       y="117.09333"
+       text-anchor="start"
+       id="text2223"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2221">Africa</tspan></text>
+    <text
+       x="313.33334"
+       y="39.866665"
+       text-anchor="start"
+       id="text2227"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2225">Africa centro meridionale</tspan></text>
+    <text
+       x="313.33334"
+       y="89.057777"
+       text-anchor="start"
+       id="text2231"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2229">Africa occidentale</tspan></text>
+    <text
+       x="313.33334"
+       y="142.62222"
+       text-anchor="start"
+       id="text2235"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2233">Africa orientale</tspan></text>
+    <text
+       x="313.33334"
+       y="184.52444"
+       text-anchor="start"
+       id="text2239"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2237">Africa settentrionale</tspan></text>
+    <text
+       x="6"
+       y="275.61777"
+       text-anchor="start"
+       id="text2243"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2241">America</tspan></text>
+    <text
+       x="313.33334"
+       y="264.32889"
+       text-anchor="start"
+       id="text2247"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2245">America centro meridionale</tspan></text>
+    <text
+       x="313.33334"
+       y="339.76001"
+       text-anchor="start"
+       id="text2251"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2249">America settentrionale</tspan></text>
+    <text
+       x="6"
+       y="419.56445"
+       text-anchor="start"
+       id="text2255"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2253">Asia</tspan></text>
+    <text
+       x="313.33334"
+       y="370"
+       text-anchor="start"
+       id="text2259"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2257">Asia centro meridionale</tspan></text>
+    <text
+       x="313.33334"
+       y="417.73334"
+       text-anchor="start"
+       id="text2263"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2261">Asia occidentale</tspan></text>
+    <text
+       x="313.33334"
+       y="471.29779"
+       text-anchor="start"
+       id="text2267"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2265">Asia orientale</tspan></text>
+    <text
+       x="6"
+       y="569.34222"
+       text-anchor="start"
+       id="text2271"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2269">Europa</tspan></text>
+    <text
+       x="313.33334"
+       y="521.94666"
+       text-anchor="start"
+       id="text2275"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2273">Altri Paesi Europei</tspan></text>
+    <text
+       x="313.33334"
+       y="563.84888"
+       text-anchor="start"
+       id="text2279"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2277">Europa centro orientale</tspan></text>
+    <text
+       x="313.33334"
+       y="623.24445"
+       text-anchor="start"
+       id="text2283"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2281">Unione europea</tspan></text>
+    <text
+       x="6"
+       y="678.30225"
+       text-anchor="start"
+       id="text2287"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2285">Oceania</tspan></text>
+    <text
+       x="313.33334"
+       y="694.30225"
+       text-anchor="start"
+       id="text2291"><tspan
+         alignment-baseline="middle"
+         x="313.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2289">Oceania</tspan></text>
+    <text
+       x="610.66669"
+       y="85.431114"
+       text-anchor="end"
+       id="text2295"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2293">Sub-Saharan Africa</tspan></text>
+    <text
+       x="610.66669"
+       y="172.52444"
+       text-anchor="end"
+       id="text2299"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2297">Northern Africa</tspan></text>
+    <text
+       x="610.66669"
+       y="252.32889"
+       text-anchor="end"
+       id="text2303"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2301">Latin America and the Caribbean</tspan></text>
+    <text
+       x="610.66669"
+       y="327.76001"
+       text-anchor="end"
+       id="text2307"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2305">Northern America</tspan></text>
+    <text
+       x="610.66669"
+       y="350.71112"
+       text-anchor="end"
+       id="text2311"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2309">Southern Asia</tspan></text>
+    <text
+       x="610.66669"
+       y="373.66223"
+       text-anchor="end"
+       id="text2315"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2313">Central Asia</tspan></text>
+    <text
+       x="610.66669"
+       y="411.1911"
+       text-anchor="end"
+       id="text2319"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2317">Western Asia</tspan></text>
+    <text
+       x="610.66669"
+       y="457.46667"
+       text-anchor="end"
+       id="text2323"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2321">South-eastern Asia</tspan></text>
+    <text
+       x="610.66669"
+       y="486.2489"
+       text-anchor="end"
+       id="text2327"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2325">Eastern Asia</tspan></text>
+    <text
+       x="610.66669"
+       y="535.44"
+       text-anchor="end"
+       id="text2331"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2329">Europeans out of EU</tspan></text>
+    <text
+       x="610.66669"
+       y="615.24445"
+       text-anchor="end"
+       id="text2335"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2333">EU-27</tspan></text>
+    <text
+       x="610.66669"
+       y="661.52002"
+       text-anchor="end"
+       id="text2339"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2337">Australia and New Zealand</tspan></text>
+    <text
+       x="610.66669"
+       y="675.72443"
+       text-anchor="end"
+       id="text2343"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2341">Melanesia</tspan></text>
+    <text
+       x="610.66669"
+       y="697.21777"
+       text-anchor="end"
+       id="text2347"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2345">Polinesia</tspan></text>
+    <text
+       x="610.66669"
+       y="718.71112"
+       text-anchor="end"
+       id="text2351"><tspan
+         alignment-baseline="middle"
+         x="610.66669"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2349">Micronesia</tspan></text>
+    <text
+       x="918"
+       y="11.662222"
+       text-anchor="end"
+       id="text2355"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2353">Middle Africa</tspan></text>
+    <text
+       x="918"
+       y="33.155556"
+       text-anchor="end"
+       id="text2359"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2357">Southern Africa</tspan></text>
+    <text
+       x="918"
+       y="72.14222"
+       text-anchor="end"
+       id="text2363"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2361">Eastern Africa</tspan></text>
+    <text
+       x="918"
+       y="130.08"
+       text-anchor="end"
+       id="text2367"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2365">Western Africa</tspan></text>
+    <text
+       x="918"
+       y="170.52444"
+       text-anchor="end"
+       id="text2371"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2369">Northern Africa</tspan></text>
+    <text
+       x="918"
+       y="219.71556"
+       text-anchor="end"
+       id="text2375"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2373">Caribbean</tspan></text>
+    <text
+       x="918"
+       y="276.19556"
+       text-anchor="end"
+       id="text2379"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2377">South America</tspan></text>
+    <text
+       x="918"
+       y="310.8089"
+       text-anchor="end"
+       id="text2383"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2381">Central America</tspan></text>
+    <text
+       x="918"
+       y="333.76001"
+       text-anchor="end"
+       id="text2387"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2385">Northern America</tspan></text>
+    <text
+       x="918"
+       y="356.71112"
+       text-anchor="end"
+       id="text2391"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2389">Southern Asia</tspan></text>
+    <text
+       x="918"
+       y="379.66223"
+       text-anchor="end"
+       id="text2395"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2393">Central Asia</tspan></text>
+    <text
+       x="918"
+       y="418.6489"
+       text-anchor="end"
+       id="text2399"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2397">Western Asia</tspan></text>
+    <text
+       x="918"
+       y="466.38223"
+       text-anchor="end"
+       id="text2403"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2401">South-eastern Asia</tspan></text>
+    <text
+       x="918"
+       y="495.16446"
+       text-anchor="end"
+       id="text2407"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2405">Eastern Asia</tspan></text>
+    <text
+       x="918"
+       y="532.69336"
+       text-anchor="end"
+       id="text2411"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2409">Southern Europe</tspan></text>
+    <text
+       x="918"
+       y="581.88446"
+       text-anchor="end"
+       id="text2415"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2413">Northern Europe</tspan></text>
+    <text
+       x="918"
+       y="623.78668"
+       text-anchor="end"
+       id="text2419"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2417">Western Europe</tspan></text>
+    <text
+       x="918"
+       y="656.9422"
+       text-anchor="end"
+       id="text2423"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2421">Eastern Europe</tspan></text>
+    <text
+       x="918"
+       y="675.52002"
+       text-anchor="end"
+       id="text2427"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2425">Australia and New Zealand</tspan></text>
+    <text
+       x="918"
+       y="689.72443"
+       text-anchor="end"
+       id="text2431"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2429">Melanesia</tspan></text>
+    <text
+       x="918"
+       y="711.21777"
+       text-anchor="end"
+       id="text2435"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2433">Polinesia</tspan></text>
+    <text
+       x="918"
+       y="732.71112"
+       text-anchor="end"
+       id="text2439"><tspan
+         alignment-baseline="middle"
+         x="918"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan2437">Micronesia</tspan></text>
+  </g>
+  <text
+     x="79"
+     y="62"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+     id="text2443">Continenti ISO 3166</text>
+  <text
+     x="358.33334"
+     y="46"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+     id="text2445">Area ISO 3166</text>
+  <text
+     x="665.66669"
+     y="42"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+     id="text2447">Sub-region (UNSD)</text>
+  <text
+     x="921"
+     y="28"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+     id="text2449">Intermediate Region (UNSD)</text>
+</svg>

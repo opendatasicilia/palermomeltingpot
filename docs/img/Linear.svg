@@ -1,0 +1,3920 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1200"
+   height="1200"
+   version="1.1"
+   id="svg2178"
+   sodipodi:docname="Linear.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2182" />
+  <sodipodi:namedview
+     id="namedview2180"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.69585742"
+     inkscape:cx="929.78817"
+     inkscape:cy="897.45396"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2178" />
+  <g
+     id="links"
+     transform="translate(10,50)">
+    <path
+       d="m 0,659.16031 c 168.33333,0 168.33333,-432.44275 336.66667,-432.44275"
+       fill="none"
+       stroke="#cccccc"
+       id="path825" />
+    <path
+       d="m 0,659.16031 c 168.33333,0 168.33333,-186.83207 336.66667,-186.83207"
+       fill="none"
+       stroke="#cccccc"
+       id="path827" />
+    <path
+       d="m 0,659.16031 c 168.33333,0 168.33333,-20.99237 336.66667,-20.99237"
+       fill="none"
+       stroke="#cccccc"
+       id="path829" />
+    <path
+       d="m 0,659.16031 c 168.33333,0 168.33333,228.81679 336.66667,228.81679"
+       fill="none"
+       stroke="#cccccc"
+       id="path831" />
+    <path
+       d="m 0,659.16031 c 168.33333,0 168.33333,432.44279 336.66667,432.44279"
+       fill="none"
+       stroke="#cccccc"
+       id="path833" />
+    <path
+       d="M 336.66667,226.71756 C 505,226.71756 505,142.74809 673.33333,142.74809"
+       fill="none"
+       stroke="#cccccc"
+       id="path835" />
+    <path
+       d="M 336.66667,226.71756 C 505,226.71756 505,310.68702 673.33333,310.68702"
+       fill="none"
+       stroke="#cccccc"
+       id="path837" />
+    <path
+       d="M 336.66667,472.32824 C 505,472.32824 505,424.0458 673.33333,424.0458"
+       fill="none"
+       stroke="#cccccc"
+       id="path839" />
+    <path
+       d="M 336.66667,472.32824 C 505,472.32824 505,520.61069 673.33333,520.61069"
+       fill="none"
+       stroke="#cccccc"
+       id="path841" />
+    <path
+       d="M 336.66667,638.16794 C 505,638.16794 505,554.19847 673.33333,554.19847"
+       fill="none"
+       stroke="#cccccc"
+       id="path843" />
+    <path
+       d="M 336.66667,638.16794 C 505,638.16794 505,583.58779 673.33333,583.58779"
+       fill="none"
+       stroke="#cccccc"
+       id="path845" />
+    <path
+       d="M 336.66667,638.16794 C 505,638.16794 505,625.57252 673.33333,625.57252"
+       fill="none"
+       stroke="#cccccc"
+       id="path847" />
+    <path
+       d="M 336.66667,638.16794 C 505,638.16794 505,680.15267 673.33333,680.15267"
+       fill="none"
+       stroke="#cccccc"
+       id="path849" />
+    <path
+       d="M 336.66667,638.16794 C 505,638.16794 505,722.1374 673.33333,722.1374"
+       fill="none"
+       stroke="#cccccc"
+       id="path851" />
+    <path
+       d="M 336.66667,887.9771 C 505,887.9771 505,801.9084 673.33333,801.9084"
+       fill="none"
+       stroke="#cccccc"
+       id="path853" />
+    <path
+       d="M 336.66667,887.9771 C 505,887.9771 505,860.68702 673.33333,860.68702"
+       fill="none"
+       stroke="#cccccc"
+       id="path855" />
+    <path
+       d="M 336.66667,887.9771 C 505,887.9771 505,974.0458 673.33333,974.0458"
+       fill="none"
+       stroke="#cccccc"
+       id="path857" />
+    <path
+       d="m 336.66667,1091.6031 c 168.33333,0 168.33333,0 336.66666,0"
+       fill="none"
+       stroke="#cccccc"
+       id="path859" />
+    <path
+       d="M 673.33333,142.74809 C 841.66667,142.74809 841.66667,4.1984733 1010,4.1984733"
+       fill="none"
+       stroke="#cccccc"
+       id="path861" />
+    <path
+       d="M 673.33333,142.74809 C 841.66667,142.74809 841.66667,12.59542 1010,12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path863" />
+    <path
+       d="M 673.33333,142.74809 C 841.66667,142.74809 841.66667,20.992366 1010,20.992366"
+       fill="none"
+       stroke="#cccccc"
+       id="path865" />
+    <path
+       d="M 673.33333,142.74809 C 841.66667,142.74809 841.66667,29.389313 1010,29.389313"
+       fill="none"
+       stroke="#cccccc"
+       id="path867" />
+    <path
+       d="M 673.33333,142.74809 C 841.66667,142.74809 841.66667,37.78626 1010,37.78626"
+       fill="none"
+       stroke="#cccccc"
+       id="path869" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-96.564884 336.66667,-96.564884"
+       fill="none"
+       stroke="#cccccc"
+       id="path871" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-88.167937 336.66667,-88.167937"
+       fill="none"
+       stroke="#cccccc"
+       id="path873" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-79.770991 336.66667,-79.770991"
+       fill="none"
+       stroke="#cccccc"
+       id="path875" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-71.374044 336.66667,-71.374044"
+       fill="none"
+       stroke="#cccccc"
+       id="path877" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-62.977098 336.66667,-62.977098"
+       fill="none"
+       stroke="#cccccc"
+       id="path879" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-54.580151 336.66667,-54.580151"
+       fill="none"
+       stroke="#cccccc"
+       id="path881" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-46.183205 336.66667,-46.183205"
+       fill="none"
+       stroke="#cccccc"
+       id="path883" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-37.78626 336.66667,-37.78626"
+       fill="none"
+       stroke="#cccccc"
+       id="path885" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-29.38931 336.66667,-29.38931"
+       fill="none"
+       stroke="#cccccc"
+       id="path887" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-20.99236 336.66667,-20.99236"
+       fill="none"
+       stroke="#cccccc"
+       id="path889" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-12.59542 336.66667,-12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path891" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,-4.19847 336.66667,-4.19847"
+       fill="none"
+       stroke="#cccccc"
+       id="path893" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,4.19847 336.66667,4.19847"
+       fill="none"
+       stroke="#cccccc"
+       id="path895" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,12.59542 336.66667,12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path897" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,20.99237 336.66667,20.99237"
+       fill="none"
+       stroke="#cccccc"
+       id="path899" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,29.38931 336.66667,29.38931"
+       fill="none"
+       stroke="#cccccc"
+       id="path901" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,37.78626 336.66667,37.78626"
+       fill="none"
+       stroke="#cccccc"
+       id="path903" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,46.18321 336.66667,46.18321"
+       fill="none"
+       stroke="#cccccc"
+       id="path905" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,54.58015 336.66667,54.58015"
+       fill="none"
+       stroke="#cccccc"
+       id="path907" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,62.9771 336.66667,62.9771"
+       fill="none"
+       stroke="#cccccc"
+       id="path909" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,71.37405 336.66667,71.37405"
+       fill="none"
+       stroke="#cccccc"
+       id="path911" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,79.77099 336.66667,79.77099"
+       fill="none"
+       stroke="#cccccc"
+       id="path913" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,88.16794 336.66667,88.16794"
+       fill="none"
+       stroke="#cccccc"
+       id="path915" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,96.56489 336.66667,96.56489"
+       fill="none"
+       stroke="#cccccc"
+       id="path917" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,104.96183 336.66667,104.96183"
+       fill="none"
+       stroke="#cccccc"
+       id="path919" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,113.35878 336.66667,113.35878"
+       fill="none"
+       stroke="#cccccc"
+       id="path921" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,121.75573 336.66667,121.75573"
+       fill="none"
+       stroke="#cccccc"
+       id="path923" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,130.15267 336.66667,130.15267"
+       fill="none"
+       stroke="#cccccc"
+       id="path925" />
+    <path
+       d="m 673.33333,142.74809 c 168.33334,0 168.33334,138.54962 336.66667,138.54962"
+       fill="none"
+       stroke="#cccccc"
+       id="path927" />
+    <path
+       d="m 673.33333,310.68702 c 168.33334,0 168.33334,-20.99236 336.66667,-20.99236"
+       fill="none"
+       stroke="#cccccc"
+       id="path929" />
+    <path
+       d="m 673.33333,310.68702 c 168.33334,0 168.33334,-12.59542 336.66667,-12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path931" />
+    <path
+       d="m 673.33333,310.68702 c 168.33334,0 168.33334,-4.19847 336.66667,-4.19847"
+       fill="none"
+       stroke="#cccccc"
+       id="path933" />
+    <path
+       d="m 673.33333,310.68702 c 168.33334,0 168.33334,4.19848 336.66667,4.19848"
+       fill="none"
+       stroke="#cccccc"
+       id="path935" />
+    <path
+       d="m 673.33333,310.68702 c 168.33334,0 168.33334,12.59542 336.66667,12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path937" />
+    <path
+       d="m 673.33333,310.68702 c 168.33334,0 168.33334,20.99237 336.66667,20.99237"
+       fill="none"
+       stroke="#cccccc"
+       id="path939" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-83.96946 336.66667,-83.96946"
+       fill="none"
+       stroke="#cccccc"
+       id="path941" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-75.57252 336.66667,-75.57252"
+       fill="none"
+       stroke="#cccccc"
+       id="path943" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-67.17557 336.66667,-67.17557"
+       fill="none"
+       stroke="#cccccc"
+       id="path945" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-58.77862 336.66667,-58.77862"
+       fill="none"
+       stroke="#cccccc"
+       id="path947" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-50.38168 336.66667,-50.38168"
+       fill="none"
+       stroke="#cccccc"
+       id="path949" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-41.98473 336.66667,-41.98473"
+       fill="none"
+       stroke="#cccccc"
+       id="path951" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-33.58778 336.66667,-33.58778"
+       fill="none"
+       stroke="#cccccc"
+       id="path953" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-25.19084 336.66667,-25.19084"
+       fill="none"
+       stroke="#cccccc"
+       id="path955" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-16.79389 336.66667,-16.79389"
+       fill="none"
+       stroke="#cccccc"
+       id="path957" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,-8.39695 336.66667,-8.39695"
+       fill="none"
+       stroke="#cccccc"
+       id="path959" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,0 336.66667,0"
+       fill="none"
+       stroke="#cccccc"
+       id="path961" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,8.39695 336.66667,8.39695"
+       fill="none"
+       stroke="#cccccc"
+       id="path963" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,16.79389 336.66667,16.79389"
+       fill="none"
+       stroke="#cccccc"
+       id="path965" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,25.19084 336.66667,25.19084"
+       fill="none"
+       stroke="#cccccc"
+       id="path967" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,33.58779 336.66667,33.58779"
+       fill="none"
+       stroke="#cccccc"
+       id="path969" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,41.98473 336.66667,41.98473"
+       fill="none"
+       stroke="#cccccc"
+       id="path971" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,50.38168 336.66667,50.38168"
+       fill="none"
+       stroke="#cccccc"
+       id="path973" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,58.77863 336.66667,58.77863"
+       fill="none"
+       stroke="#cccccc"
+       id="path975" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,67.17557 336.66667,67.17557"
+       fill="none"
+       stroke="#cccccc"
+       id="path977" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,75.57252 336.66667,75.57252"
+       fill="none"
+       stroke="#cccccc"
+       id="path979" />
+    <path
+       d="m 673.33333,424.0458 c 168.33334,0 168.33334,83.96947 336.66667,83.96947"
+       fill="none"
+       stroke="#cccccc"
+       id="path981" />
+    <path
+       d="m 673.33333,520.61069 c 168.33334,0 168.33334,-4.19848 336.66667,-4.19848"
+       fill="none"
+       stroke="#cccccc"
+       id="path983" />
+    <path
+       d="m 673.33333,520.61069 c 168.33334,0 168.33334,4.19847 336.66667,4.19847"
+       fill="none"
+       stroke="#cccccc"
+       id="path985" />
+    <path
+       d="m 673.33333,554.19847 c 168.33334,0 168.33334,-20.99236 336.66667,-20.99236"
+       fill="none"
+       stroke="#cccccc"
+       id="path987" />
+    <path
+       d="m 673.33333,554.19847 c 168.33334,0 168.33334,-12.59542 336.66667,-12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path989" />
+    <path
+       d="M 673.33333,554.19847 C 841.66667,554.19847 841.66667,550 1010,550"
+       fill="none"
+       stroke="#cccccc"
+       id="path991" />
+    <path
+       d="m 673.33333,554.19847 c 168.33334,0 168.33334,4.19848 336.66667,4.19848"
+       fill="none"
+       stroke="#cccccc"
+       id="path993" />
+    <path
+       d="m 673.33333,554.19847 c 168.33334,0 168.33334,12.59542 336.66667,12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path995" />
+    <path
+       d="m 673.33333,554.19847 c 168.33334,0 168.33334,20.99237 336.66667,20.99237"
+       fill="none"
+       stroke="#cccccc"
+       id="path997" />
+    <path
+       d="m 673.33333,583.58779 c 168.33334,0 168.33334,0 336.66667,0"
+       fill="none"
+       stroke="#cccccc"
+       id="path999" />
+    <path
+       d="m 673.33333,625.57252 c 168.33334,0 168.33334,-33.58779 336.66667,-33.58779"
+       fill="none"
+       stroke="#cccccc"
+       id="path1001" />
+    <path
+       d="m 673.33333,625.57252 c 168.33334,0 168.33334,-25.19084 336.66667,-25.19084"
+       fill="none"
+       stroke="#cccccc"
+       id="path1003" />
+    <path
+       d="m 673.33333,625.57252 c 168.33334,0 168.33334,-16.79389 336.66667,-16.79389"
+       fill="none"
+       stroke="#cccccc"
+       id="path1005" />
+    <path
+       d="m 673.33333,625.57252 c 168.33334,0 168.33334,-8.39695 336.66667,-8.39695"
+       fill="none"
+       stroke="#cccccc"
+       id="path1007" />
+    <path
+       d="m 673.33333,625.57252 c 168.33334,0 168.33334,0 336.66667,0"
+       fill="none"
+       stroke="#cccccc"
+       id="path1009" />
+    <path
+       d="m 673.33333,625.57252 c 168.33334,0 168.33334,8.39695 336.66667,8.39695"
+       fill="none"
+       stroke="#cccccc"
+       id="path1011" />
+    <path
+       d="m 673.33333,625.57252 c 168.33334,0 168.33334,16.79389 336.66667,16.79389"
+       fill="none"
+       stroke="#cccccc"
+       id="path1013" />
+    <path
+       d="m 673.33333,625.57252 c 168.33334,0 168.33334,25.19084 336.66667,25.19084"
+       fill="none"
+       stroke="#cccccc"
+       id="path1015" />
+    <path
+       d="m 673.33333,625.57252 c 168.33334,0 168.33334,33.58779 336.66667,33.58779"
+       fill="none"
+       stroke="#cccccc"
+       id="path1017" />
+    <path
+       d="m 673.33333,680.15267 c 168.33334,0 168.33334,-12.59542 336.66667,-12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path1019" />
+    <path
+       d="m 673.33333,680.15267 c 168.33334,0 168.33334,-4.19847 336.66667,-4.19847"
+       fill="none"
+       stroke="#cccccc"
+       id="path1021" />
+    <path
+       d="m 673.33333,680.15267 c 168.33334,0 168.33334,4.19848 336.66667,4.19848"
+       fill="none"
+       stroke="#cccccc"
+       id="path1023" />
+    <path
+       d="m 673.33333,680.15267 c 168.33334,0 168.33334,12.59542 336.66667,12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path1025" />
+    <path
+       d="m 673.33333,722.1374 c 168.33334,0 168.33334,-20.99236 336.66667,-20.99236"
+       fill="none"
+       stroke="#cccccc"
+       id="path1027" />
+    <path
+       d="m 673.33333,722.1374 c 168.33334,0 168.33334,-12.59542 336.66667,-12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path1029" />
+    <path
+       d="m 673.33333,722.1374 c 168.33334,0 168.33334,-4.19847 336.66667,-4.19847"
+       fill="none"
+       stroke="#cccccc"
+       id="path1031" />
+    <path
+       d="m 673.33333,722.1374 c 168.33334,0 168.33334,4.19848 336.66667,4.19848"
+       fill="none"
+       stroke="#cccccc"
+       id="path1033" />
+    <path
+       d="m 673.33333,722.1374 c 168.33334,0 168.33334,12.59542 336.66667,12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path1035" />
+    <path
+       d="m 673.33333,722.1374 c 168.33334,0 168.33334,20.99237 336.66667,20.99237"
+       fill="none"
+       stroke="#cccccc"
+       id="path1037" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,-50.38168 336.66667,-50.38168"
+       fill="none"
+       stroke="#cccccc"
+       id="path1039" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,-41.98474 336.66667,-41.98474"
+       fill="none"
+       stroke="#cccccc"
+       id="path1041" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,-33.58779 336.66667,-33.58779"
+       fill="none"
+       stroke="#cccccc"
+       id="path1043" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,-25.19084 336.66667,-25.19084"
+       fill="none"
+       stroke="#cccccc"
+       id="path1045" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,-16.7939 336.66667,-16.7939"
+       fill="none"
+       stroke="#cccccc"
+       id="path1047" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,-8.39695 336.66667,-8.39695"
+       fill="none"
+       stroke="#cccccc"
+       id="path1049" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,0 336.66667,0"
+       fill="none"
+       stroke="#cccccc"
+       id="path1051" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,8.39694 336.66667,8.39694"
+       fill="none"
+       stroke="#cccccc"
+       id="path1053" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,16.79389 336.66667,16.79389"
+       fill="none"
+       stroke="#cccccc"
+       id="path1055" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,25.19084 336.66667,25.19084"
+       fill="none"
+       stroke="#cccccc"
+       id="path1057" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,33.58778 336.66667,33.58778"
+       fill="none"
+       stroke="#cccccc"
+       id="path1059" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,41.98473 336.66667,41.98473"
+       fill="none"
+       stroke="#cccccc"
+       id="path1061" />
+    <path
+       d="m 673.33333,801.9084 c 168.33334,0 168.33334,50.38168 336.66667,50.38168"
+       fill="none"
+       stroke="#cccccc"
+       id="path1063" />
+    <path
+       d="m 673.33333,860.68702 c 168.33334,0 168.33334,0 336.66667,0"
+       fill="none"
+       stroke="#cccccc"
+       id="path1065" />
+    <path
+       d="M 673.33333,974.0458 C 841.66667,974.0458 841.66667,869.08397 1010,869.08397"
+       fill="none"
+       stroke="#cccccc"
+       id="path1067" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-96.56488 336.66667,-96.56488"
+       fill="none"
+       stroke="#cccccc"
+       id="path1069" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-88.16794 336.66667,-88.16794"
+       fill="none"
+       stroke="#cccccc"
+       id="path1071" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-79.77099 336.66667,-79.77099"
+       fill="none"
+       stroke="#cccccc"
+       id="path1073" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-71.37404 336.66667,-71.37404"
+       fill="none"
+       stroke="#cccccc"
+       id="path1075" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-62.9771 336.66667,-62.9771"
+       fill="none"
+       stroke="#cccccc"
+       id="path1077" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-54.58015 336.66667,-54.58015"
+       fill="none"
+       stroke="#cccccc"
+       id="path1079" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-46.1832 336.66667,-46.1832"
+       fill="none"
+       stroke="#cccccc"
+       id="path1081" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-37.78626 336.66667,-37.78626"
+       fill="none"
+       stroke="#cccccc"
+       id="path1083" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-29.38931 336.66667,-29.38931"
+       fill="none"
+       stroke="#cccccc"
+       id="path1085" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-20.99236 336.66667,-20.99236"
+       fill="none"
+       stroke="#cccccc"
+       id="path1087" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-12.59542 336.66667,-12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path1089" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,-4.19847 336.66667,-4.19847"
+       fill="none"
+       stroke="#cccccc"
+       id="path1091" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,4.19847 336.66667,4.19847"
+       fill="none"
+       stroke="#cccccc"
+       id="path1093" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,12.59542 336.66667,12.59542"
+       fill="none"
+       stroke="#cccccc"
+       id="path1095" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,20.99237 336.66667,20.99237"
+       fill="none"
+       stroke="#cccccc"
+       id="path1097" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,29.3893 336.66667,29.3893"
+       fill="none"
+       stroke="#cccccc"
+       id="path1099" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,37.7863 336.66667,37.7863"
+       fill="none"
+       stroke="#cccccc"
+       id="path1101" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,46.1832 336.66667,46.1832"
+       fill="none"
+       stroke="#cccccc"
+       id="path1103" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,54.5802 336.66667,54.5802"
+       fill="none"
+       stroke="#cccccc"
+       id="path1105" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,62.9771 336.66667,62.9771"
+       fill="none"
+       stroke="#cccccc"
+       id="path1107" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,71.374 336.66667,71.374"
+       fill="none"
+       stroke="#cccccc"
+       id="path1109" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,79.771 336.66667,79.771"
+       fill="none"
+       stroke="#cccccc"
+       id="path1111" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,88.1679 336.66667,88.1679"
+       fill="none"
+       stroke="#cccccc"
+       id="path1113" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,96.5649 336.66667,96.5649"
+       fill="none"
+       stroke="#cccccc"
+       id="path1115" />
+    <path
+       d="m 673.33333,974.0458 c 168.33334,0 168.33334,104.9618 336.66667,104.9618"
+       fill="none"
+       stroke="#cccccc"
+       id="path1117" />
+    <path
+       d="m 673.33333,1091.6031 c 168.33334,0 168.33334,-4.1985 336.66667,-4.1985"
+       fill="none"
+       stroke="#cccccc"
+       id="path1119" />
+    <path
+       d="m 673.33333,1091.6031 c 168.33334,0 168.33334,4.1984 336.66667,4.1984"
+       fill="none"
+       stroke="#cccccc"
+       id="path1121" />
+  </g>
+  <g
+     transform="translate(10,709.16031)"
+     id="g1130">
+    <circle
+       fill="#cccccc"
+       r="34.336571"
+       id="circle1124"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       id="text1128"><tspan
+         x="-36.336571"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1126" /></text>
+  </g>
+  <g
+     id="Africa"
+     transform="translate(346.66667,276.71756)">
+    <circle
+       fill="#9e0142"
+       r="18.973665"
+       id="circle1132"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1136"><tspan
+         x="-20.973665"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1134">Africa</tspan></text>
+  </g>
+  <g
+     id="America"
+     transform="translate(346.66667,522.32824)">
+    <circle
+       fill="#f88e53"
+       r="14.387495"
+       id="circle1139"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1143"><tspan
+         x="-16.387495"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1141">America</tspan></text>
+  </g>
+  <g
+     id="Asia"
+     transform="translate(346.66667,688.16794)">
+    <circle
+       fill="#fbf8b0"
+       r="15.297058"
+       id="circle1146"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1150"><tspan
+         x="-17.297058"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1148">Asia</tspan></text>
+  </g>
+  <g
+     id="Europa"
+     transform="translate(346.66667,937.9771)">
+    <circle
+       fill="#89cfa5"
+       r="18.973665"
+       id="circle1153"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1157"><tspan
+         x="-20.973665"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1155">Europa</tspan></text>
+  </g>
+  <g
+     id="Oceania"
+     transform="translate(346.66667,1141.6031)">
+    <circle
+       fill="#5e4fa2"
+       r="4.2426405"
+       id="circle1160"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1164"><tspan
+         x="-6.2426405"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1162">Oceania</tspan></text>
+  </g>
+  <g
+     id="Sub-Saharan Africa"
+     transform="translate(683.33333,192.74809)">
+    <circle
+       fill="#9e0142"
+       r="17.492855"
+       id="circle1167"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1171"><tspan
+         x="-19.492855"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1169">Sub-Saharan Africa</tspan></text>
+  </g>
+  <g
+     id="Northern Africa"
+     transform="translate(683.33333,360.68702)">
+    <circle
+       fill="#9e0142"
+       r="7.3484693"
+       id="circle1174"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1178"><tspan
+         x="-9.3484688"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1176">Northern Africa</tspan></text>
+  </g>
+  <g
+     id="Latin America and the Caribbean"
+     transform="translate(683.33333,474.0458)">
+    <circle
+       fill="#f88e53"
+       r="13.747727"
+       id="circle1181"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1185"><tspan
+         x="-15.747727"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1183">Latin America and the Caribbean</tspan></text>
+  </g>
+  <g
+     id="Northern America"
+     transform="translate(683.33333,570.61069)">
+    <circle
+       fill="#f88e53"
+       r="4.2426405"
+       id="circle1188"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1192"><tspan
+         x="-6.2426405"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1190">Northern America</tspan></text>
+  </g>
+  <g
+     id="Southern Asia"
+     transform="translate(683.33333,604.19847)">
+    <circle
+       fill="#fbf8b0"
+       r="7.3484693"
+       id="circle1195"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1199"><tspan
+         x="-9.3484688"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1197">Southern Asia</tspan></text>
+  </g>
+  <g
+     id="Central Asia"
+     transform="translate(683.33333,633.58779)">
+    <circle
+       fill="#fbf8b0"
+       r="3"
+       id="circle1202"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1206"><tspan
+         x="-5"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1204">Central Asia</tspan></text>
+  </g>
+  <g
+     id="Western Asia"
+     transform="translate(683.33333,675.57252)">
+    <circle
+       fill="#fbf8b0"
+       r="9"
+       id="circle1209"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1213"><tspan
+         x="-11"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1211">Western Asia</tspan></text>
+  </g>
+  <g
+     id="Eastern Asia"
+     transform="translate(683.33333,730.15267)">
+    <circle
+       fill="#fbf8b0"
+       r="6"
+       id="circle1216"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1220"><tspan
+         x="-8"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1218">Eastern Asia</tspan></text>
+  </g>
+  <g
+     id="South-eastern Asia"
+     transform="translate(683.33333,772.1374)">
+    <circle
+       fill="#fbf8b0"
+       r="7.3484693"
+       id="circle1223"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1227"><tspan
+         x="-9.3484688"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1225">South-eastern Asia</tspan></text>
+  </g>
+  <g
+     id="Europeans out of EU"
+     transform="translate(683.33333,851.9084)">
+    <circle
+       fill="#89cfa5"
+       r="10.816654"
+       id="circle1230"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1234"><tspan
+         x="-12.816654"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1232">Europeans out of EU</tspan></text>
+  </g>
+  <g
+     id="g1243"
+     transform="translate(683.33333,910.68702)">
+    <circle
+       fill="#89cfa5"
+       r="3"
+       id="circle1237"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1241"><tspan
+         x="-5"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1239">Western Asia</tspan></text>
+  </g>
+  <g
+     id="EU-27"
+     transform="translate(683.33333,1024.0458)">
+    <circle
+       fill="#89cfa5"
+       r="15.297058"
+       id="circle1245"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1249"><tspan
+         x="-17.297058"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1247">EU-27</tspan></text>
+  </g>
+  <g
+     id="Australia and New Zealand"
+     transform="translate(683.33333,1141.6031)">
+    <circle
+       fill="#5e4fa2"
+       r="4.2426405"
+       id="circle1252"
+       cx="0"
+       cy="0" />
+    <text
+       text-anchor="end"
+       dominant-baseline="text-before-edge"
+       transform="translate(0,-5.5)"
+       id="text1256"><tspan
+         x="-6.2426405"
+         y="0"
+         dy="0"
+         style="font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1254">Australia and New Zealand</tspan></text>
+  </g>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1259"
+     cx="1020"
+     cy="54.198475" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1263"
+     x="1020"
+     y="50.698475"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="50.698475"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1261">Camerun</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1266"
+     cx="1020"
+     cy="62.595421" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1270"
+     x="1020"
+     y="59.095421"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="59.095421"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1268">Ciad</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1273"
+     cx="1020"
+     cy="70.992363" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1277"
+     x="1020"
+     y="67.492363"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="67.492363"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1275">Congo</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1280"
+     cx="1020"
+     cy="79.389313" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1284"
+     x="1020"
+     y="75.889313"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="75.889313"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1282">Gabon</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1287"
+     cx="1020"
+     cy="87.786263" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1291"
+     x="1020"
+     y="84.286263"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="84.286263"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1289">Guinea equatoriale</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1294"
+     cx="1020"
+     cy="96.183205" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1298"
+     x="1020"
+     y="92.683205"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="92.683205"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1296">Repubblica Democratica del Congo</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1301"
+     cx="1020"
+     cy="104.58015" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1305"
+     x="1020"
+     y="101.08015"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="101.08015"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1303">Benin</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1308"
+     cx="1020"
+     cy="112.9771" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1312"
+     x="1020"
+     y="109.4771"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="109.4771"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1310">Burkina Faso</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1315"
+     cx="1020"
+     cy="121.37405" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1319"
+     x="1020"
+     y="117.87405"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="117.87405"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1317">Capo Verde</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1322"
+     cx="1020"
+     cy="129.771" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1326"
+     x="1020"
+     y="126.27099"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="126.27099"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1324">Costa d'Avorio</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1329"
+     cx="1020"
+     cy="138.16794" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1333"
+     x="1020"
+     y="134.66794"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="134.66794"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1331">Gambia</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1336"
+     cx="1020"
+     cy="146.56488" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1340"
+     x="1020"
+     y="143.06488"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="143.06488"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1338">Ghana</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1343"
+     cx="1020"
+     cy="154.96182" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1347"
+     x="1020"
+     y="151.46182"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="151.46182"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1345">Guinea</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1350"
+     cx="1020"
+     cy="163.35878" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1354"
+     x="1020"
+     y="159.85878"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="159.85878"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1352">Guinea-Bissau</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1357"
+     cx="1020"
+     cy="171.75574" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1361"
+     x="1020"
+     y="168.25574"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="168.25574"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1359">Liberia</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1364"
+     cx="1020"
+     cy="180.15266" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1368"
+     x="1020"
+     y="176.65266"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="176.65266"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1366">Mali</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1371"
+     cx="1020"
+     cy="188.54962" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1375"
+     x="1020"
+     y="185.04962"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="185.04962"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1373">Mauritania</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1378"
+     cx="1020"
+     cy="196.94656" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1382"
+     x="1020"
+     y="193.44656"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="193.44656"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1380">Niger</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1385"
+     cx="1020"
+     cy="205.34351" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1389"
+     x="1020"
+     y="201.84351"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="201.84351"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1387">Nigeria</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1392"
+     cx="1020"
+     cy="213.74046" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1396"
+     x="1020"
+     y="210.24046"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="210.24046"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1394">Senegal</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1399"
+     cx="1020"
+     cy="222.13741" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1403"
+     x="1020"
+     y="218.63741"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="218.63741"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1401">Sierra Leone</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1406"
+     cx="1020"
+     cy="230.53435" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1410"
+     x="1020"
+     y="227.03435"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="227.03435"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1408">Togo</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1413"
+     cx="1020"
+     cy="238.9313" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1417"
+     x="1020"
+     y="235.4313"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="235.4313"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1415">Burundi</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1420"
+     cx="1020"
+     cy="247.32825" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1424"
+     x="1020"
+     y="243.82825"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="243.82825"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1422">Eritrea</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1427"
+     cx="1020"
+     cy="255.72519" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1431"
+     x="1020"
+     y="252.22519"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="252.22519"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1429">Etiopia</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1434"
+     cx="1020"
+     cy="264.12213" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1438"
+     x="1020"
+     y="260.62213"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="260.62213"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1436">Kenya</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1441"
+     cx="1020"
+     cy="272.51907" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1445"
+     x="1020"
+     y="269.01907"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="269.01907"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1443">Madagascar</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1448"
+     cx="1020"
+     cy="280.91602" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1452"
+     x="1020"
+     y="277.41602"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="277.41602"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1450">Maurizio</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1455"
+     cx="1020"
+     cy="289.31299" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1459"
+     x="1020"
+     y="285.81299"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="285.81299"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1457">Mozambico</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1462"
+     cx="1020"
+     cy="297.70993" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1466"
+     x="1020"
+     y="294.20993"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="294.20993"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1464">Seychelles</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1469"
+     cx="1020"
+     cy="306.10687" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1473"
+     x="1020"
+     y="302.60687"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="302.60687"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1471">Somalia</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1476"
+     cx="1020"
+     cy="314.50381" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1480"
+     x="1020"
+     y="311.00381"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="311.00381"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1478">Tanzania</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1483"
+     cx="1020"
+     cy="322.90076" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1487"
+     x="1020"
+     y="319.40076"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="319.40076"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1485">Uganda</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1490"
+     cx="1020"
+     cy="331.2977" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1494"
+     x="1020"
+     y="327.7977"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="327.7977"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1492">Zambia</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1497"
+     cx="1020"
+     cy="339.69467" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1501"
+     x="1020"
+     y="336.19467"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="336.19467"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1499">Algeria</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1504"
+     cx="1020"
+     cy="348.09161" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1508"
+     x="1020"
+     y="344.59161"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="344.59161"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1506">Egitto</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1511"
+     cx="1020"
+     cy="356.48856" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1515"
+     x="1020"
+     y="352.98856"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="352.98856"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1513">Libia</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1518"
+     cx="1020"
+     cy="364.8855" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1522"
+     x="1020"
+     y="361.3855"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="361.3855"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1520">Marocco</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1525"
+     cx="1020"
+     cy="373.28244" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1529"
+     x="1020"
+     y="369.78244"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="369.78244"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1527">Sudan</tspan></text>
+  <circle
+     fill="#9e0142"
+     r="3"
+     id="circle1532"
+     cx="1020"
+     cy="381.67938" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1536"
+     x="1020"
+     y="378.17938"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="378.17938"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1534">Tunisia</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1539"
+     cx="1020"
+     cy="390.07635" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1543"
+     x="1020"
+     y="386.57635"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="386.57635"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1541">Argentina</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1546"
+     cx="1020"
+     cy="398.47327" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1550"
+     x="1020"
+     y="394.97327"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="394.97327"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1548">Bolivia</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1553"
+     cx="1020"
+     cy="406.87024" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1557"
+     x="1020"
+     y="403.37024"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="403.37024"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1555">Brasile</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1560"
+     cx="1020"
+     cy="415.26718" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1564"
+     x="1020"
+     y="411.76718"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="411.76718"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1562">Cile</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1567"
+     cx="1020"
+     cy="423.66412" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1571"
+     x="1020"
+     y="420.16412"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="420.16412"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1569">Colombia</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1574"
+     cx="1020"
+     cy="432.06107" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1578"
+     x="1020"
+     y="428.56107"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="428.56107"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1576">Cuba</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1581"
+     cx="1020"
+     cy="440.45801" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1585"
+     x="1020"
+     y="436.95801"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="436.95801"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1583">Ecuador</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1588"
+     cx="1020"
+     cy="448.85495" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1592"
+     x="1020"
+     y="445.35495"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="445.35495"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1590">El Salvador</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1595"
+     cx="1020"
+     cy="457.25192" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1599"
+     x="1020"
+     y="453.75192"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="453.75192"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1597">Giamaica</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1602"
+     cx="1020"
+     cy="465.64886" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1606"
+     x="1020"
+     y="462.14886"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="462.14886"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1604">Guatemala</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1609"
+     cx="1020"
+     cy="474.04581" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1613"
+     x="1020"
+     y="470.54581"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="470.54581"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1611">Guyana</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1616"
+     cx="1020"
+     cy="482.44275" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1620"
+     x="1020"
+     y="478.94275"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="478.94275"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1618">Honduras</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1623"
+     cx="1020"
+     cy="490.83969" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1627"
+     x="1020"
+     y="487.33969"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="487.33969"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1625">Messico</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1630"
+     cx="1020"
+     cy="499.23663" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1634"
+     x="1020"
+     y="495.73663"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="495.73663"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1632">Nicaragua</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1637"
+     cx="1020"
+     cy="507.63358" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1641"
+     x="1020"
+     y="504.13358"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="504.13358"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1639">Panama</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1644"
+     cx="1020"
+     cy="516.03052" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1648"
+     x="1020"
+     y="512.53052"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="512.53052"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1646">Paraguay</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1651"
+     cx="1020"
+     cy="524.42749" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1655"
+     x="1020"
+     y="520.92749"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="520.92749"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1653">Perù</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1658"
+     cx="1020"
+     cy="532.8244" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1662"
+     x="1020"
+     y="529.3244"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="529.3244"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1660">Repubblica Dominicana</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1665"
+     cx="1020"
+     cy="541.22137" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1669"
+     x="1020"
+     y="537.72137"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="537.72137"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1667">Santa Lucia</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1672"
+     cx="1020"
+     cy="549.61835" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1676"
+     x="1020"
+     y="546.11835"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="546.11835"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1674">Uruguay</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1679"
+     cx="1020"
+     cy="558.01526" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1683"
+     x="1020"
+     y="554.51526"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="554.51526"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1681">Venezuela</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1686"
+     cx="1020"
+     cy="566.41223" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1690"
+     x="1020"
+     y="562.91223"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="562.91223"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1688">Canada</tspan></text>
+  <circle
+     fill="#f88e53"
+     r="3"
+     id="circle1693"
+     cx="1020"
+     cy="574.80914" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1697"
+     x="1020"
+     y="571.30914"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="571.30914"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1695">Stati Uniti d'America</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1700"
+     cx="1020"
+     cy="583.20612" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1704"
+     x="1020"
+     y="579.70612"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="579.70612"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1702">Afghanistan</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1707"
+     cx="1020"
+     cy="591.60303" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1711"
+     x="1020"
+     y="588.10303"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="588.10303"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1709">Bangladesh</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1714"
+     cx="1020"
+     cy="600" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1718"
+     x="1020"
+     y="596.5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="596.5"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1716">India</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1721"
+     cx="1020"
+     cy="608.39697" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1725"
+     x="1020"
+     y="604.89697"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="604.89697"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1723">Nepal</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1728"
+     cx="1020"
+     cy="616.79388" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1732"
+     x="1020"
+     y="613.29388"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="613.29388"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1730">Pakistan</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1735"
+     cx="1020"
+     cy="625.19086" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1739"
+     x="1020"
+     y="621.69086"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="621.69086"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1737">Sri Lanka</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1742"
+     cx="1020"
+     cy="633.58777" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1746"
+     x="1020"
+     y="630.08777"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="630.08777"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1744">Kazakhstan</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1749"
+     cx="1020"
+     cy="641.98474" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1753"
+     x="1020"
+     y="638.48474"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="638.48474"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1751">Armenia</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1756"
+     cx="1020"
+     cy="650.38165" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1760"
+     x="1020"
+     y="646.88165"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="646.88165"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1758">Georgia</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1763"
+     cx="1020"
+     cy="658.77863" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1767"
+     x="1020"
+     y="655.27863"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="655.27863"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1765">Giordania</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1770"
+     cx="1020"
+     cy="667.1756" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1774"
+     x="1020"
+     y="663.6756"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="663.6756"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1772">Iran</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1777"
+     cx="1020"
+     cy="675.57251" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1781"
+     x="1020"
+     y="672.07251"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="672.07251"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1779">Iraq</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1784"
+     cx="1020"
+     cy="683.96948" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1788"
+     x="1020"
+     y="680.46948"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="680.46948"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1786">Israele</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1791"
+     cx="1020"
+     cy="692.36639" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1795"
+     x="1020"
+     y="688.86639"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="688.86639"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1793">Libano</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1798"
+     cx="1020"
+     cy="700.76337" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1802"
+     x="1020"
+     y="697.26337"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="697.26337"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1800">Palestina</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1805"
+     cx="1020"
+     cy="709.16034" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1809"
+     x="1020"
+     y="705.66034"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="705.66034"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1807">Siria</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1812"
+     cx="1020"
+     cy="717.55725" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1816"
+     x="1020"
+     y="714.05725"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="714.05725"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1814">Cina</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1819"
+     cx="1020"
+     cy="725.95422" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1823"
+     x="1020"
+     y="722.45422"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="722.45422"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1821">Corea del Sud</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1826"
+     cx="1020"
+     cy="734.35114" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1830"
+     x="1020"
+     y="730.85114"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="730.85114"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1828">Giappone</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1833"
+     cx="1020"
+     cy="742.74811" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1837"
+     x="1020"
+     y="739.24811"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="739.24811"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1835">Taiwan</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1840"
+     cx="1020"
+     cy="751.14502" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1844"
+     x="1020"
+     y="747.64502"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="747.64502"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1842">Filippine</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1847"
+     cx="1020"
+     cy="759.54199" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1851"
+     x="1020"
+     y="756.04199"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="756.04199"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1849">Indonesia</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1854"
+     cx="1020"
+     cy="767.9389" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1858"
+     x="1020"
+     y="764.4389"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="764.4389"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1856">Myanmar/Birmania</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1861"
+     cx="1020"
+     cy="776.33588" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1865"
+     x="1020"
+     y="772.83588"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="772.83588"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1863">Singapore</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1868"
+     cx="1020"
+     cy="784.73285" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1872"
+     x="1020"
+     y="781.23285"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="781.23285"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1870">Thailandia</tspan></text>
+  <circle
+     fill="#fbf8b0"
+     r="3"
+     id="circle1875"
+     cx="1020"
+     cy="793.12976" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1879"
+     x="1020"
+     y="789.62976"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="789.62976"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1877">Vietnam</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1882"
+     cx="1020"
+     cy="801.52673" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1886"
+     x="1020"
+     y="798.02673"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="798.02673"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1884">Norvegia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1889"
+     cx="1020"
+     cy="809.92365" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1893"
+     x="1020"
+     y="806.42365"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="806.42365"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1891">Regno Unito</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1896"
+     cx="1020"
+     cy="818.32062" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1900"
+     x="1020"
+     y="814.82062"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="814.82062"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1898">Svizzera</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1903"
+     cx="1020"
+     cy="826.71759" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1907"
+     x="1020"
+     y="823.21759"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="823.21759"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1905">Albania</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1910"
+     cx="1020"
+     cy="835.1145" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1914"
+     x="1020"
+     y="831.6145"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="831.6145"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1912">Bielorussia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1917"
+     cx="1020"
+     cy="843.51147" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1921"
+     x="1020"
+     y="840.01147"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="840.01147"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1919">Bosnia-Erzegovina</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1924"
+     cx="1020"
+     cy="851.90839" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1928"
+     x="1020"
+     y="848.40839"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="848.40839"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1926">Federazione Russa</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1931"
+     cx="1020"
+     cy="860.30536" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1935"
+     x="1020"
+     y="856.80536"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="856.80536"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1933">Kosovo</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1938"
+     cx="1020"
+     cy="868.70227" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1942"
+     x="1020"
+     y="865.20227"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="865.20227"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1940">Macedonia del Nord</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1945"
+     cx="1020"
+     cy="877.09924" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1949"
+     x="1020"
+     y="873.59924"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="873.59924"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1947">Moldova</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1952"
+     cx="1020"
+     cy="885.49615" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1956"
+     x="1020"
+     y="881.99615"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="881.99615"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1954">Montenegro</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1959"
+     cx="1020"
+     cy="893.89313" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1963"
+     x="1020"
+     y="890.39313"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="890.39313"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1961">Serbia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1966"
+     cx="1020"
+     cy="902.2901" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1970"
+     x="1020"
+     y="898.7901"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="898.7901"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1968">Ucraina</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1973"
+     cx="1020"
+     cy="910.68701" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1977"
+     x="1020"
+     y="907.18701"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="907.18701"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1975">Turchia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1980"
+     cx="1020"
+     cy="919.08398" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1984"
+     x="1020"
+     y="915.58398"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="915.58398"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1982">Austria</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1987"
+     cx="1020"
+     cy="927.4809" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1991"
+     x="1020"
+     y="923.9809"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="923.9809"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1989">Belgio</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle1994"
+     cx="1020"
+     cy="935.87787" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text1998"
+     x="1020"
+     y="932.37787"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="932.37787"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1996">Bulgaria</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2001"
+     cx="1020"
+     cy="944.27478" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2005"
+     x="1020"
+     y="940.77478"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="940.77478"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2003">Cipro</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2008"
+     cx="1020"
+     cy="952.67175" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2012"
+     x="1020"
+     y="949.17175"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="949.17175"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2010">Croazia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2015"
+     cx="1020"
+     cy="961.06873" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2019"
+     x="1020"
+     y="957.56873"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="957.56873"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2017">Danimarca</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2022"
+     cx="1020"
+     cy="969.46564" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2026"
+     x="1020"
+     y="965.96564"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="965.96564"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2024">Estonia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2029"
+     cx="1020"
+     cy="977.86261" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2033"
+     x="1020"
+     y="974.36261"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="974.36261"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2031">Finlandia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2036"
+     cx="1020"
+     cy="986.25952" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2040"
+     x="1020"
+     y="982.75952"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="982.75952"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2038">Francia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2043"
+     cx="1020"
+     cy="994.65649" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2047"
+     x="1020"
+     y="991.15649"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="991.15649"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2045">Germania</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2050"
+     cx="1020"
+     cy="1003.0534" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2054"
+     x="1020"
+     y="999.55341"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="999.55341"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2052">Grecia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2057"
+     cx="1020"
+     cy="1011.4504" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2061"
+     x="1020"
+     y="1007.9504"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1007.9504"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2059">Irlanda</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2064"
+     cx="1020"
+     cy="1019.8473" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2068"
+     x="1020"
+     y="1016.3473"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1016.3473"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2066">Italia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2071"
+     cx="1020"
+     cy="1028.2443" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2075"
+     x="1020"
+     y="1024.7444"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1024.7444"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2073">Lettonia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2078"
+     cx="1020"
+     cy="1036.6412" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2082"
+     x="1020"
+     y="1033.1412"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1033.1412"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2080">Lituania</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2085"
+     cx="1020"
+     cy="1045.0382" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2089"
+     x="1020"
+     y="1041.5382"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1041.5382"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2087">Malta</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2092"
+     cx="1020"
+     cy="1053.4351" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2096"
+     x="1020"
+     y="1049.9351"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1049.9351"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2094">Paesi Bassi</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2099"
+     cx="1020"
+     cy="1061.8322" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2103"
+     x="1020"
+     y="1058.3322"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1058.3322"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2101">Polonia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2106"
+     cx="1020"
+     cy="1070.229" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2110"
+     x="1020"
+     y="1066.729"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1066.729"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2108">Portogallo</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2113"
+     cx="1020"
+     cy="1078.626" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2117"
+     x="1020"
+     y="1075.126"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1075.126"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2115">Repubblica Ceca</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2120"
+     cx="1020"
+     cy="1087.0229" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2124"
+     x="1020"
+     y="1083.5229"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1083.5229"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2122">Romania</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2127"
+     cx="1020"
+     cy="1095.4198" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2131"
+     x="1020"
+     y="1091.9198"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1091.9198"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2129">Slovacchia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2134"
+     cx="1020"
+     cy="1103.8168" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2138"
+     x="1020"
+     y="1100.3168"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1100.3168"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2136">Slovenia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2141"
+     cx="1020"
+     cy="1112.2137" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2145"
+     x="1020"
+     y="1108.7137"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1108.7137"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2143">Spagna</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2148"
+     cx="1020"
+     cy="1120.6107" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2152"
+     x="1020"
+     y="1117.1107"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1117.1107"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2150">Svezia</tspan></text>
+  <circle
+     fill="#89cfa5"
+     r="3"
+     id="circle2155"
+     cx="1020"
+     cy="1129.0076" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2159"
+     x="1020"
+     y="1125.5076"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1125.5076"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2157">Ungheria</tspan></text>
+  <circle
+     fill="#5e4fa2"
+     r="3"
+     id="circle2162"
+     cx="1020"
+     cy="1137.4045" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2166"
+     x="1020"
+     y="1133.9045"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1133.9045"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2164">Australia</tspan></text>
+  <circle
+     fill="#5e4fa2"
+     r="3"
+     id="circle2169"
+     cx="1020"
+     cy="1145.8015" />
+  <text
+     text-anchor="start"
+     dominant-baseline="text-before-edge"
+     id="text2173"
+     x="1020"
+     y="1142.3015"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1025"
+       y="1142.3015"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan2171">Nuova Zelanda</tspan></text>
+  <image
+     width="75.590553"
+     height="75.590553"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABuCAYAAADGWyb7AAAACXBIWXMAAAexAAAHsQEGxWGGAAA4
+JmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0w
+TXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRh
+LyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMwMTQgNzkuMTU2Nzk3LCAyMDE0LzA4LzIw
+LTA5OjUzOjAyICAgICAgICAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMu
+b3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJk
+ZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFw
+LzEuMC8iCiAgICAgICAgICAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMv
+MS4xLyIKICAgICAgICAgICAgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bo
+b3Rvc2hvcC8xLjAvIgogICAgICAgICAgICB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNv
+bS94YXAvMS4wL21tLyIKICAgICAgICAgICAgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5j
+b20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIKICAgICAgICAgICAgeG1sbnM6dGlmZj0i
+aHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOmV4aWY9Imh0
+dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5B
+ZG9iZSBQaG90b3Nob3AgQ0MgMjAxNCAoV2luZG93cyk8L3htcDpDcmVhdG9yVG9vbD4KICAgICAg
+ICAgPHhtcDpDcmVhdGVEYXRlPjIwMjEtMDctMjNUMTQ6NDM6NTMrMDI6MDA8L3htcDpDcmVhdGVE
+YXRlPgogICAgICAgICA8eG1wOk1vZGlmeURhdGU+MjAyMS0wNy0yNVQyMDo0Mzo0MSswMjowMDwv
+eG1wOk1vZGlmeURhdGU+CiAgICAgICAgIDx4bXA6TWV0YWRhdGFEYXRlPjIwMjEtMDctMjVUMjA6
+NDM6NDErMDI6MDA8L3htcDpNZXRhZGF0YURhdGU+CiAgICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uv
+cG5nPC9kYzpmb3JtYXQ+CiAgICAgICAgIDxwaG90b3Nob3A6Q29sb3JNb2RlPjM8L3Bob3Rvc2hv
+cDpDb2xvck1vZGU+CiAgICAgICAgIDx4bXBNTTpJbnN0YW5jZUlEPnhtcC5paWQ6MjQwODQ5N2Et
+MDNkNi02ODRjLThiNzMtNTA4OGVmNzY5MmVjPC94bXBNTTpJbnN0YW5jZUlEPgogICAgICAgICA8
+eG1wTU06RG9jdW1lbnRJRD54bXAuZGlkOjI0MDg0OTdhLTAzZDYtNjg0Yy04YjczLTUwODhlZjc2
+OTJlYzwveG1wTU06RG9jdW1lbnRJRD4KICAgICAgICAgPHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJ
+RD54bXAuZGlkOjI0MDg0OTdhLTAzZDYtNjg0Yy04YjczLTUwODhlZjc2OTJlYzwveG1wTU06T3Jp
+Z2luYWxEb2N1bWVudElEPgogICAgICAgICA8eG1wTU06SGlzdG9yeT4KICAgICAgICAgICAgPHJk
+ZjpTZXE+CiAgICAgICAgICAgICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgog
+ICAgICAgICAgICAgICAgICA8c3RFdnQ6YWN0aW9uPmNyZWF0ZWQ8L3N0RXZ0OmFjdGlvbj4KICAg
+ICAgICAgICAgICAgICAgPHN0RXZ0Omluc3RhbmNlSUQ+eG1wLmlpZDoyNDA4NDk3YS0wM2Q2LTY4
+NGMtOGI3My01MDg4ZWY3NjkyZWM8L3N0RXZ0Omluc3RhbmNlSUQ+CiAgICAgICAgICAgICAgICAg
+IDxzdEV2dDp3aGVuPjIwMjEtMDctMjNUMTQ6NDM6NTMrMDI6MDA8L3N0RXZ0OndoZW4+CiAgICAg
+ICAgICAgICAgICAgIDxzdEV2dDpzb2Z0d2FyZUFnZW50PkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0
+IChXaW5kb3dzKTwvc3RFdnQ6c29mdHdhcmVBZ2VudD4KICAgICAgICAgICAgICAgPC9yZGY6bGk+
+CiAgICAgICAgICAgIDwvcmRmOlNlcT4KICAgICAgICAgPC94bXBNTTpIaXN0b3J5PgogICAgICAg
+ICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICAgICA8dGlmZjpY
+UmVzb2x1dGlvbj41MDAwMDAvMTAwMDA8L3RpZmY6WFJlc29sdXRpb24+CiAgICAgICAgIDx0aWZm
+OllSZXNvbHV0aW9uPjUwMDAwMC8xMDAwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRp
+ZmY6UmVzb2x1dGlvblVuaXQ+MjwvdGlmZjpSZXNvbHV0aW9uVW5pdD4KICAgICAgICAgPGV4aWY6
+Q29sb3JTcGFjZT42NTUzNTwvZXhpZjpDb2xvclNwYWNlPgogICAgICAgICA8ZXhpZjpQaXhlbFhE
+aW1lbnNpb24+MTEwPC9leGlmOlBpeGVsWERpbWVuc2lvbj4KICAgICAgICAgPGV4aWY6UGl4ZWxZ
+RGltZW5zaW9uPjExMDwvZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0
+aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hw
+YWNrZXQgZW5kPSJ3Ij8+X9Uz0QAAACBjSFJNAAB6JQAAgIMAAPk2AACBSwAAeRcAAPPCAAA8iwAA
+GccD4pQbAAAeOklEQVR42uxde1yN2fr/trvsanezu6ekopJcuqqUy9jaZYpcShx7pBGiwoQYJOPW
+oJGZDiecOjnmMJlh0mEMijFyNyQql1JJRTelQrv2+v3h7PfX1ru77m54Pp8+vfu9rLXe9X3Xeq5r
+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
+2jBpSAAAAABJRU5ErkJggg==
+"
+     id="image1568"
+     x="1101.5438"
+     y="1105.8551"
+     style="opacity:0.5" />
+</svg>

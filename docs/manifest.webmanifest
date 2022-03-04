@@ -1,0 +1,10 @@
+{
+    "name": "Palermo Melting Pot | 2020",
+    "short_name": "Residenti stranieri a Palermo",
+    "start_url": "https://opendatasicilia.github.io/palermo_melting_pot/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Gli stranieri residenti a Palermo nel 2020 sono 25.445 e rappresentano 132 Nazionalità provenienti da 5 Continenti, oggi sono il 3,89% della popolazione totale (653.715).",
+    "lang": "it-IT",
+    "theme_color": "white"
+}
