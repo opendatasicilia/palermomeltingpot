@@ -14,11 +14,6 @@ hide:
 [dir=ltr] .md-top { margin-left: 97.1%!important;}
 </style>
 
-<figure markdown>
-[![](img/workinprogress.jpg)](img/workinprogress.jpg "Work in progress... | By @opendatasicilia")
-  <figcaption>Work in progress... | By @opendatasicilia</figcaption>
-</figure>
-
 # Da dove vengono gli stranieri che vivono a Palermo?
 [![](img/world_clip.jpg)](img/world.jpg "Distribuzione geografica per tipologie di Aree - Scarica il file ad alta risoluzione | Realizzato con QGIS")
 
@@ -29,6 +24,14 @@ Gli stranieri residenti a Palermo nel 2020 sono **25.400** e rappresentano **130
 - [Dove vivono?](dove/dove_vivono/)
 - [Chi sono?](dove/chi)
 - [Qual’è il rapporto stranieri/italiani nel territorio?](rapporto/rapporto/)
+
+
+<figure markdown>
+[![](img/workinprogress.jpg)](img/workinprogress.jpg "Work in progress... | By @opendatasicilia")
+  <figcaption>Work in progress... | By @opendatasicilia</figcaption>
+</figure>
+
+
 
 <body>
 	   <br>
