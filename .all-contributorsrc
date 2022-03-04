@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "aborruso",
+      "name": "Andrea Borruso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30607?v=4",
+      "profile": "https://medium.com/@aborruso",
+      "contributions": [
+        "code",
+        "doc",
+        "data",
+        "example",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "palermomeltingpot",
+  "projectOwner": "opendatasicilia",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
