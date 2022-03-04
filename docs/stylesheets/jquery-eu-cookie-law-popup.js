@@ -28,7 +28,7 @@ $.fn.euCookieLawPopup = (function() {
 	///////////////////////////////////////////////////////////////////////////////////////////////
 	// PARAMETERS (MODIFY THIS PART) //////////////////////////////////////////////////////////////
 	_self.params = {
-		cookiePolicyUrl : 'https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/',
+		cookiePolicyUrl : 'https://opendatasicilia.github.io/palermomeltingpot/',
 		popupPosition : 'top',
 		colorStyle : 'default',
 		compactStyle : false,
@@ -253,7 +253,7 @@ $(document).ready( function() {
 	if ($(".eupopup").length > 0) {
 		$(document).euCookieLawPopup().init({
 			'info' : 'YOU_CAN_ADD_MORE_SETTINGS_HERE',
-			'popupTitle' : '<img src="https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/img/logo.png" class="immagonobox"  alt="OpenDataSicilia per il &#35;Coronavirus" title="OpenDataSicilia per il &#35;Coronavirus" width="" border="0" ><br><br> Questo sito, OpenDataSicilia per il &#35;Coronavirus utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web. <br> ',
+			'popupTitle' : '<img src="https://opendatasicilia.github.io/palermomeltingpot/img/logo.png" class="immagonobox"  alt="Palermo Melting Pot | 2020" title="Palermo Melting Pot | 2020" width="" border="0" ><br><br> Questo sito, OpenDataSicilia per il &#35;Coronavirus utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web. <br> ',
 			'popupText' : 'Chiudendo questo messaggio, scorrendo questa pagina o cliccando su qualunque suo elemento acconsenti all&rsquo;uso dei cookie.<br> Per maggiori informazioni o per negare il consenso a tutti o ad alcuni cookie, consulta l&rsquo;informativa!</a>'
 		});
 	}

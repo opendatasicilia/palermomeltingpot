@@ -10,7 +10,7 @@ site_author: gbvitrano
 # edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)" target="_blank" class="link-dark text-decoration-none">CC BY-SA 4.0</a> | <a href="#" target="_self" title="About" >About</a> | <a href="#" target="_self" title="Tags" >Tags</a>  | <a href="#" target="_self" title="Informativa privacy estesa" >Privacy</a> 
+copyright: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)" target="_blank" class="link-dark text-decoration-none">CC BY-SA 4.0</a> | <a href="https://opendatasicilia.github.io/palermomeltingpot/ods/" target="_self" title="About" >About</a> | <a href="https://opendatasicilia.github.io/palermomeltingpot/tags/" target="_self" title="Tags" >Tags</a>  | <a href="https://opendatasicilia.github.io/palermomeltingpot/privacy/" target="_self" title="Informativa privacy estesa" >Privacy</a> 
 
 ## Social Media
 extra:
