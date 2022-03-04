@@ -52,7 +52,7 @@ extra:
       
   analytics:
     provider: google
-    property: UA-87653723-3
+    property: UA-51960137-1
     
 # Configuration
 theme:
