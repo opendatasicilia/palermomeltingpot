@@ -34,13 +34,8 @@ Gli stranieri residenti a Palermo nel 2020 sono **25.400** e rappresentano **130
 
 
 <body>
-	   <br>
-      <hr> 
-	   <br>
-
- <img src="https://img.shields.io/github/last-commit/opendatasicilia/OpenDataSicilia-per-il-Coronavirus?color=ff9900&label=Ultimo%20aggiornamento&logo=github&logoColor=ff9900&style=for-the-badge" title="Ultimo aggiornamento">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/workflow/status/opendatasicilia/OpenDataSicilia-per-il-Coronavirus/gh-deploy?color=ff9900&label=GitHub%20Pages&logo=HTML5&logoColor=ff9900&style=for-the-badge" title="GitHub Pages">&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/static/v1?label=Linguaggio%20di%20markup&message=Markdown&color=ff9900&logo=Markdown&logoColor=ff9900&style=for-the-badge" title="Linguaggio di markup: Markdown">
-         </div>
-   
-</body>
-
+<br>
+<hr> 
+<p align="center"> <img src="https://img.shields.io/github/last-commit/opendatasicilia/OpenDataSicilia-per-il-Coronavirus?color=ff9900&label=Ultimo%20aggiornamento&logo=github&logoColor=ff9900&style=for-the-badge" title="Ultimo aggiornamento">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/workflow/status/opendatasicilia/OpenDataSicilia-per-il-Coronavirus/gh-deploy?color=ff9900&label=GitHub%20Pages&logo=HTML5&logoColor=ff9900&style=for-the-badge" title="GitHub Pages">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/static/v1?label=Linguaggio%20di%20markup&message=Markdown&color=ff9900&logo=Markdown&logoColor=ff9900&style=for-the-badge" title="Linguaggio di markup: Markdown">   </p>
+   </body>
