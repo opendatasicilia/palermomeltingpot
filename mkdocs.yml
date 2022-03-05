@@ -73,7 +73,7 @@ theme:
 
   palette:
     - scheme: default
-      primary: white
+      primary: black
       accent: orange
       toggle:
         icon: material/weather-night

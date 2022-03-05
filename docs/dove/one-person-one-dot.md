@@ -11,6 +11,6 @@ tags:
 
 
 <figure markdown>
-[![](../img/workinprogress.jpg)](../img/workinprogress.jpg "Work in progress... | By @opendatasicilia")
+[![](../img/workinprogress.png)](../img/workinprogress.png "Work in progress... | By @opendatasicilia")
   <figcaption>Work in progress... | By @opendatasicilia</figcaption>
 </figure>
