@@ -15,7 +15,8 @@
 :root {--md-default-bg-color: #2a2a2a; --md-primary-fg-color:  #2a2a2a;
 }
 
-[data-md-color-scheme=slate] {--md-default-bg-color: #2a2a2a; --md-footer-bg-color: #1514147a;}
+[data-md-color-scheme=slate] {--md-default-bg-color: #2a2a2a; --md-footer-bg-color: #1514147a; --md-typeset-a-color: var(--md-accent-fg-color);}
+
 @media screen and (max-width: 76.1875em){
 .md-nav--primary .md-nav__title {    text-transform: uppercase; color: #ff9100; font-weight: bold !important;  font-size: .65rem !important;}}
 
