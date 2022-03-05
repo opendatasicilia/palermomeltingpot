@@ -12,15 +12,15 @@
 .md-nav--integrated .md-nav__link[for=__toc]~.md-nav {border-left: .1rem dashed #f44336!important; display: block; margin-bottom: .8srem!important; margin-left: .5rem!important; /* border-left: .05rem solid var(--md-primary-fg-color); */
 }} 
 
-/*.md-nav__link {padding-left: 5px;}
-body {background-color: #2a2a2a!important; }*/
+:root {--md-default-bg-color: #2a2a2a; --md-primary-fg-color:  #2a2a2a;
+}
 
-[data-md-color-scheme=slate] { --md-default-bg-color: #2a2a2a;}
-[data-md-color-primary=black] .md-header {background-color: #2a2a2a;}
+[data-md-color-scheme=slate] {--md-default-bg-color: #2a2a2a; --md-footer-bg-color: #1514147a;}
+@media screen and (max-width: 76.1875em){
+.md-nav--primary .md-nav__title {    text-transform: uppercase; color: #ff9100; font-weight: bold !important;  font-size: .65rem !important;}}
 
-@media screen and (min-width: 76.25em) {[data-md-color-primary=black] .md-tabs {background-color:  #2a2a2a;}}
-
-@media screen and (max-width: 76.1875em) {html [data-md-color-primary=black] .md-nav--primary .md-nav__title[for=__drawer] {background-color: #2a2a2a;}}
+@media screen and (max-width: 76.1875em){.md-nav--primary .md-nav__item--active>.md-nav__link {color: #ff9900; font-size: .65rem !important;}}
+@media screen and (max-width: 76.1875em) {.md-nav--primary .md-nav__link { font-size: .65rem !important;}}
 
 .md-header  {background-image: url("../img/backgroundg.jpg");
     background-repeat: no-repeat;
@@ -33,7 +33,6 @@ body {background-color: #2a2a2a!important; }*/
 	background-position-y: -91px;
 	box-shadow: 0 0 0.2rem rgb(0 0 0 / 10%), 0 0.2rem 0.4rem rgb(0 0 0 / 20%);
 	}
-	
 /*Desktop -  forza il back to top a tornare in basso */
 .md-top {
     background: var(--md-primary-fg-color); 

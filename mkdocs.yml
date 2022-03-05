@@ -72,8 +72,8 @@ theme:
     - content.code.annotate
 
   palette:
-    - scheme: default
-      primary: black
+      scheme: slate
+#     primary: black
       accent: orange
 #     toggle:
 #        icon: material/weather-night
