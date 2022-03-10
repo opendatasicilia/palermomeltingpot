@@ -9,7 +9,7 @@ tags:
 
 # Editor di testo per windows
 
-Per chi non ama la **CLI** (Command Line Interface)  di [VisiData](https://www.visidata.org/)  ed usa solo windows e desidera usare uno strumento altrettanto valido[^1] per l'elaborazione di file **csv**, consiglio di usare [EmEditor](https://www.emeditor.com/), grazie [@aborruso](https://twitter.com/aborruso) per il suggerimento. 🙂
+Per chi non ama la **CLI** (Command Line Interface)  di [VisiData](https://www.visidata.org/)  ed usa solo windows e desidera usare uno strumento altrettanto valido[^1] per l'elaborazione di file **csv**, consiglio di usare [EmEditor](https://www.emeditor.com/), grazie ad [@aborruso](https://twitter.com/aborruso) per il suggerimento. 🙂
 
 [^1]: EmEditor è 	un ottimo Software ma **NON** sostituisce VisiData!
 
