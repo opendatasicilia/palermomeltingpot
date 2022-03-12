@@ -32,7 +32,7 @@ Con <kbd>Shift</kbd> + <kbd>m</kbd> si genera un foglio **melted**, che trasform
 
 ![](../img/shift+m.jpg "VisiData Shift + m")
 
-In pochi secondi siamo passati dalla **struttura orizzontale** (2700 righe e 133 colonne), alla **sturrura verticale** (356.400 righe e 3 colonne) 🙂 adesso basta salvare la nuova tabella usando i tasti <kbd>CTRL</kbd> + <kbd>s</kbd>
+In pochi secondi siamo passati dalla **struttura orizzontale** (2700 righe e 133 colonne), alla **strutturaura verticale** (356.400 righe e 3 colonne) 🙂 adesso basta salvare la nuova tabella usando i tasti <kbd>CTRL</kbd> + <kbd>s</kbd>
 
 ## Struttura verticale
 Prodotto il nuovo [dataset](../../dati/rielaborazione/#struttura-verticale) a struttura verticale, possiamo *unirlo* (join) con il dataset dell'[ISTAT](https://www.istat.it/it/archivio/6747) "*Elenco codici e denominazioni delle unità territoriali estere*" e trasferire facilmente le informazioni che maggiormante ci interessano, come il **Continente** e **Area geopolitica**.
