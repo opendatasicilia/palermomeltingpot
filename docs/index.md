@@ -37,6 +37,13 @@ One-Person-One-Dot [Popolazione residente nel 2020 - Distribuzione geografica pe
 <body>
 <br>
 <hr> 
-<p align="center"> <img src="https://img.shields.io/github/last-commit/opendatasicilia/OpenDataSicilia-per-il-Coronavirus?color=ff9900&label=Ultimo%20aggiornamento&logo=github&logoColor=ff9900&style=for-the-badge" title="Ultimo aggiornamento">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/workflow/status/opendatasicilia/OpenDataSicilia-per-il-Coronavirus/gh-deploy?color=ff9900&label=GitHub%20Pages&logo=HTML5&logoColor=ff9900&style=for-the-badge" title="GitHub Pages">&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/static/v1?label=Linguaggio%20di%20markup&message=Markdown&color=ff9900&logo=Markdown&logoColor=ff9900&style=for-the-badge" title="Linguaggio di markup: Markdown">   </p>
+<p align="center"> 
+<img src="https://img.shields.io/badge/Ultimo Aggiornamernto-005bbb?style=for-the-badge&logo=github&logoColor=ffd500" class="immagonobox1"><img src="https://img.shields.io/github/last-commit/opendatasicilia/palermomeltingpot?color=ffd500&label&logoColor=ffd500&style=for-the-badge" class="immagonobox1" title="Ultimo aggiornamento">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/gITHUB PAGES-005bbb?style=for-the-badge&logo=HTML5&logoColor=ffd500" class="immagonobox1"><img src="https://img.shields.io/github/workflow/status/opendatasicilia/palermomeltingpot/gh-deploy?color=ffd500&label&logoColor=ffd500&style=for-the-badge" class="immagonobox1" title="GitHub Pages">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Linguaggio%20di%20markup-005bbb?style=for-the-badge&logo=Markdown&logoColor=ffd500" class="immagonobox1"><img src="https://img.shields.io/badge/Markdown-ffd500?style=for-the-badge&Color=ffd500" class="immagonobox1" title="Linguaggio di markup: Markdown">
+
+ 
+
+
+
+
+ </p>
    </body>

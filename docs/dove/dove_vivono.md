@@ -33,10 +33,10 @@ tags:
     <tr>
       <td bgcolor="#2a2a2a" style="border: 1px solid #2a2a2a"><table align="center">
         <tr>
-          <td align="left" bgcolor="#ff9100"><strong style="color:#2a2a2a">Circoscrizione</strong></td>
-          <td align="left" bgcolor="#ff9100"><strong style="color:#2a2a2a">Quartiere</strong></td>
-          <td align="right" bgcolor="#ff9100"><strong style="color:#2a2a2a">Residenti</strong></td>
-          <td align="right" bgcolor="#ff9100"><strong style="color:#2a2a2a">%</strong></td>
+          <td align="left" bgcolor="#ffd400" ><strong style="color:#2a2a2a">Circoscrizione</strong></td>
+          <td align="left" bgcolor="#ffd400" ><strong style="color:#2a2a2a">Quartiere</strong></td>
+          <td align="right" bgcolor="#ffd400" ><strong style="color:#2a2a2a">Residenti</strong></td>
+          <td align="right" bgcolor="#ffd400" ><strong style="color:#2a2a2a">%</strong></td>
         </tr>
         <tr>
           <td align="left">I</td>
@@ -120,10 +120,10 @@ tags:
       <td bgcolor="#2a2a2a" style="border: 1px solid #2a2a2a">&nbsp;</td>
       <td bgcolor="#2a2a2a" style="border: 1px solid #2a2a2a"><table align="center">
         <tr>
-          <td align="left" bgcolor="#ff9100"><strong style="color:#2a2a2a">Circoscrizione</strong></td>
-          <td align="left" bgcolor="#ff9100"><strong style="color:#2a2a2a">Quartiere</strong></td>
-          <td bgcolor="#ff9100"><strong style="color:#2a2a2a">Residenti</strong></td>
-          <td bgcolor="#ff9100"><strong style="color:#2a2a2a">%</strong></td>
+          <td align="left" bgcolor="#ffd400"><strong style="color:#2a2a2a">Circoscrizione</strong></td>
+          <td align="left" bgcolor="#ffd400"><strong style="color:#2a2a2a">Quartiere</strong></td>
+          <td bgcolor="#ffd400"><strong style="color:#2a2a2a">Residenti</strong></td>
+          <td bgcolor="#ffd400"><strong style="color:#2a2a2a">%</strong></td>
         </tr>
         <tr>
           <td align="left">V</td>
