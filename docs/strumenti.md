@@ -14,19 +14,20 @@ tags:
 ## Software
 - [Visual Studio Code](https://code.visualstudio.com/);
 - [Notepad ++](https://notepad-plus-plus.org/downloads/);
+- [Screenpresso](https://www.screenpresso.com/);
+- [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/);
+- [QGIS](https://www.qgis.org/it/site/);
+- [Inkscape](https://inkscape.org/it/);
+- [data.world](https://data.world/);
 - [VisiData](https://www.visidata.org/);
 - [LibreOffice](https://it.libreoffice.org/)
 - [Google Sheets](https://docs.google.com/spreadsheets/)
-- [QGIS](https://www.qgis.org/it/site/);
-- [data.world](https://data.world/);
-- [Datawrapper](https://www.datawrapper.de/);
 - [RawGraphs](https://app.rawgraphs.io/);
 - [Flourish](https://app.flourish.studio/);
+- [Datawrapper](https://www.datawrapper.de/);
 - [Tableau Public](https://public.tableau.com/s/);
-- [Screenpresso](https://www.screenpresso.com/);
-- [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/);
-- [Inkscape](https://inkscape.org/it/);
 - [Carto](https://carto.com/platform/);
+
 
 ## Static site generator
 - [MkDocs](https://www.mkdocs.org/);

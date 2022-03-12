@@ -17,6 +17,18 @@
   <defs
      id="defs6707">
     <rect
+       x="815"
+       y="530"
+       width="157"
+       height="118"
+       id="rect25618" />
+    <rect
+       x="1260"
+       y="536"
+       width="236"
+       height="110"
+       id="rect21448" />
+    <rect
        x="1224.748"
        y="569.80261"
        width="825.23132"
@@ -44,9 +56,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="636"
-     inkscape:cy="261"
+     inkscape:zoom="1"
+     inkscape:cx="1267"
+     inkscape:cy="733.5"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1272"
@@ -4510,50 +4522,54 @@
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16232);fill:#000000;fill-opacity:1;stroke:none" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;direction:rtl;white-space:pre;inline-size:372.009;fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;direction:rtl;white-space:pre;inline-size:629.009;fill:#000000;fill-opacity:1;stroke:none"
      x="2243.7852"
      y="-181.9384"
      id="text19098-9-2"
-     transform="translate(-831.61805,854.59178)"><tspan
+     transform="translate(-840.61805,903.59178)"><tspan
        x="2243.7852"
        y="-181.9384"
-       id="tspan5581"><tspan
+       id="tspan30369"><tspan
    style="fill:#1a1a1a"
-   id="tspan5579">Gli stranieri residenti a Palermo nel</tspan> </tspan><tspan
+   id="tspan30361">Gli stranieri residenti a Palermo nel</tspan> <tspan
+   style="fill:#800000"
+   id="tspan30363">2020</tspan> <tspan
+   style="fill:#1a1a1a"
+   id="tspan30365">sono</tspan> <tspan
+   style="fill:#800000"
+   id="tspan30367">25.400</tspan> e </tspan><tspan
        x="2243.7852"
        y="-156.93841"
-       id="tspan5591"><tspan
-   style="fill:#800000"
-   id="tspan5583">2020</tspan> <tspan
+       id="tspan30383"><tspan
    style="fill:#1a1a1a"
-   id="tspan5585">sono</tspan> <tspan
+   id="tspan30371">rappresentano</tspan> <tspan
    style="fill:#800000"
-   id="tspan5587">25.445</tspan> e <tspan
+   id="tspan30373">130 nazionalità</tspan> <tspan
    style="fill:#1a1a1a"
-   id="tspan5589">rappresentano</tspan> </tspan><tspan
+   id="tspan30375">provenienti da</tspan> <tspan
+   style="fill:#800000"
+   id="tspan30377">5 </tspan><tspan
+   style="fill:#800000"
+   id="tspan30379">Continenti</tspan><tspan
+   style="fill:#1a1a1a"
+   id="tspan30381">, </tspan></tspan><tspan
        x="2243.7852"
        y="-131.93841"
-       id="tspan5599"><tspan
-   style="fill:#800000"
-   id="tspan5593">130 nazionalità</tspan> <tspan
+       id="tspan30393"><tspan
    style="fill:#1a1a1a"
-   id="tspan5595">provenienti da</tspan> <tspan
+   id="tspan30385">oggi sono il</tspan><tspan
    style="fill:#800000"
-   id="tspan5597">5 </tspan></tspan><tspan
-       x="2243.7852"
-       y="-106.93841"
-       id="tspan5607"><tspan
-         style="fill:#800000"
-         id="tspan5601">Continenti</tspan><tspan
-         style="fill:#1a1a1a"
-         id="tspan5603">, oggi sono il</tspan><tspan
-         style="fill:#800000"
-         id="tspan5605"> 3,89% della </tspan></tspan><tspan
-       x="2243.7852"
-       y="-81.938406"
-       id="tspan5613"><tspan
+   id="tspan30387"> 3,89% della </tspan><tspan
    style="fill:#800000"
-   id="tspan5609">popolazione</tspan> <tspan
+   id="tspan30389">popolazione</tspan> <tspan
    style="fill:#1a1a1a"
-   id="tspan5611">totale (653.715)</tspan></tspan></text>
+   id="tspan30391">totale (653.715)</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text21446"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect21448)" />
+  <text
+     xml:space="preserve"
+     id="text25616"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect25618)" />
 </svg>

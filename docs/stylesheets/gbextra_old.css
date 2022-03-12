@@ -9,35 +9,11 @@
 
 /* barra laterale toc integrata*/
 @media screen and (min-width:  76.25em){
-.md-nav--integrated .md-nav__link[for=__toc]~.md-nav {border-left: .1rem dashed #e9ebfc!important; display: block; margin-bottom: .8srem!important; margin-left: .5rem!important; /* border-left: .05rem solid var(--md-primary-fg-color); */
+.md-nav--integrated .md-nav__link[for=__toc]~.md-nav {border-left: .1rem dashed #f44336!important; display: block; margin-bottom: .8srem!important; margin-left: .5rem!important; /* border-left: .05rem solid var(--md-primary-fg-color); */
 }} 
 
-:root {--md-default-bg-color: #2a2a2a; --md-primary-fg-color:  #2a2a2a;}
+/*.md-nav__link {padding-left: 5px;}*/
 
-[data-md-color-scheme=slate] {--md-default-bg-color: #2a2a2a; --md-footer-bg-color: #1514147a; --md-typeset-a-color: var(--md-accent-fg-color); --md-default-fg-color--light: e9ebfc; }
-
-/* link pagina */
-.md-typeset a:hover {text-decoration: underline;}
-.md-tag[href]:focus, .md-tag[href]:hover {text-decoration: none;}
-
-@media screen and (max-width: 76.1875em){
-.md-nav--primary .md-nav__title {    text-transform: uppercase; color: #ff9100; font-weight: bold !important;  font-size: .65rem !important;}}
-
-@media screen and (max-width: 76.1875em){.md-nav--primary .md-nav__item--active>.md-nav__link {color: #ff9900; font-size: .65rem !important;}}
-@media screen and (max-width: 76.1875em) {.md-nav--primary .md-nav__link { font-size: .65rem !important;}}
-
-.md-header  {background-image: url("../img/backgroundg.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;	
-	}
-
-.md-tabs { background-image: url("../img/backgroundg.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;	
-	background-position-y: -91px;
-	box-shadow: 0 0 0.2rem rgb(0 0 0 / 10%), 0 0.2rem 0.4rem rgb(0 0 0 / 20%);
-	}
-	
 /*Desktop -  forza il back to top a tornare in basso */
 .md-top {
     background: var(--md-primary-fg-color); 
@@ -95,13 +71,13 @@
 .md-source__icon+,
 .md-source__repository {
   font-family: "TruenoLight", /*Oswald,*/ sans-serif;
-  /*font-weight: bold;*/
+  font-weight: bold;
 }
 
 .md-typeset h1, .md-tabs, .md-header-nav__topic, .md-sidebar, .md-ellipsis {
     font-family: "TruenoLight", /*Oswald,*/ sans-serif;
     /* text-transform: uppercase!important;  */
-     /*font-weight: bold;*/
+    font-weight: bold;
 }
 .md-typeset h1, .md-typeset h2 {
     font-weight: 500;
@@ -150,22 +126,16 @@ a.md-button.md-button:hover {
 }
 
 /*Table styling*/
-
-/*Intestazione tabella*/	  
-.md-typeset table:not([class]) th {
-        background-color: #ff9100!important;
-    color: #2a2a2a!important; }
-	
 /**/
 table {
   padding: 0;}
   table tr {
     border-top: 1px solid #cccccc;
-    background-color: #595656;
+    background-color: white;
     margin: 0;
     padding: 0; }
     table tr:nth-child(2n) {
-      background-color: #262525; }
+      background-color: #f8f8f8; }
     table tr th {
       font-weight: bold;
       border: 0px solid #cccccc;
@@ -176,20 +146,18 @@ table {
       border: 0px solid #cccccc;
       text-align: centre;
       margin: 0;
-      padding: 6px 13px;
-color:#ff9100;	  }
+      padding: 6px 13px; }
     table tr th :first-child, table tr td :first-child {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
 	  
 /*Tabbed extension css*/
-
 .md-typeset .tabbed-labels {
    /* box-shadow: 0 -.05rem var(--md-default-fg-color--lightest) inset;*/
- box-shadow: none!important;
+   box-shadow: none!important;
 }
- 
+
 .md-typeset .tabbed-labels>label {
 border-bottom: .2rem solid transparent;
 font-size: 0.75rem!important;
@@ -238,14 +206,21 @@ font-size: 0.75rem!important;
     border-right: .01rem solid #ff990047;
     border-top: .01rem solid #ff990047;
 	}
+	  
+/*Intestazione tabella*/	  
+.md-typeset table:not([class]) th {
+    background-color: rgb(240 230 74 / 75%)!important; 
+    color: rgb(0 0 0 / 87%)!important; }
 	
 /* gbvitrano*/
 
 /* Site width etc.*/
 .md-grid {
-   max-width: 60rem !important;
+   max-width: 65rem !important;
 	 /*max-width: 100% !important;*/
 }
+
+
 /* mkdocstrings styling
 /* Indentation. */
 div.doc-contents:not(.first) {
@@ -278,8 +253,6 @@ div.doc-contents:not(.first) {
 .md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}
 .md-footer-meta {    background-color: var(--md-footer-bg-color);}
 
-html .md-footer-meta.md-typeset a {text-decoration: none;}
-
 /*base icona home*/
 .svg-inline--fa.fa-stack-2x { width: 1em!important;}
 	
@@ -287,7 +260,7 @@ html .md-footer-meta.md-typeset a {text-decoration: none;}
 /*.md-main { background-image:url(../img/qsfondo_800.png)!important; background-repeat: no-repeat!important;  background-position: center center!important; background-size: 90%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important; background:  #efefef;}*/
 	
 /* bordo immagine*/
-img {box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);	border-radius: 6px;	moz-border-radius: 6px; -webkit-border-radius: 6px;	border: 1px solid #0e0e0e;	padding: 0px; background-color: #fff;}
+img {box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);	border-radius: 5px;	moz-border-radius: 5px; -webkit-border-radius: 5px;	border: 1px solid #fefefe;	padding: 1px;background-color: #fff;}
 
 	
 /* immagine no bordo/ no ombra */
@@ -368,8 +341,8 @@ hr  {border: 0;
     margin: 1.5em 0;
     border: 0;
     height: 1px;
-   /* background:  #344c25;*/
-   background-image: linear-gradient(to right, #2a2a2a, #ff9900, #2a2a2a)!important;
+    background:  #344c25;
+    background-image: linear-gradient(to right,  #eee, #ff9900,  #eee)!important;
     width: 100%;
    }
  
@@ -445,7 +418,7 @@ div.cartodb-legend.custom ul li, div.cartodb-legend.category ul li, div.cartodb-
     position: relative;
     margin: 0 0 7px 0;
     font-size: 10px;
-    color: #ffffff;
+    color: #666666;
     font-weight: bold;
     font-family: "Helvetica", Arial;
     text-transform: uppercase;
@@ -458,7 +431,7 @@ div.cartodb-legend ul li {
     padding: 0;
     margin: 0;
     font-size: 10px;
-    color: #ffffff;
+    color: #666666;
     font-weight: bold;
     font-family: "Helvetica", Arial;
     text-transform: uppercase;
