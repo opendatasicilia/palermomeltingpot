@@ -25,6 +25,14 @@ Gli stranieri residenti a Palermo nel 2020 sono **25.400** e rappresentano **130
 - [Chi sono?](dove/chi)
 - [Qual è il rapporto stranieri/italiani nel territorio?](rapporto/rapporto/)
 
+---
+
+One-Person-One-Dot [Distribuzione geografica della popolazione residente per quartiere](dove/one-person-one-dot/).
+
+<figure markdown>
+[![](img/Palermo_2020_Ukraine_clip.jpg)](img/Palermo_2020_Ukraine_clip.jpg "Popolazione residente nel 2020 | by @opendatasicilia")
+<figcaption>Popolazione residente nel 2020 | by @opendatasicilia</figcaption>
+</figure>
 
 
 <body>
