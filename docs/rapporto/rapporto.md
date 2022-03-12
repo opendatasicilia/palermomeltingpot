@@ -7,7 +7,7 @@ tags:
   - Paese di provenienza
 ---
 
-# Qual’è il rapporto stranieri/italiani nel territorio?
+# Qual è il rapporto stranieri/italiani nel territorio?
 
 Nel 2020 risiedono nel comune di Palermo **653.570** abitanti. La popolazione è in calo da almeno un quarto di secolo (i residenti erano oltre 734 mila nel 1990). Dagli anni duemila si assiste inoltre ad un progressivo invecchiamento: l'età media è passata dai 38,6 anni del 2002 ai 44 del 2020, (44,4 nel 2021) sebbene resti al di sotto di quella media nazionale (45,7 anni).<br>
 La presenza straniera si è quasi triplicata negli anni duemila raggiungendo a Dicembre 2020 il livello di **25.400** cittadini, il 3,89% dei residenti, e lo 0.7% del totale nazionale, dato che colloca Palermo in **decima posizione** tra le 14 Città metropolitane per numero di residenti stranieri regolari.<br>
