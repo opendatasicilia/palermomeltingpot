@@ -31,7 +31,7 @@ One-Person-One-Dot [Popolazione residente nel 2020 - Distribuzione geografica pe
 
 <figure markdown>
 [![](img/Palermo_2020_Ukraine_clip.jpg)](img/Palermo_2020_Ukraine_clip.jpg "Palermo, popolazione residente nel 2020 - Distribuzione geografica per quartiere | by @opendatasicilia")
-<figcaption>Palermo, popolazione residente nel 2020 - Distribuzione geografica per quartiere| by @opendatasicilia</figcaption>
+<figcaption>Palermo, popolazione residente nel 2020 - Distribuzione geografica per quartiere | by @opendatasicilia</figcaption>
 </figure>
 
 <body>
