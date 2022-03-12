@@ -197,7 +197,7 @@ nav:
        - dati/query.md
        - dati/data_world.md
        - dati/visidata.md
-       - dati/emeditor.md
+     #  - dati/emeditor.md
     - Da dove arrivano:
        - dove/provenienza.md
     - Quanti sono: 
