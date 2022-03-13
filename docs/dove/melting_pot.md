@@ -97,7 +97,7 @@ Gli ingredienti di base sono:
 ### Sintesi
 [![](../img/italia_clip.jpg){width="33%"}](../img/italia.jpg "Distribuzione geografica per aggregati strutturali - Scarica il file ad alta risoluzione") [![](../img/Subregion_clip.jpg){width="33%"}](../img/Subregion.jpg "Distribuzione geografica per aggregati strutturali - Scarica il file ad alta risoluzione") [![](../img/Subregion_Ita_clip.jpg){width="33%"}](../img/Subregion_Ita.jpg "Distribuzione geografica per aggregati strutturali - Scarica il file ad alta risoluzione")
 
-Anche da queste mappe emerge che nel centro stroico (quartieri **Palazzo Reale** 2.843– **Monte di Pietà** e **Tribunali** 2.151) c’è la maggior presenza di residenti stranieri con 4.994 residenti pari al 19.62%  , seguono i quartieri di:
+Anche da queste mappe emerge che nel centro storico (quartieri **Palazzo Reale** 2.843– **Monte di Pietà** e **Tribunali** 2.151) c’è la maggior presenza di residenti stranieri con 4.994 residenti pari al 19.62%  , seguono i quartieri di:
 
 - Oreto Stazione 4.261 residenti – 16.75%;
 - Politeama 3.556 residenti – 13.98%;

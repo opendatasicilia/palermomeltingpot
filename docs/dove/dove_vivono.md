@@ -224,7 +224,7 @@ Demo del grafico sunburst/treemap, entrambi hanno tre livelli, Circoscrizione, Q
 
 ---
 
-Dalle mappe e dai grafici emerge che nel centro stroico (quartieri **Palazzo Reale** 2.843– **Monte di Pietà** e **Tribunali** 2.151) c’è la maggior presenza di residenti stranieri con 4.994 residenti pari al 19.62%  , seguono i quartieri di:
+Dalle mappe e dai grafici emerge che nel centro storico (quartieri **Palazzo Reale** 2.843– **Monte di Pietà** e **Tribunali** 2.151) c’è la maggior presenza di residenti stranieri con 4.994 residenti pari al 19.62%  , seguono i quartieri di:
 
 - Oreto Stazione 4.261 residenti – 16.75%;
 - Politeama 3.556 residenti – 13.98%;
