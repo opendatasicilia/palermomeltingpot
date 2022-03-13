@@ -55,7 +55,7 @@ select * from palermo_residenti_ita_world_iso3166_territorio where palermo_resid
 ---
 ### Esempio 3️⃣  SELECT DISTINCT
 La query estrare/filtra il dataset in base alle nostre richieste.
-Abbiamo chiesto di estrarre i residenti del quartiere **Noce**, per *sezione censuarie, upl, circoscrizione e nazionalità di provenienza*
+Abbiamo chiesto di estrarre i residenti del quartiere **Noce**, per *sezioni censuarie, upl, circoscrizione e nazionalità di provenienza*
 
 ```
 SELECT DISTINCT sez, upl, circoscrizione, residenti, denominazione_it
