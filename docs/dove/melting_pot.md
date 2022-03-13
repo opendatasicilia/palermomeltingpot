@@ -116,7 +116,7 @@ Stessa cosa si può realizzare con [D3.js](https://d3js.org/) una libreria JavaS
 
 <iframe width="100%" height="800" frameborder="0" src="https://palermohub.opendatasicilia.it/stranieri_residenti_subregions_dot_2020_mkdocs.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-La mappa [:fontawesome-solid-expand:](https://palermohub.opendatasicilia.it/stranieri_residenti_subregions_dot_2020.html "Apri la mappa a schermo intero") dinamica è stata realizzata con il servizio grauito di [Carto](https://carto.com/), il grafici inseriti nei popup sono stati realizzati con [datawrapper](https://www.datawrapper.de/).
+La mappa [:fontawesome-solid-expand:](https://palermohub.opendatasicilia.it/stranieri_residenti_subregions_dot_2020.html "Apri la mappa a schermo intero") dinamica è stata realizzata con il servizio gratuito di [Carto](https://carto.com/), il grafici inseriti nei popup sono stati realizzati con [datawrapper](https://www.datawrapper.de/).
 
 ### PalermoHub
 La mappa è stata inserita nel  contenitore di mappe di [opendatasicilia.it](https://opendatasicilia.it/ "opendatasicilia.it"), [PalermoHub](https://palermohub.opendatasicilia.it/stranieri_residenti_subregions_dot_2020.html " Palermo, popolazione residente per cittadinanza, UPL , Quartiere e Circoscrizione - 2020") [:fontawesome-solid-expand:](https://palermohub.opendatasicilia.it/stranieri_residenti_subregions_dot_2020.html "Apri la mappa a schermo intero")
