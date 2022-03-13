@@ -30,6 +30,8 @@ Gli stranieri residenti a Palermo nel 2020 sono **25.400** e rappresentano **130
 
 One-Person-One-Dot [Popolazione residente nel 2020 - Distribuzione geografica per quartiere](dove/one-person-one-dot/).
 
+La mappa mostra  una chiara visualizzazione della distribuzione geografica della densità di popolazione, 653.570 punti uno per ogni persona che risiede a Palermo, la geolocalizzazione dei punti non rappresenta l’indirizzo reale.
+
 <figure markdown>
 [![](img/Palermo_2020_Ukraine_clip.jpg)](img/Palermo_2020_Ukraine.jpg "Palermo, popolazione residente nel 2020 - Distribuzione geografica per quartiere | by @opendatasicilia")
 <figcaption>Palermo, popolazione residente nel 2020 - Distribuzione geografica per quartiere| by @opendatasicilia</figcaption>
