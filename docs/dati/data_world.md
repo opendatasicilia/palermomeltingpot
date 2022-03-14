@@ -1,11 +1,11 @@
 ---
-title: Data.Worls
+title: Data.World
 description: Dataset archiviato su Data.Worls
 tags:
   - Dataset
   - CSV
   - Query
-  - Data.Worls
+  - Data.World
 ---
 
 # Dataset rielaborato
