@@ -1,0 +1,4575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1415"
+   height="800"
+   version="1.1"
+   id="svg6703"
+   sodipodi:docname="world_palermo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="H:\GitHub - Clone\gbvitrano\palermomeltingpot\docs\img\viz_003.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6707">
+    <rect
+       x="815"
+       y="530"
+       width="157"
+       height="118"
+       id="rect25618" />
+    <rect
+       x="1260"
+       y="536"
+       width="236"
+       height="110"
+       id="rect21448" />
+    <rect
+       x="1224.748"
+       y="569.80261"
+       width="825.23132"
+       height="506.49121"
+       id="rect16232" />
+    <rect
+       x="2532.4561"
+       y="340.57166"
+       width="163.73637"
+       height="181.20158"
+       id="rect11532" />
+    <rect
+       x="1072.2856"
+       y="663.30493"
+       width="506.92996"
+       height="149.50137"
+       id="rect3894" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6705"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="1267"
+     inkscape:cy="733.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6703" />
+  <g
+     id="g6182"
+     transform="translate(8,50)">
+    <rect
+       x="0"
+       y="32.5"
+       height="200"
+       width="2"
+       fill="#000000"
+       id="rect5992">
+      <title
+         id="title5990">Africa: 40</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="12.5"
+       height="30"
+       width="2"
+       fill="#000000"
+       id="rect5996">
+      <title
+         id="title5994">Africa centro meridionale: 6</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="47.5"
+       height="80"
+       width="2"
+       fill="#000000"
+       id="rect6000">
+      <title
+         id="title5998">Africa occidentale: 16</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="132.5"
+       height="60"
+       width="2"
+       fill="#000000"
+       id="rect6004">
+      <title
+         id="title6002">Africa orientale: 12</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="197.5"
+       height="30"
+       width="2"
+       fill="#000000"
+       id="rect6008">
+      <title
+         id="title6006">Africa settentrionale: 6</title>
+    </rect>
+    <rect
+       x="0"
+       y="237.5"
+       height="115"
+       width="2"
+       fill="#000000"
+       id="rect6012">
+      <title
+         id="title6010">America: 23</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="232.5"
+       height="105"
+       width="2"
+       fill="#000000"
+       id="rect6016">
+      <title
+         id="title6014">America centro meridionale: 21</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="342.5"
+       height="10"
+       width="2"
+       fill="#000000"
+       id="rect6020">
+      <title
+         id="title6018">America settentrionale: 2</title>
+    </rect>
+    <rect
+       x="0"
+       y="357.5"
+       height="130"
+       width="2"
+       fill="#000000"
+       id="rect6024">
+      <title
+         id="title6022">Asia: 26</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="357.5"
+       height="35"
+       width="2"
+       fill="#000000"
+       id="rect6028">
+      <title
+         id="title6026">Asia centro meridionale: 7</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="397.5"
+       height="45"
+       width="2"
+       fill="#000000"
+       id="rect6032">
+      <title
+         id="title6030">Asia occidentale: 9</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="447.5"
+       height="50"
+       width="2"
+       fill="#000000"
+       id="rect6036">
+      <title
+         id="title6034">Asia orientale: 10</title>
+    </rect>
+    <rect
+       x="0"
+       y="492.5"
+       height="200"
+       width="2"
+       fill="#000000"
+       id="rect6040">
+      <title
+         id="title6038">Europa: 40</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="502.5"
+       height="15"
+       width="2"
+       fill="#000000"
+       id="rect6044">
+      <title
+         id="title6042">Altri Paesi Europei: 3</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="522.5"
+       height="55"
+       width="2"
+       fill="#000000"
+       id="rect6048">
+      <title
+         id="title6046">Europa centro orientale: 11</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="582.5"
+       height="130"
+       width="2"
+       fill="#000000"
+       id="rect6052">
+      <title
+         id="title6050">Unione europea: 26</title>
+    </rect>
+    <rect
+       x="0"
+       y="697.5"
+       height="10"
+       width="2"
+       fill="#000000"
+       id="rect6056">
+      <title
+         id="title6054">Oceania: 2</title>
+    </rect>
+    <rect
+       x="232.66667"
+       y="717.5"
+       height="10"
+       width="2"
+       fill="#000000"
+       id="rect6060">
+      <title
+         id="title6058">Oceania: 2</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="15"
+       height="170"
+       width="2"
+       fill="#000000"
+       id="rect6064">
+      <title
+         id="title6062">Sub-Saharan Africa: 34</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="190"
+       height="30"
+       width="2"
+       fill="#000000"
+       id="rect6068">
+      <title
+         id="title6066">Northern Africa: 6</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="225"
+       height="105"
+       width="2"
+       fill="#000000"
+       id="rect6072">
+      <title
+         id="title6070">Latin America and the Caribbean: 21</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="335"
+       height="10"
+       width="2"
+       fill="#000000"
+       id="rect6076">
+      <title
+         id="title6074">Northern America: 2</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="350"
+       height="30"
+       width="2"
+       fill="#000000"
+       id="rect6080">
+      <title
+         id="title6078">Southern Asia: 6</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="385"
+       height="5"
+       width="2"
+       fill="#000000"
+       id="rect6084">
+      <title
+         id="title6082">Central Asia: 1</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="395"
+       height="50"
+       width="2"
+       fill="#000000"
+       id="rect6088">
+      <title
+         id="title6086">Western Asia: 10</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="450"
+       height="20"
+       width="2"
+       fill="#000000"
+       id="rect6092">
+      <title
+         id="title6090">Eastern Asia: 4</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="475"
+       height="30"
+       width="2"
+       fill="#000000"
+       id="rect6096">
+      <title
+         id="title6094">South-eastern Asia: 6</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="510"
+       height="65"
+       width="2"
+       fill="#000000"
+       id="rect6100">
+      <title
+         id="title6098">Europeans out of EU: 13</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="580"
+       height="130"
+       width="2"
+       fill="#000000"
+       id="rect6104">
+      <title
+         id="title6102">EU-27: 26</title>
+    </rect>
+    <rect
+       x="465.33334"
+       y="715"
+       height="10"
+       width="2"
+       fill="#000000"
+       id="rect6108">
+      <title
+         id="title6106">Australia and New Zealand: 2</title>
+    </rect>
+    <rect
+       x="698"
+       y="0"
+       height="65"
+       width="2"
+       fill="#000000"
+       id="rect6112">
+      <title
+         id="title6110">Eastern Africa: 13</title>
+    </rect>
+    <rect
+       x="698"
+       y="70"
+       height="25"
+       width="2"
+       fill="#000000"
+       id="rect6116">
+      <title
+         id="title6114">Middle Africa: 5</title>
+    </rect>
+    <rect
+       x="698"
+       y="100"
+       height="80"
+       width="2"
+       fill="#000000"
+       id="rect6120">
+      <title
+         id="title6118">Western Africa: 16</title>
+    </rect>
+    <rect
+       x="698"
+       y="185"
+       height="30"
+       width="2"
+       fill="#000000"
+       id="rect6124">
+      <title
+         id="title6122">Northern Africa: 6</title>
+    </rect>
+    <rect
+       x="698"
+       y="220"
+       height="55"
+       width="2"
+       fill="#000000"
+       id="rect6128">
+      <title
+         id="title6126">South America: 11</title>
+    </rect>
+    <rect
+       x="698"
+       y="280"
+       height="20"
+       width="2"
+       fill="#000000"
+       id="rect6132">
+      <title
+         id="title6130">Caribbean: 4</title>
+    </rect>
+    <rect
+       x="698"
+       y="305"
+       height="30"
+       width="2"
+       fill="#000000"
+       id="rect6136">
+      <title
+         id="title6134">Central America: 6</title>
+    </rect>
+    <rect
+       x="698"
+       y="340"
+       height="10"
+       width="2"
+       fill="#000000"
+       id="rect6140">
+      <title
+         id="title6138">Northern America: 2</title>
+    </rect>
+    <rect
+       x="698"
+       y="355"
+       height="30"
+       width="2"
+       fill="#000000"
+       id="rect6144">
+      <title
+         id="title6142">Southern Asia: 6</title>
+    </rect>
+    <rect
+       x="698"
+       y="390"
+       height="5"
+       width="2"
+       fill="#000000"
+       id="rect6148">
+      <title
+         id="title6146">Central Asia: 1</title>
+    </rect>
+    <rect
+       x="698"
+       y="400"
+       height="55"
+       width="2"
+       fill="#000000"
+       id="rect6152">
+      <title
+         id="title6150">Western Asia: 11</title>
+    </rect>
+    <rect
+       x="698"
+       y="460"
+       height="20"
+       width="2"
+       fill="#000000"
+       id="rect6156">
+      <title
+         id="title6154">Eastern Asia: 4</title>
+    </rect>
+    <rect
+       x="698"
+       y="485"
+       height="30"
+       width="2"
+       fill="#000000"
+       id="rect6160">
+      <title
+         id="title6158">South-eastern Asia: 6</title>
+    </rect>
+    <rect
+       x="698"
+       y="520"
+       height="45"
+       width="2"
+       fill="#000000"
+       id="rect6164">
+      <title
+         id="title6162">Northern Europe: 9</title>
+    </rect>
+    <rect
+       x="698"
+       y="570"
+       height="40"
+       width="2"
+       fill="#000000"
+       id="rect6168">
+      <title
+         id="title6166">Western Europe: 8</title>
+    </rect>
+    <rect
+       x="698"
+       y="615"
+       height="65"
+       width="2"
+       fill="#000000"
+       id="rect6172">
+      <title
+         id="title6170">Southern Europe: 13</title>
+    </rect>
+    <rect
+       x="698"
+       y="685"
+       height="40"
+       width="2"
+       fill="#000000"
+       id="rect6176">
+      <title
+         id="title6174">Eastern Europe: 8</title>
+    </rect>
+    <rect
+       x="698"
+       y="730"
+       height="10"
+       width="2"
+       fill="#000000"
+       id="rect6180">
+      <title
+         id="title6178">Australia and New Zealand: 2</title>
+    </rect>
+  </g>
+  <g
+     fill="none"
+     stroke-opacity="1"
+     id="g6496"
+     transform="translate(8,50)">
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6188">
+      <path
+         d="m 2,47.5 c 115.33333,0 115.33333,-20 230.66667,-20"
+         stroke="#feeea3"
+         stroke-width="30"
+         id="path6184" />
+      <title
+         id="title6186">Africa → Africa centro meridionale: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6194">
+      <path
+         d="m 2,102.5 c 115.33333,0 115.33333,-15 230.66667,-15"
+         stroke="#feeea3"
+         stroke-width="80"
+         id="path6190" />
+      <title
+         id="title6192">Africa → Africa occidentale: 16</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6200">
+      <path
+         d="m 2,172.5 c 115.33333,0 115.33333,-10 230.66667,-10"
+         stroke="#feeea3"
+         stroke-width="60"
+         id="path6196" />
+      <title
+         id="title6198">Africa → Africa orientale: 12</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6206">
+      <path
+         d="m 2,217.5 c 115.33333,0 115.33333,-5 230.66667,-5"
+         stroke="#feeea3"
+         stroke-width="30"
+         id="path6202" />
+      <title
+         id="title6204">Africa → Africa settentrionale: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6212">
+      <path
+         d="m 2,290 c 115.33333,0 115.33333,-5 230.66667,-5"
+         stroke="#fcf6ad"
+         stroke-width="105"
+         id="path6208" />
+      <title
+         id="title6210">America → America centro meridionale: 21</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6218">
+      <path
+         d="m 2,347.5 c 115.33333,0 115.33333,0 230.66667,0"
+         stroke="#fcf6ad"
+         stroke-width="10"
+         id="path6214" />
+      <title
+         id="title6216">America → America settentrionale: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6224">
+      <path
+         d="m 2,375 c 115.33333,0 115.33333,0 230.66667,0"
+         stroke="#f8f9b0"
+         stroke-width="35"
+         id="path6220" />
+      <title
+         id="title6222">Asia → Asia centro meridionale: 7</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6230">
+      <path
+         d="m 2,415 c 115.33333,0 115.33333,5 230.66667,5"
+         stroke="#f8f9b0"
+         stroke-width="45"
+         id="path6226" />
+      <title
+         id="title6228">Asia → Asia occidentale: 9</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6236">
+      <path
+         d="m 2,462.5 c 115.33333,0 115.33333,10 230.66667,10"
+         stroke="#f8f9b0"
+         stroke-width="50"
+         id="path6232" />
+      <title
+         id="title6234">Asia → Asia orientale: 10</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6242">
+      <path
+         d="m 2,500 c 115.33333,0 115.33333,10 230.66667,10"
+         stroke="#f1f9aa"
+         stroke-width="15"
+         id="path6238" />
+      <title
+         id="title6240">Europa → Altri Paesi Europei: 3</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6248">
+      <path
+         d="m 2,535 c 115.33333,0 115.33333,15 230.66667,15"
+         stroke="#f1f9aa"
+         stroke-width="55"
+         id="path6244" />
+      <title
+         id="title6246">Europa → Europa centro orientale: 11</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6254">
+      <path
+         d="m 2,627.5 c 115.33333,0 115.33333,20 230.66667,20"
+         stroke="#f1f9aa"
+         stroke-width="130"
+         id="path6250" />
+      <title
+         id="title6252">Europa → Unione europea: 26</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6260">
+      <path
+         d="m 2,702.5 c 115.33333,0 115.33333,20 230.66667,20"
+         stroke="#e6f5a3"
+         stroke-width="10"
+         id="path6256" />
+      <title
+         id="title6258">Oceania → Oceania: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6266">
+      <path
+         d="M 234.66667,27.5 C 350,27.5 350,30 465.33333,30"
+         stroke="#9e0142"
+         stroke-width="30"
+         id="path6262" />
+      <title
+         id="title6264">Africa centro meridionale → Sub-Saharan Africa: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6272">
+      <path
+         d="M 234.66667,87.5 C 350,87.5 350,85 465.33333,85"
+         stroke="#b11646"
+         stroke-width="80"
+         id="path6268" />
+      <title
+         id="title6270">Africa occidentale → Sub-Saharan Africa: 16</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6278">
+      <path
+         d="M 234.66667,162.5 C 350,162.5 350,155 465.33333,155"
+         stroke="#c32a4a"
+         stroke-width="60"
+         id="path6274" />
+      <title
+         id="title6276">Africa orientale → Sub-Saharan Africa: 12</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6284">
+      <path
+         d="M 234.66667,212.5 C 350,212.5 350,205 465.33333,205"
+         stroke="#d23e4b"
+         stroke-width="30"
+         id="path6280" />
+      <title
+         id="title6282">Africa settentrionale → Northern Africa: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6290">
+      <path
+         d="M 234.66667,285 C 350,285 350,277.5 465.33333,277.5"
+         stroke="#ea6149"
+         stroke-width="105"
+         id="path6286" />
+      <title
+         id="title6288">America centro meridionale → Latin America and the Caribbean: 21</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6296">
+      <path
+         d="M 234.66667,347.5 C 350,347.5 350,340 465.33333,340"
+         stroke="#f2744b"
+         stroke-width="10"
+         id="path6292" />
+      <title
+         id="title6294">America settentrionale → Northern America: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6302">
+      <path
+         d="M 234.66667,372.5 C 350,372.5 350,365 465.33333,365"
+         stroke="#f78851"
+         stroke-width="30"
+         id="path6298" />
+      <title
+         id="title6300">Asia centro meridionale → Southern Asia: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6308">
+      <path
+         d="M 234.66667,390 C 350,390 350,387.5 465.33333,387.5"
+         stroke="#f78851"
+         stroke-width="5"
+         id="path6304" />
+      <title
+         id="title6306">Asia centro meridionale → Central Asia: 1</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6314">
+      <path
+         d="M 234.66667,420 C 350,420 350,417.5 465.33333,417.5"
+         stroke="#fa9d5b"
+         stroke-width="45"
+         id="path6310" />
+      <title
+         id="title6312">Asia occidentale → Western Asia: 9</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6320">
+      <path
+         d="M 234.66667,457.5 C 350,457.5 350,460 465.33333,460"
+         stroke="#fcb167"
+         stroke-width="20"
+         id="path6316" />
+      <title
+         id="title6318">Asia orientale → Eastern Asia: 4</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6326">
+      <path
+         d="M 234.66667,482.5 C 350,482.5 350,490 465.33333,490"
+         stroke="#fcb167"
+         stroke-width="30"
+         id="path6322" />
+      <title
+         id="title6324">Asia orientale → South-eastern Asia: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6332">
+      <path
+         d="M 234.66667,510 C 350,510 350,517.5 465.33333,517.5"
+         stroke="#e04f4a"
+         stroke-width="15"
+         id="path6328" />
+      <title
+         id="title6330">Altri Paesi Europei → Europeans out of EU: 3</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6338">
+      <path
+         d="M 234.66667,552.5 C 350,552.5 350,550 465.33333,550"
+         stroke="#fdc474"
+         stroke-width="50"
+         id="path6334" />
+      <title
+         id="title6336">Europa centro orientale → Europeans out of EU: 10</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6344">
+      <path
+         d="M 234.66667,525 C 350,525 350,442.5 465.33333,442.5"
+         stroke="#fdc474"
+         stroke-width="5"
+         id="path6340" />
+      <title
+         id="title6342">Europa centro orientale → Western Asia: 1</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6350">
+      <path
+         d="M 234.66667,647.5 C 350,647.5 350,645 465.33333,645"
+         stroke="#fee293"
+         stroke-width="130"
+         id="path6346" />
+      <title
+         id="title6348">Unione europea → EU-27: 26</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6356">
+      <path
+         d="M 234.66667,722.5 C 350,722.5 350,720 465.33333,720"
+         stroke="#fed483"
+         stroke-width="10"
+         id="path6352" />
+      <title
+         id="title6354">Oceania → Australia and New Zealand: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6362">
+      <path
+         d="M 467.33333,47.5 C 582.66667,47.5 582.66667,32.5 698,32.5"
+         stroke="#4f63ab"
+         stroke-width="65"
+         id="path6358" />
+      <title
+         id="title6360">Sub-Saharan Africa → Eastern Africa: 13</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6368">
+      <path
+         d="M 467.33333,92.5 C 582.66667,92.5 582.66667,82.5 698,82.5"
+         stroke="#4f63ab"
+         stroke-width="25"
+         id="path6364" />
+      <title
+         id="title6366">Sub-Saharan Africa → Middle Africa: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6374">
+      <path
+         d="M 467.33333,145 C 582.66667,145 582.66667,140 698,140"
+         stroke="#4f63ab"
+         stroke-width="80"
+         id="path6370" />
+      <title
+         id="title6372">Sub-Saharan Africa → Western Africa: 16</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6380">
+      <path
+         d="M 467.33333,205 C 582.66667,205 582.66667,200 698,200"
+         stroke="#59b0ad"
+         stroke-width="30"
+         id="path6376" />
+      <title
+         id="title6378">Northern Africa → Northern Africa: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6386">
+      <path
+         d="m 467.33333,252.5 c 115.33334,0 115.33334,-5 230.66667,-5"
+         stroke="#6dc0a8"
+         stroke-width="55"
+         id="path6382" />
+      <title
+         id="title6384">Latin America and the Caribbean → South America: 11</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6392">
+      <path
+         d="M 467.33333,290 C 582.66667,290 582.66667,290 698,290"
+         stroke="#6dc0a8"
+         stroke-width="20"
+         id="path6388" />
+      <title
+         id="title6390">Latin America and the Caribbean → Caribbean: 4</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6398">
+      <path
+         d="M 467.33333,315 C 582.66667,315 582.66667,320 698,320"
+         stroke="#6dc0a8"
+         stroke-width="30"
+         id="path6394" />
+      <title
+         id="title6396">Latin America and the Caribbean → Central America: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6404">
+      <path
+         d="M 467.33333,340 C 582.66667,340 582.66667,345 698,345"
+         stroke="#4a9eb2"
+         stroke-width="10"
+         id="path6400" />
+      <title
+         id="title6402">Northern America → Northern America: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6410">
+      <path
+         d="M 467.33333,365 C 582.66667,365 582.66667,370 698,370"
+         stroke="#4576b2"
+         stroke-width="30"
+         id="path6406" />
+      <title
+         id="title6408">Southern Asia → Southern Asia: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6416">
+      <path
+         d="m 467.33333,387.5 c 115.33334,0 115.33334,5 230.66667,5"
+         stroke="#c5e79f"
+         stroke-width="5"
+         id="path6412" />
+      <title
+         id="title6414">Central Asia → Central Asia: 1</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6422">
+      <path
+         d="M 467.33333,420 C 582.66667,420 582.66667,425 698,425"
+         stroke="#5e4fa2"
+         stroke-width="50"
+         id="path6418" />
+      <title
+         id="title6420">Western Asia → Western Asia: 10</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6428">
+      <path
+         d="M 467.33333,460 C 582.66667,460 582.66667,470 698,470"
+         stroke="#9ad6a3"
+         stroke-width="20"
+         id="path6424" />
+      <title
+         id="title6426">Eastern Asia → Eastern Asia: 4</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6434">
+      <path
+         d="M 467.33333,490 C 582.66667,490 582.66667,500 698,500"
+         stroke="#428ab5"
+         stroke-width="30"
+         id="path6430" />
+      <title
+         id="title6432">South-eastern Asia → South-eastern Asia: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6440">
+      <path
+         d="M 467.33333,515 C 582.66667,515 582.66667,525 698,525"
+         stroke="#83cca5"
+         stroke-width="10"
+         id="path6436" />
+      <title
+         id="title6438">Europeans out of EU → Northern Europe: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6446">
+      <path
+         d="m 467.33333,527.5 c 115.33334,0 115.33334,50 230.66667,50"
+         stroke="#83cca5"
+         stroke-width="15"
+         id="path6442" />
+      <title
+         id="title6444">Europeans out of EU → Western Europe: 3</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6452">
+      <path
+         d="M 467.33333,550 C 582.66667,550 582.66667,630 698,630"
+         stroke="#83cca5"
+         stroke-width="30"
+         id="path6448" />
+      <title
+         id="title6450">Europeans out of EU → Southern Europe: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6458">
+      <path
+         d="M 467.33333,570 C 582.66667,570 582.66667,690 698,690"
+         stroke="#83cca5"
+         stroke-width="10"
+         id="path6454" />
+      <title
+         id="title6456">Europeans out of EU → Eastern Europe: 2</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6464">
+      <path
+         d="m 467.33333,632.5 c 115.33334,0 115.33334,-35 230.66667,-35"
+         stroke="#b0dfa1"
+         stroke-width="25"
+         id="path6460" />
+      <title
+         id="title6462">EU-27 → Western Europe: 5</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6470">
+      <path
+         d="M 467.33333,695 C 582.66667,695 582.66667,710 698,710"
+         stroke="#b0dfa1"
+         stroke-width="30"
+         id="path6466" />
+      <title
+         id="title6468">EU-27 → Eastern Europe: 6</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6476">
+      <path
+         d="M 467.33333,582.5 C 582.66667,582.5 582.66667,452.5 698,452.5"
+         stroke="#b0dfa1"
+         stroke-width="5"
+         id="path6472" />
+      <title
+         id="title6474">EU-27 → Western Asia: 1</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6482">
+      <path
+         d="m 467.33333,662.5 c 115.33334,0 115.33334,0 230.66667,0"
+         stroke="#b0dfa1"
+         stroke-width="35"
+         id="path6478" />
+      <title
+         id="title6480">EU-27 → Southern Europe: 7</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6488">
+      <path
+         d="m 467.33333,602.5 c 115.33334,0 115.33334,-55 230.66667,-55"
+         stroke="#b0dfa1"
+         stroke-width="35"
+         id="path6484" />
+      <title
+         id="title6486">EU-27 → Northern Europe: 7</title>
+    </g>
+    <g
+       style="mix-blend-mode:multiply"
+       id="g6494">
+      <path
+         d="M 467.33333,720 C 582.66667,720 582.66667,735 698,735"
+         stroke="#d7ef9f"
+         stroke-width="10"
+         id="path6490" />
+      <title
+         id="title6492">Australia and New Zealand → Australia and New Zealand: 2</title>
+    </g>
+  </g>
+  <g
+     id="g6690"
+     transform="translate(8,50)">
+    <text
+       x="6"
+       y="132.5"
+       text-anchor="start"
+       id="text6500"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6498">Africa</tspan></text>
+    <text
+       x="238.66667"
+       y="27.5"
+       text-anchor="start"
+       id="text6504"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6502">Africa centro meridionale</tspan></text>
+    <text
+       x="238.66667"
+       y="87.5"
+       text-anchor="start"
+       id="text6508"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6506">Africa occidentale</tspan></text>
+    <text
+       x="238.66667"
+       y="162.5"
+       text-anchor="start"
+       id="text6512"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6510">Africa orientale</tspan></text>
+    <text
+       x="238.66667"
+       y="212.5"
+       text-anchor="start"
+       id="text6516"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6514">Africa settentrionale</tspan></text>
+    <text
+       x="6"
+       y="295"
+       text-anchor="start"
+       id="text6520"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6518">America</tspan></text>
+    <text
+       x="238.66667"
+       y="285"
+       text-anchor="start"
+       id="text6524"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6522">America centro meridionale</tspan></text>
+    <text
+       x="238.66667"
+       y="347.5"
+       text-anchor="start"
+       id="text6528"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6526">America settentrionale</tspan></text>
+    <text
+       x="6"
+       y="422.5"
+       text-anchor="start"
+       id="text6532"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6530">Asia</tspan></text>
+    <text
+       x="238.66667"
+       y="375"
+       text-anchor="start"
+       id="text6536"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6534">Asia centro meridionale</tspan></text>
+    <text
+       x="238.66667"
+       y="420"
+       text-anchor="start"
+       id="text6540"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6538">Asia occidentale</tspan></text>
+    <text
+       x="238.66667"
+       y="472.5"
+       text-anchor="start"
+       id="text6544"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6542">Asia orientale</tspan></text>
+    <text
+       x="6"
+       y="592.5"
+       text-anchor="start"
+       id="text6548"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6546">Europa</tspan></text>
+    <text
+       x="238.66667"
+       y="510"
+       text-anchor="start"
+       id="text6552"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6550">Altri Paesi Europei</tspan></text>
+    <text
+       x="238.66667"
+       y="550"
+       text-anchor="start"
+       id="text6556"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6554">Europa centro orientale</tspan></text>
+    <text
+       x="238.66667"
+       y="647.5"
+       text-anchor="start"
+       id="text6560"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6558">Unione europea</tspan></text>
+    <text
+       x="6"
+       y="702.5"
+       text-anchor="start"
+       id="text6564"><tspan
+         alignment-baseline="middle"
+         x="6"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6562">Oceania</tspan></text>
+    <text
+       x="238.66667"
+       y="722.5"
+       text-anchor="start"
+       id="text6568"><tspan
+         alignment-baseline="middle"
+         x="238.66667"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6566">Oceania</tspan></text>
+    <text
+       x="461.33334"
+       y="100"
+       text-anchor="end"
+       id="text6572"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6570">Sub-Saharan Africa</tspan></text>
+    <text
+       x="461.33334"
+       y="205"
+       text-anchor="end"
+       id="text6576"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6574">Northern Africa</tspan></text>
+    <text
+       x="461.33334"
+       y="277.5"
+       text-anchor="end"
+       id="text6580"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6578">Latin America and the Caribbean</tspan></text>
+    <text
+       x="461.33334"
+       y="340"
+       text-anchor="end"
+       id="text6584"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6582">Northern America</tspan></text>
+    <text
+       x="461.33334"
+       y="365"
+       text-anchor="end"
+       id="text6588"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6586">Southern Asia</tspan></text>
+    <text
+       x="461.33334"
+       y="387.5"
+       text-anchor="end"
+       id="text6592"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6590">Central Asia</tspan></text>
+    <text
+       x="461.33334"
+       y="420"
+       text-anchor="end"
+       id="text6596"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6594">Western Asia</tspan></text>
+    <text
+       x="461.33334"
+       y="460"
+       text-anchor="end"
+       id="text6600"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6598">Eastern Asia</tspan></text>
+    <text
+       x="461.33334"
+       y="490"
+       text-anchor="end"
+       id="text6604"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6602">South-eastern Asia</tspan></text>
+    <text
+       x="461.33334"
+       y="542.5"
+       text-anchor="end"
+       id="text6608"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6606">Europeans out of EU</tspan></text>
+    <text
+       x="461.33334"
+       y="645"
+       text-anchor="end"
+       id="text6612"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6610">EU-27</tspan></text>
+    <text
+       x="461.33334"
+       y="720"
+       text-anchor="end"
+       id="text6616"><tspan
+         alignment-baseline="middle"
+         x="461.33334"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6614">Australia and New Zealand</tspan></text>
+    <text
+       x="694"
+       y="32.5"
+       text-anchor="end"
+       id="text6620"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6618">Eastern Africa</tspan></text>
+    <text
+       x="694"
+       y="82.5"
+       text-anchor="end"
+       id="text6624"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6622">Middle Africa</tspan></text>
+    <text
+       x="694"
+       y="140"
+       text-anchor="end"
+       id="text6628"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6626">Western Africa</tspan></text>
+    <text
+       x="694"
+       y="200"
+       text-anchor="end"
+       id="text6632"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6630">Northern Africa</tspan></text>
+    <text
+       x="694"
+       y="247.5"
+       text-anchor="end"
+       id="text6636"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6634">South America</tspan></text>
+    <text
+       x="694"
+       y="290"
+       text-anchor="end"
+       id="text6640"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6638">Caribbean</tspan></text>
+    <text
+       x="694"
+       y="320"
+       text-anchor="end"
+       id="text6644"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6642">Central America</tspan></text>
+    <text
+       x="694"
+       y="345"
+       text-anchor="end"
+       id="text6648"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6646">Northern America</tspan></text>
+    <text
+       x="694"
+       y="370"
+       text-anchor="end"
+       id="text6652"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6650">Southern Asia</tspan></text>
+    <text
+       x="694"
+       y="392.5"
+       text-anchor="end"
+       id="text6656"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6654">Central Asia</tspan></text>
+    <text
+       x="694"
+       y="427.5"
+       text-anchor="end"
+       id="text6660"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6658">Western Asia</tspan></text>
+    <text
+       x="694"
+       y="470"
+       text-anchor="end"
+       id="text6664"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6662">Eastern Asia</tspan></text>
+    <text
+       x="694"
+       y="500"
+       text-anchor="end"
+       id="text6668"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6666">South-eastern Asia</tspan></text>
+    <text
+       x="694"
+       y="542.5"
+       text-anchor="end"
+       id="text6672"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6670">Northern Europe</tspan></text>
+    <text
+       x="694"
+       y="590"
+       text-anchor="end"
+       id="text6676"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6674">Western Europe</tspan></text>
+    <text
+       x="694"
+       y="647.5"
+       text-anchor="end"
+       id="text6680"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6678">Southern Europe</tspan></text>
+    <text
+       x="694"
+       y="705"
+       text-anchor="end"
+       id="text6684"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6682">Eastern Europe</tspan></text>
+    <text
+       x="694"
+       y="735"
+       text-anchor="end"
+       id="text6688"><tspan
+         alignment-baseline="middle"
+         x="694"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan6686">Australia and New Zealand</tspan></text>
+  </g>
+  <text
+     x="65"
+     y="64.5"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+     id="text6692">Continente ISO 3166</text>
+  <text
+     x="241.66669"
+     y="46.5"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+     id="text6694">Area ISO 3166</text>
+  <text
+     x="474.33337"
+     y="49"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+     id="text6696">Sub-region (UNSD)</text>
+  <text
+     x="695"
+     y="34"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+     id="text6698">Intermediate Region (UNSD)</text>
+  <g
+     id="g7329"
+     transform="translate(708,50)">
+    <rect
+       x="0"
+       y="-3.4106051e-13"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6803">
+      <title
+         id="title6801">Camerun: 1</title>
+    </rect>
+    <rect
+       x="698"
+       y="325"
+       height="90"
+       width="2"
+       fill="#000000"
+       id="rect6807">
+      <title
+         id="title6805">Palermo: 131</title>
+    </rect>
+    <rect
+       x="0"
+       y="5.6870227"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6811">
+      <title
+         id="title6809">Ciad: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="11.374045"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6815">
+      <title
+         id="title6813">Congo: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="17.061069"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6819">
+      <title
+         id="title6817">Gabon: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="22.748091"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6823">
+      <title
+         id="title6821">Guinea equatoriale: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="28.435114"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6827">
+      <title
+         id="title6825">Repubblica Democratica del Congo: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="34.122139"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6831">
+      <title
+         id="title6829">Benin: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="39.809162"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6835">
+      <title
+         id="title6833">Burkina Faso: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="45.496181"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6839">
+      <title
+         id="title6837">Capo Verde: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="51.183205"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6843">
+      <title
+         id="title6841">Costa d'Avorio: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="56.870228"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6847">
+      <title
+         id="title6845">Gambia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="62.557251"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6851">
+      <title
+         id="title6849">Ghana: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="68.244278"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6855">
+      <title
+         id="title6853">Guinea: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="73.931297"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6859">
+      <title
+         id="title6857">Guinea-Bissau: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="79.618324"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6863">
+      <title
+         id="title6861">Liberia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="85.305344"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6867">
+      <title
+         id="title6865">Mali: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="90.992363"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6871">
+      <title
+         id="title6869">Mauritania: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="96.67939"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6875">
+      <title
+         id="title6873">Niger: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="102.36641"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6879">
+      <title
+         id="title6877">Nigeria: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="108.05344"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6883">
+      <title
+         id="title6881">Senegal: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="113.74046"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6887">
+      <title
+         id="title6885">Sierra Leone: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="119.42748"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6891">
+      <title
+         id="title6889">Togo: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="125.1145"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6895">
+      <title
+         id="title6893">Burundi: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="130.80153"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6899">
+      <title
+         id="title6897">Eritrea: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="136.48856"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6903">
+      <title
+         id="title6901">Etiopia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="142.17557"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6907">
+      <title
+         id="title6905">Kenya: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="147.86259"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6911">
+      <title
+         id="title6909">Madagascar: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="153.54962"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6915">
+      <title
+         id="title6913">Maurizio: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="159.23665"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6919">
+      <title
+         id="title6917">Mozambico: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="164.92366"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6923">
+      <title
+         id="title6921">Seychelles: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="170.61069"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6927">
+      <title
+         id="title6925">Somalia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="176.29771"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6931">
+      <title
+         id="title6929">Tanzania: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="181.98473"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6935">
+      <title
+         id="title6933">Uganda: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="187.67175"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6939">
+      <title
+         id="title6937">Zambia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="193.35878"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6943">
+      <title
+         id="title6941">Algeria: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="199.04581"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6947">
+      <title
+         id="title6945">Egitto: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="204.73282"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6951">
+      <title
+         id="title6949">Libia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="210.41985"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6955">
+      <title
+         id="title6953">Marocco: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="216.10687"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6959">
+      <title
+         id="title6957">Sudan: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="221.7939"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6963">
+      <title
+         id="title6961">Tunisia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="227.48091"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6967">
+      <title
+         id="title6965">Argentina: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="233.16794"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6971">
+      <title
+         id="title6969">Bolivia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="238.85497"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6975">
+      <title
+         id="title6973">Brasile: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="244.54199"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6979">
+      <title
+         id="title6977">Cile: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="250.229"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6983">
+      <title
+         id="title6981">Colombia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="255.91603"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6987">
+      <title
+         id="title6985">Cuba: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="261.60306"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6991">
+      <title
+         id="title6989">Ecuador: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="267.29007"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6995">
+      <title
+         id="title6993">El Salvador: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="272.97711"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect6999">
+      <title
+         id="title6997">Giamaica: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="278.66412"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7003">
+      <title
+         id="title7001">Guatemala: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="284.35114"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7007">
+      <title
+         id="title7005">Guyana: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="290.03818"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7011">
+      <title
+         id="title7009">Honduras: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="295.72519"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7015">
+      <title
+         id="title7013">Messico: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="301.4122"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7019">
+      <title
+         id="title7017">Nicaragua: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="307.09924"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7023">
+      <title
+         id="title7021">Panama: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="312.78625"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7027">
+      <title
+         id="title7025">Paraguay: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="318.4733"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7031">
+      <title
+         id="title7029">Perù: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="324.16031"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7035">
+      <title
+         id="title7033">Repubblica Dominicana: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="329.84732"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7039">
+      <title
+         id="title7037">Santa Lucia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="335.53436"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7043">
+      <title
+         id="title7041">Uruguay: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="341.22137"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7047">
+      <title
+         id="title7045">Venezuela: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="346.90839"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7051">
+      <title
+         id="title7049">Canada: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="352.59543"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7055">
+      <title
+         id="title7053">Stati Uniti d'America: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="358.28244"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7059">
+      <title
+         id="title7057">Afghanistan: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="363.96945"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7063">
+      <title
+         id="title7061">Bangladesh: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="369.65649"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7067">
+      <title
+         id="title7065">India: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="375.34351"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7071">
+      <title
+         id="title7069">Kazakhstan: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="381.03055"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7075">
+      <title
+         id="title7073">Nepal: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="386.71756"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7079">
+      <title
+         id="title7077">Pakistan: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="392.40457"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7083">
+      <title
+         id="title7081">Sri Lanka: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="398.09161"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7087">
+      <title
+         id="title7085">Armenia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="403.77863"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7091">
+      <title
+         id="title7089">Georgia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="409.46564"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7095">
+      <title
+         id="title7093">Giordania: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="415.15268"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7099">
+      <title
+         id="title7097">Iran: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="420.83969"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7103">
+      <title
+         id="title7101">Iraq: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="426.5267"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7107">
+      <title
+         id="title7105">Israele: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="432.21375"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7111">
+      <title
+         id="title7109">Libano: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="437.90076"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7115">
+      <title
+         id="title7113">Palestina: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="443.5878"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7119">
+      <title
+         id="title7117">Siria: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="449.27481"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7123">
+      <title
+         id="title7121">Cina: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="454.96182"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7127">
+      <title
+         id="title7125">Corea del Sud: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="460.64886"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7131">
+      <title
+         id="title7129">Filippine: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="466.33588"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7135">
+      <title
+         id="title7133">Giappone: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="472.02289"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7139">
+      <title
+         id="title7137">Indonesia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="477.70993"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7143">
+      <title
+         id="title7141">Myanmar/Birmania: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="483.39694"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7147">
+      <title
+         id="title7145">Singapore: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="489.08398"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7151">
+      <title
+         id="title7149">Taiwan: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="494.771"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7155">
+      <title
+         id="title7153">Thailandia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="500.45801"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7159">
+      <title
+         id="title7157">Vietnam: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="506.14505"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7163">
+      <title
+         id="title7161">Norvegia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="511.83206"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7167">
+      <title
+         id="title7165">Regno Unito: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="517.5191"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7171">
+      <title
+         id="title7169">Svizzera: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="523.20612"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7175">
+      <title
+         id="title7173">Albania: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="528.89313"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7179">
+      <title
+         id="title7177">Bielorussia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="534.58014"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7183">
+      <title
+         id="title7181">Bosnia-Erzegovina: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="540.26715"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7187">
+      <title
+         id="title7185">Federazione Russa: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="545.95422"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7191">
+      <title
+         id="title7189">Kosovo: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="551.64124"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7195">
+      <title
+         id="title7193">Macedonia del Nord: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="557.32825"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7199">
+      <title
+         id="title7197">Moldova: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="563.01526"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7203">
+      <title
+         id="title7201">Montenegro: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="568.70227"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7207">
+      <title
+         id="title7205">Serbia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="574.38934"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7211">
+      <title
+         id="title7209">Turchia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="580.07635"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7215">
+      <title
+         id="title7213">Ucraina: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="585.76337"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7219">
+      <title
+         id="title7217">Austria: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="591.45038"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7223">
+      <title
+         id="title7221">Belgio: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="597.13739"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7227">
+      <title
+         id="title7225">Bulgaria: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="602.8244"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7231">
+      <title
+         id="title7229">Cipro: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="608.51147"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7235">
+      <title
+         id="title7233">Croazia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="614.19849"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7239">
+      <title
+         id="title7237">Danimarca: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="619.8855"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7243">
+      <title
+         id="title7241">Estonia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="625.57251"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7247">
+      <title
+         id="title7245">Finlandia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="631.25952"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7251">
+      <title
+         id="title7249">Francia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="636.94659"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7255">
+      <title
+         id="title7253">Germania: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="642.63361"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7259">
+      <title
+         id="title7257">Grecia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="648.32062"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7263">
+      <title
+         id="title7261">Irlanda: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="654.00763"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7267">
+      <title
+         id="title7265">Italia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="659.69464"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7271">
+      <title
+         id="title7269">Lettonia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="665.38165"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7275">
+      <title
+         id="title7273">Lituania: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="671.06873"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7279">
+      <title
+         id="title7277">Malta: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="676.75574"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7283">
+      <title
+         id="title7281">Paesi Bassi: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="682.44275"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7287">
+      <title
+         id="title7285">Polonia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="688.12976"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7291">
+      <title
+         id="title7289">Portogallo: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="693.81677"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7295">
+      <title
+         id="title7293">Repubblica Ceca: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="699.50385"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7299">
+      <title
+         id="title7297">Romania: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="705.19086"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7303">
+      <title
+         id="title7301">Slovacchia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="710.87787"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7307">
+      <title
+         id="title7305">Slovenia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="716.56488"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7311">
+      <title
+         id="title7309">Spagna: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="722.25189"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7315">
+      <title
+         id="title7313">Svezia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="727.9389"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7319">
+      <title
+         id="title7317">Ungheria: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="733.62598"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7323">
+      <title
+         id="title7321">Australia: 1</title>
+    </rect>
+    <rect
+       x="0"
+       y="739.31299"
+       height="0.68702292"
+       width="2"
+       fill="#000000"
+       id="rect7327">
+      <title
+         id="title7325">Nuova Zelanda: 1</title>
+    </rect>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7335"
+     transform="translate(708,50)">
+    <path
+       d="m 2,0.34351145 c 348,0 348,324.99999855 696,324.99999855"
+       stroke="#dd4c4a"
+       stroke-width="1"
+       id="path7331" />
+    <title
+       id="title7333">Camerun → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7341"
+     transform="translate(708,50)">
+    <path
+       d="m 2,6.0305344 c 348,0 348,319.9999956 696,319.9999956"
+       stroke="#e55849"
+       stroke-width="1"
+       id="path7337" />
+    <title
+       id="title7339">Ciad → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7347"
+     transform="translate(708,50)">
+    <path
+       d="m 2,11.717557 c 348,0 348,315.000003 696,315.000003"
+       stroke="#ef6c49"
+       stroke-width="1"
+       id="path7343" />
+    <title
+       id="title7345">Congo → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7353"
+     transform="translate(708,50)">
+    <path
+       d="m 2,17.40458 c 348,0 348,310 696,310"
+       stroke="#fcb469"
+       stroke-width="1"
+       id="path7349" />
+    <title
+       id="title7351">Gabon → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7359"
+     transform="translate(708,50)">
+    <path
+       d="m 2,23.091603 c 348,0 348,304.999997 696,304.999997"
+       stroke="#fedd8d"
+       stroke-width="1"
+       id="path7355" />
+    <title
+       id="title7357">Guinea equatoriale → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7365"
+     transform="translate(708,50)">
+    <path
+       d="m 2,28.778626 c 348,0 348,300.000004 696,300.000004"
+       stroke="#81cba5"
+       stroke-width="1"
+       id="path7361" />
+    <title
+       id="title7363">Repubblica Democratica del Congo → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7371"
+     transform="translate(708,50)">
+    <path
+       d="m 2,34.465649 c 348,0 348,295.000001 696,295.000001"
+       stroke="#c32a4a"
+       stroke-width="1"
+       id="path7367" />
+    <title
+       id="title7369">Benin → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7377"
+     transform="translate(708,50)">
+    <path
+       d="m 2,40.152672 c 348,0 348,289.999998 696,289.999998"
+       stroke="#d7444b"
+       stroke-width="1"
+       id="path7373" />
+    <title
+       id="title7375">Burkina Faso → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7383"
+     transform="translate(708,50)">
+    <path
+       d="m 2,45.839695 c 348,0 348,284.999995 696,284.999995"
+       stroke="#e25449"
+       stroke-width="1"
+       id="path7379" />
+    <title
+       id="title7381">Capo Verde → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7389"
+     transform="translate(708,50)">
+    <path
+       d="m 2,51.526718 c 348,0 348,280.000002 696,280.000002"
+       stroke="#f2744b"
+       stroke-width="1"
+       id="path7385" />
+    <title
+       id="title7387">Costa d'Avorio → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7395"
+     transform="translate(708,50)">
+    <path
+       d="m 2,57.21374 c 348,0 348,275 696,275"
+       stroke="#fdb86c"
+       stroke-width="1"
+       id="path7391" />
+    <title
+       id="title7393">Gambia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7401"
+     transform="translate(708,50)">
+    <path
+       d="m 2,62.900763 c 348,0 348,269.999997 696,269.999997"
+       stroke="#fdc475"
+       stroke-width="1"
+       id="path7397" />
+    <title
+       id="title7399">Ghana → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7407"
+     transform="translate(708,50)">
+    <path
+       d="m 2,68.587786 c 348,0 348,265.000004 696,265.000004"
+       stroke="#feda89"
+       stroke-width="1"
+       id="path7403" />
+    <title
+       id="title7405">Guinea → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7413"
+     transform="translate(708,50)">
+    <path
+       d="m 2,74.274809 c 348,0 348,260.000001 696,260.000001"
+       stroke="#fee090"
+       stroke-width="1"
+       id="path7409" />
+    <title
+       id="title7411">Guinea-Bissau → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7419"
+     transform="translate(708,50)">
+    <path
+       d="m 2,79.961832 c 348,0 348,254.999998 696,254.999998"
+       stroke="#f7faaf"
+       stroke-width="1"
+       id="path7415" />
+    <title
+       id="title7417">Liberia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7425"
+     transform="translate(708,50)">
+    <path
+       d="m 2,85.648855 c 348,0 348,249.999995 696,249.999995"
+       stroke="#eef8a8"
+       stroke-width="1"
+       id="path7421" />
+    <title
+       id="title7423">Mali → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7431"
+     transform="translate(708,50)">
+    <path
+       d="m 2,91.335878 c 348,0 348,245.000002 696,245.000002"
+       stroke="#e6f5a3"
+       stroke-width="1"
+       id="path7427" />
+    <title
+       id="title7429">Mauritania → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7437"
+     transform="translate(708,50)">
+    <path
+       d="m 2,97.022901 c 348,0 348,239.999999 696,239.999999"
+       stroke="#c5e89f"
+       stroke-width="1"
+       id="path7433" />
+    <title
+       id="title7435">Niger → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7443"
+     transform="translate(708,50)">
+    <path
+       d="m 2,102.70992 c 348,0 348,235 696,235"
+       stroke="#c1e69f"
+       stroke-width="1"
+       id="path7439" />
+    <title
+       id="title7441">Nigeria → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7449"
+     transform="translate(708,50)">
+    <path
+       d="m 2,108.39695 c 348,0 348,230 696,230"
+       stroke="#6ec0a8"
+       stroke-width="1"
+       id="path7445" />
+    <title
+       id="title7447">Senegal → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7455"
+     transform="translate(708,50)">
+    <path
+       d="m 2,114.08397 c 348,0 348,225 696,225"
+       stroke="#60b6ab"
+       stroke-width="1"
+       id="path7451" />
+    <title
+       id="title7453">Sierra Leone → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7461"
+     transform="translate(708,50)">
+    <path
+       d="m 2,119.77099 c 348,0 348,220 696,220"
+       stroke="#4577b2"
+       stroke-width="1"
+       id="path7457" />
+    <title
+       id="title7459">Togo → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7467"
+     transform="translate(708,50)">
+    <path
+       d="m 2,125.45802 c 348,0 348,215 696,215"
+       stroke="#da484a"
+       stroke-width="1"
+       id="path7463" />
+    <title
+       id="title7465">Burundi → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7473"
+     transform="translate(708,50)">
+    <path
+       d="m 2,131.14504 c 348,0 348,210 696,210"
+       stroke="#f99556"
+       stroke-width="1"
+       id="path7469" />
+    <title
+       id="title7471">Eritrea → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7479"
+     transform="translate(708,50)">
+    <path
+       d="m 2,136.83206 c 348,0 348,205 696,205"
+       stroke="#fa9e5b"
+       stroke-width="1"
+       id="path7475" />
+    <title
+       id="title7477">Etiopia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7485"
+     transform="translate(708,50)">
+    <path
+       d="m 2,142.51908 c 348,0 348,200 696,200"
+       stroke="#fcf7af"
+       stroke-width="1"
+       id="path7481" />
+    <title
+       id="title7483">Kenya → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7491"
+     transform="translate(708,50)">
+    <path
+       d="m 2,148.20611 c 348,0 348,195 696,195"
+       stroke="#f0f9aa"
+       stroke-width="1"
+       id="path7487" />
+    <title
+       id="title7489">Madagascar → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7497"
+     transform="translate(708,50)">
+    <path
+       d="m 2,153.89313 c 348,0 348,190 696,190"
+       stroke="#e3f4a2"
+       stroke-width="1"
+       id="path7493" />
+    <title
+       id="title7495">Maurizio → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7503"
+     transform="translate(708,50)">
+    <path
+       d="m 2,159.58015 c 348,0 348,185 696,185"
+       stroke="#d6ee9f"
+       stroke-width="1"
+       id="path7499" />
+    <title
+       id="title7501">Mozambico → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7509"
+     transform="translate(708,50)">
+    <path
+       d="m 2,165.26718 c 348,0 348,180 696,180"
+       stroke="#64b9aa"
+       stroke-width="1"
+       id="path7505" />
+    <title
+       id="title7507">Seychelles → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7515"
+     transform="translate(708,50)">
+    <path
+       d="m 2,170.9542 c 348,0 348,175 696,175"
+       stroke="#4da2b1"
+       stroke-width="1"
+       id="path7511" />
+    <title
+       id="title7513">Somalia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7521"
+     transform="translate(708,50)">
+    <path
+       d="m 2,176.64122 c 348,0 348,170 696,170"
+       stroke="#427fb4"
+       stroke-width="1"
+       id="path7517" />
+    <title
+       id="title7519">Tanzania → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7527"
+     transform="translate(708,50)">
+    <path
+       d="m 2,182.32824 c 348,0 348,165 696,165"
+       stroke="#4e65ac"
+       stroke-width="1"
+       id="path7523" />
+    <title
+       id="title7525">Uganda → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7533"
+     transform="translate(708,50)">
+    <path
+       d="m 2,188.01527 c 348,0 348,160 696,160"
+       stroke="#5e4fa2"
+       stroke-width="1"
+       id="path7529" />
+    <title
+       id="title7531">Zambia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7539"
+     transform="translate(708,50)">
+    <path
+       d="m 2,193.70229 c 348,0 348,155 696,155"
+       stroke="#a60a44"
+       stroke-width="1"
+       id="path7535" />
+    <title
+       id="title7537">Algeria → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7545"
+     transform="translate(708,50)">
+    <path
+       d="m 2,199.38931 c 348,0 348,150 696,150"
+       stroke="#f78b52"
+       stroke-width="1"
+       id="path7541" />
+    <title
+       id="title7543">Egitto → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7551"
+     transform="translate(708,50)">
+    <path
+       d="m 2,205.07634 c 348,0 348,145 696,145"
+       stroke="#f6faae"
+       stroke-width="1"
+       id="path7547" />
+    <title
+       id="title7549">Libia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7557"
+     transform="translate(708,50)">
+    <path
+       d="m 2,210.76336 c 348,0 348,140 696,140"
+       stroke="#e9f6a5"
+       stroke-width="1"
+       id="path7553" />
+    <title
+       id="title7555">Marocco → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7563"
+     transform="translate(708,50)">
+    <path
+       d="m 2,216.45038 c 348,0 348,135 696,135"
+       stroke="#4491b4"
+       stroke-width="1"
+       id="path7559" />
+    <title
+       id="title7561">Sudan → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7569"
+     transform="translate(708,50)">
+    <path
+       d="m 2,222.1374 c 348,0 348,130 696,130"
+       stroke="#4772b1"
+       stroke-width="1"
+       id="path7565" />
+    <title
+       id="title7567">Tunisia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7575"
+     transform="translate(708,50)">
+    <path
+       d="m 2,227.82443 c 348,0 348,125 696,125"
+       stroke="#ab0f45"
+       stroke-width="1"
+       id="path7571" />
+    <title
+       id="title7573">Argentina → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7581"
+     transform="translate(708,50)">
+    <path
+       d="m 2,233.51145 c 348,0 348,120 696,120"
+       stroke="#ca334a"
+       stroke-width="1"
+       id="path7577" />
+    <title
+       id="title7579">Bolivia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7587"
+     transform="translate(708,50)">
+    <path
+       d="m 2,239.19847 c 348,0 348,115 696,115"
+       stroke="#d13c4b"
+       stroke-width="1"
+       id="path7583" />
+    <title
+       id="title7585">Brasile → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7593"
+     transform="translate(708,50)">
+    <path
+       d="m 2,244.8855 c 348,0 348,110 696,110"
+       stroke="#e75b49"
+       stroke-width="1"
+       id="path7589" />
+    <title
+       id="title7591">Cile → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7599"
+     transform="translate(708,50)">
+    <path
+       d="m 2,250.57252 c 348,0 348,105 696,105"
+       stroke="#ed6849"
+       stroke-width="1"
+       id="path7595" />
+    <title
+       id="title7597">Colombia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7605"
+     transform="translate(708,50)">
+    <path
+       d="m 2,256.25954 c 348,0 348,100 696,100"
+       stroke="#f47d4d"
+       stroke-width="1"
+       id="path7601" />
+    <title
+       id="title7603">Cuba → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7611"
+     transform="translate(708,50)">
+    <path
+       d="m 2,261.94656 c 348,0 348,95 696,95"
+       stroke="#f78750"
+       stroke-width="1"
+       id="path7607" />
+    <title
+       id="title7609">Ecuador → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7617"
+     transform="translate(708,50)">
+    <path
+       d="m 2,267.63359 c 348,0 348,90 696,90"
+       stroke="#f89054"
+       stroke-width="1"
+       id="path7613" />
+    <title
+       id="title7615">El Salvador → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7623"
+     transform="translate(708,50)">
+    <path
+       d="m 2,273.32061 c 348,0 348,85 696,85"
+       stroke="#fdc878"
+       stroke-width="1"
+       id="path7619" />
+    <title
+       id="title7621">Giamaica → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7629"
+     transform="translate(708,50)">
+    <path
+       d="m 2,279.00763 c 348,0 348,80 696,80"
+       stroke="#fed686"
+       stroke-width="1"
+       id="path7625" />
+    <title
+       id="title7627">Guatemala → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7635"
+     transform="translate(708,50)">
+    <path
+       d="m 2,284.69466 c 348,0 348,75 696,75"
+       stroke="#fee394"
+       stroke-width="1"
+       id="path7631" />
+    <title
+       id="title7633">Guyana → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7641"
+     transform="translate(708,50)">
+    <path
+       d="m 2,290.38168 c 348,0 348,70 696,70"
+       stroke="#fee698"
+       stroke-width="1"
+       id="path7637" />
+    <title
+       id="title7639">Honduras → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7647"
+     transform="translate(708,50)">
+    <path
+       d="m 2,296.0687 c 348,0 348,65 696,65"
+       stroke="#e0f3a1"
+       stroke-width="1"
+       id="path7643" />
+    <title
+       id="title7645">Messico → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7653"
+     transform="translate(708,50)">
+    <path
+       d="m 2,301.75573 c 348,0 348,60 696,60"
+       stroke="#caea9f"
+       stroke-width="1"
+       id="path7649" />
+    <title
+       id="title7651">Nicaragua → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7659"
+     transform="translate(708,50)">
+    <path
+       d="m 2,307.44275 c 348,0 348,55 696,55"
+       stroke="#a4dba3"
+       stroke-width="1"
+       id="path7655" />
+    <title
+       id="title7657">Panama → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7665"
+     transform="translate(708,50)">
+    <path
+       d="m 2,313.12977 c 348,0 348,50 696,50"
+       stroke="#9fd9a3"
+       stroke-width="1"
+       id="path7661" />
+    <title
+       id="title7663">Paraguay → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7671"
+     transform="translate(708,50)">
+    <path
+       d="m 2,318.81679 c 348,0 348,45 696,45"
+       stroke="#9ad6a3"
+       stroke-width="1"
+       id="path7667" />
+    <title
+       id="title7669">Perù → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7677"
+     transform="translate(708,50)">
+    <path
+       d="m 2,324.50382 c 348,0 348,40 696,40"
+       stroke="#7cc9a6"
+       stroke-width="1"
+       id="path7673" />
+    <title
+       id="title7675">Repubblica Dominicana → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7683"
+     transform="translate(708,50)">
+    <path
+       d="m 2,330.19084 c 348,0 348,35 696,35"
+       stroke="#72c3a7"
+       stroke-width="1"
+       id="path7679" />
+    <title
+       id="title7681">Santa Lucia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7689"
+     transform="translate(708,50)">
+    <path
+       d="m 2,335.87786 c 348,0 348,30 696,30"
+       stroke="#545ca8"
+       stroke-width="1"
+       id="path7685" />
+    <title
+       id="title7687">Uruguay → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7695"
+     transform="translate(708,50)">
+    <path
+       d="m 2,341.56489 c 348,0 348,25 696,25"
+       stroke="#5758a6"
+       stroke-width="1"
+       id="path7691" />
+    <title
+       id="title7693">Venezuela → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7701"
+     transform="translate(708,50)">
+    <path
+       d="m 2,347.25191 c 348,0 348,20 696,20"
+       stroke="#e0504a"
+       stroke-width="1"
+       id="path7697" />
+    <title
+       id="title7699">Canada → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7707"
+     transform="translate(708,50)">
+    <path
+       d="m 2,352.93893 c 348,0 348,15 696,15"
+       stroke="#4595b4"
+       stroke-width="1"
+       id="path7703" />
+    <title
+       id="title7705">Stati Uniti d'America → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7713"
+     transform="translate(708,50)">
+    <path
+       d="m 2,358.62595 c 348,0 348,10 696,10"
+       stroke="#9e0142"
+       stroke-width="1"
+       id="path7709" />
+    <title
+       id="title7711">Afghanistan → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7719"
+     transform="translate(708,50)">
+    <path
+       d="m 2,364.31298 c 348,0 348,5 696,5"
+       stroke="#bb2148"
+       stroke-width="1"
+       id="path7715" />
+    <title
+       id="title7717">Bangladesh → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7725"
+     transform="translate(708,50)">
+    <path
+       d="m 2,370 c 348,0 348,0 696,0"
+       stroke="#fee89b"
+       stroke-width="1"
+       id="path7721" />
+    <title
+       id="title7723">India → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7731"
+     transform="translate(708,50)">
+    <path
+       d="m 2,375.68702 c 348,0 348,-5 696,-5"
+       stroke="#fcf6ae"
+       stroke-width="1"
+       id="path7727" />
+    <title
+       id="title7729">Kazakhstan → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7737"
+     transform="translate(708,50)">
+    <path
+       d="m 2,381.37405 c 348,0 348,-10 696,-10"
+       stroke="#ceeb9e"
+       stroke-width="1"
+       id="path7733" />
+    <title
+       id="title7735">Nepal → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7743"
+     transform="translate(708,50)">
+    <path
+       d="m 2,387.06107 c 348,0 348,-15 696,-15"
+       stroke="#aedea2"
+       stroke-width="1"
+       id="path7739" />
+    <title
+       id="title7741">Pakistan → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7749"
+     transform="translate(708,50)">
+    <path
+       d="m 2,392.74809 c 348,0 348,-20 696,-20"
+       stroke="#479ab3"
+       stroke-width="1"
+       id="path7745" />
+    <title
+       id="title7747">Sri Lanka → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7755"
+     transform="translate(708,50)">
+    <path
+       d="m 2,398.43511 c 348,0 348,-25 696,-25"
+       stroke="#af1446"
+       stroke-width="1"
+       id="path7751" />
+    <title
+       id="title7753">Armenia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7761"
+     transform="translate(708,50)">
+    <path
+       d="m 2,404.12214 c 348,0 348,-30 696,-30"
+       stroke="#fdbc6f"
+       stroke-width="1"
+       id="path7757" />
+    <title
+       id="title7759">Georgia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7767"
+     transform="translate(708,50)">
+    <path
+       d="m 2,409.80916 c 348,0 348,-35 696,-35"
+       stroke="#fecf7f"
+       stroke-width="1"
+       id="path7763" />
+    <title
+       id="title7765">Giordania → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7773"
+     transform="translate(708,50)">
+    <path
+       d="m 2,415.49618 c 348,0 348,-40 696,-40"
+       stroke="#feeda2"
+       stroke-width="1"
+       id="path7769" />
+    <title
+       id="title7771">Iran → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7779"
+     transform="translate(708,50)">
+    <path
+       d="m 2,421.18321 c 348,0 348,-45 696,-45"
+       stroke="#feefa5"
+       stroke-width="1"
+       id="path7775" />
+    <title
+       id="title7777">Iraq → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7785"
+     transform="translate(708,50)">
+    <path
+       d="m 2,426.87023 c 348,0 348,-50 696,-50"
+       stroke="#fdf3aa"
+       stroke-width="1"
+       id="path7781" />
+    <title
+       id="title7783">Israele → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7791"
+     transform="translate(708,50)">
+    <path
+       d="m 2,432.55725 c 348,0 348,-55 696,-55"
+       stroke="#f9f9b0"
+       stroke-width="1"
+       id="path7787" />
+    <title
+       id="title7789">Libano → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7797"
+     transform="translate(708,50)">
+    <path
+       d="m 2,438.24427 c 348,0 348,-60 696,-60"
+       stroke="#a9dda2"
+       stroke-width="1"
+       id="path7793" />
+    <title
+       id="title7795">Palestina → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7803"
+     transform="translate(708,50)">
+    <path
+       d="m 2,443.9313 c 348,0 348,-65 696,-65"
+       stroke="#57aead"
+       stroke-width="1"
+       id="path7799" />
+    <title
+       id="title7801">Siria → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7809"
+     transform="translate(708,50)">
+    <path
+       d="m 2,449.61832 c 348,0 348,-70 696,-70"
+       stroke="#e95f49"
+       stroke-width="1"
+       id="path7805" />
+    <title
+       id="title7807">Cina → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7815"
+     transform="translate(708,50)">
+    <path
+       d="m 2,455.30534 c 348,0 348,-75 696,-75"
+       stroke="#f0704a"
+       stroke-width="1"
+       id="path7811" />
+    <title
+       id="title7813">Corea del Sud → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7821"
+     transform="translate(708,50)">
+    <path
+       d="m 2,460.99237 c 348,0 348,-80 696,-80"
+       stroke="#fba760"
+       stroke-width="1"
+       id="path7817" />
+    <title
+       id="title7819">Filippine → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7827"
+     transform="translate(708,50)">
+    <path
+       d="m 2,466.67939 c 348,0 348,-85 696,-85"
+       stroke="#fecc7b"
+       stroke-width="1"
+       id="path7823" />
+    <title
+       id="title7825">Giappone → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7833"
+     transform="translate(708,50)">
+    <path
+       d="m 2,472.36641 c 348,0 348,-90 696,-90"
+       stroke="#feeb9f"
+       stroke-width="1"
+       id="path7829" />
+    <title
+       id="title7831">Indonesia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7839"
+     transform="translate(708,50)">
+    <path
+       d="m 2,478.05344 c 348,0 348,-95 696,-95"
+       stroke="#d2ed9e"
+       stroke-width="1"
+       id="path7835" />
+    <title
+       id="title7837">Myanmar/Birmania → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7845"
+     transform="translate(708,50)">
+    <path
+       d="m 2,483.74046 c 348,0 348,-100 696,-100"
+       stroke="#5bb2ac"
+       stroke-width="1"
+       id="path7841" />
+    <title
+       id="title7843">Singapore → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7851"
+     transform="translate(708,50)">
+    <path
+       d="m 2,489.42748 c 348,0 348,-105 696,-105"
+       stroke="#4284b4"
+       stroke-width="1"
+       id="path7847" />
+    <title
+       id="title7849">Taiwan → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7857"
+     transform="translate(708,50)">
+    <path
+       d="m 2,495.1145 c 348,0 348,-110 696,-110"
+       stroke="#437bb3"
+       stroke-width="1"
+       id="path7853" />
+    <title
+       id="title7855">Thailandia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7863"
+     transform="translate(708,50)">
+    <path
+       d="m 2,500.80153 c 348,0 348,-115 696,-115"
+       stroke="#5b53a4"
+       stroke-width="1"
+       id="path7859" />
+    <title
+       id="title7861">Vietnam → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7869"
+     transform="translate(708,50)">
+    <path
+       d="m 2,506.48855 c 348,0 348,-120 696,-120"
+       stroke="#bce4a0"
+       stroke-width="1"
+       id="path7865" />
+    <title
+       id="title7867">Norvegia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7875"
+     transform="translate(708,50)">
+    <path
+       d="m 2,512.17557 c 348,0 348,-125 696,-125"
+       stroke="#8bd0a5"
+       stroke-width="1"
+       id="path7871" />
+    <title
+       id="title7873">Regno Unito → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7881"
+     transform="translate(708,50)">
+    <path
+       d="m 2,517.8626 c 348,0 348,-130 696,-130"
+       stroke="#4288b5"
+       stroke-width="1"
+       id="path7877" />
+    <title
+       id="title7879">Svizzera → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7887"
+     transform="translate(708,50)">
+    <path
+       d="m 2,523.54962 c 348,0 348,-135 696,-135"
+       stroke="#a20643"
+       stroke-width="1"
+       id="path7883" />
+    <title
+       id="title7885">Albania → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7893"
+     transform="translate(708,50)">
+    <path
+       d="m 2,529.23664 c 348,0 348,-140 696,-140"
+       stroke="#c62f4a"
+       stroke-width="1"
+       id="path7889" />
+    <title
+       id="title7891">Bielorussia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7899"
+     transform="translate(708,50)">
+    <path
+       d="m 2,534.92366 c 348,0 348,-145 696,-145"
+       stroke="#ce374b"
+       stroke-width="1"
+       id="path7895" />
+    <title
+       id="title7897">Bosnia-Erzegovina → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7905"
+     transform="translate(708,50)">
+    <path
+       d="m 2,540.61069 c 348,0 348,-150 696,-150"
+       stroke="#fba25e"
+       stroke-width="1"
+       id="path7901" />
+    <title
+       id="title7903">Federazione Russa → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7911"
+     transform="translate(708,50)">
+    <path
+       d="m 2,546.29771 c 348,0 348,-155 696,-155"
+       stroke="#fbf8b0"
+       stroke-width="1"
+       id="path7907" />
+    <title
+       id="title7909">Kosovo → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7917"
+     transform="translate(708,50)">
+    <path
+       d="m 2,551.98473 c 348,0 348,-160 696,-160"
+       stroke="#f2f9ab"
+       stroke-width="1"
+       id="path7913" />
+    <title
+       id="title7915">Macedonia del Nord → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7923"
+     transform="translate(708,50)">
+    <path
+       d="m 2,557.67176 c 348,0 348,-165 696,-165"
+       stroke="#ddf1a0"
+       stroke-width="1"
+       id="path7919" />
+    <title
+       id="title7921">Moldova → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7929"
+     transform="translate(708,50)">
+    <path
+       d="m 2,563.35878 c 348,0 348,-170 696,-170"
+       stroke="#d9f09f"
+       stroke-width="1"
+       id="path7925" />
+    <title
+       id="title7927">Montenegro → Palermo: 1</title>
+  </g>
+  <image
+     width="87.122719"
+     height="87.122719"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABuCAYAAADGWyb7AAAACXBIWXMAAAexAAAHsQEGxWGGAAA4 JmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0w TXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRh LyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMwMTQgNzkuMTU2Nzk3LCAyMDE0LzA4LzIw LTA5OjUzOjAyICAgICAgICAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMu b3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJk ZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFw LzEuMC8iCiAgICAgICAgICAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMv MS4xLyIKICAgICAgICAgICAgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bo b3Rvc2hvcC8xLjAvIgogICAgICAgICAgICB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNv bS94YXAvMS4wL21tLyIKICAgICAgICAgICAgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5j b20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIKICAgICAgICAgICAgeG1sbnM6dGlmZj0i aHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOmV4aWY9Imh0 dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5B ZG9iZSBQaG90b3Nob3AgQ0MgMjAxNCAoV2luZG93cyk8L3htcDpDcmVhdG9yVG9vbD4KICAgICAg ICAgPHhtcDpDcmVhdGVEYXRlPjIwMjEtMDctMjNUMTQ6NDM6NTMrMDI6MDA8L3htcDpDcmVhdGVE YXRlPgogICAgICAgICA8eG1wOk1vZGlmeURhdGU+MjAyMS0wNy0yNVQyMDo0Mzo0MSswMjowMDwv eG1wOk1vZGlmeURhdGU+CiAgICAgICAgIDx4bXA6TWV0YWRhdGFEYXRlPjIwMjEtMDctMjVUMjA6 NDM6NDErMDI6MDA8L3htcDpNZXRhZGF0YURhdGU+CiAgICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uv cG5nPC9kYzpmb3JtYXQ+CiAgICAgICAgIDxwaG90b3Nob3A6Q29sb3JNb2RlPjM8L3Bob3Rvc2hv cDpDb2xvck1vZGU+CiAgICAgICAgIDx4bXBNTTpJbnN0YW5jZUlEPnhtcC5paWQ6MjQwODQ5N2Et MDNkNi02ODRjLThiNzMtNTA4OGVmNzY5MmVjPC94bXBNTTpJbnN0YW5jZUlEPgogICAgICAgICA8 eG1wTU06RG9jdW1lbnRJRD54bXAuZGlkOjI0MDg0OTdhLTAzZDYtNjg0Yy04YjczLTUwODhlZjc2 OTJlYzwveG1wTU06RG9jdW1lbnRJRD4KICAgICAgICAgPHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJ RD54bXAuZGlkOjI0MDg0OTdhLTAzZDYtNjg0Yy04YjczLTUwODhlZjc2OTJlYzwveG1wTU06T3Jp Z2luYWxEb2N1bWVudElEPgogICAgICAgICA8eG1wTU06SGlzdG9yeT4KICAgICAgICAgICAgPHJk ZjpTZXE+CiAgICAgICAgICAgICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgog ICAgICAgICAgICAgICAgICA8c3RFdnQ6YWN0aW9uPmNyZWF0ZWQ8L3N0RXZ0OmFjdGlvbj4KICAg ICAgICAgICAgICAgICAgPHN0RXZ0Omluc3RhbmNlSUQ+eG1wLmlpZDoyNDA4NDk3YS0wM2Q2LTY4 NGMtOGI3My01MDg4ZWY3NjkyZWM8L3N0RXZ0Omluc3RhbmNlSUQ+CiAgICAgICAgICAgICAgICAg IDxzdEV2dDp3aGVuPjIwMjEtMDctMjNUMTQ6NDM6NTMrMDI6MDA8L3N0RXZ0OndoZW4+CiAgICAg ICAgICAgICAgICAgIDxzdEV2dDpzb2Z0d2FyZUFnZW50PkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0 IChXaW5kb3dzKTwvc3RFdnQ6c29mdHdhcmVBZ2VudD4KICAgICAgICAgICAgICAgPC9yZGY6bGk+ CiAgICAgICAgICAgIDwvcmRmOlNlcT4KICAgICAgICAgPC94bXBNTTpIaXN0b3J5PgogICAgICAg ICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICAgICA8dGlmZjpY UmVzb2x1dGlvbj41MDAwMDAvMTAwMDA8L3RpZmY6WFJlc29sdXRpb24+CiAgICAgICAgIDx0aWZm OllSZXNvbHV0aW9uPjUwMDAwMC8xMDAwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRp ZmY6UmVzb2x1dGlvblVuaXQ+MjwvdGlmZjpSZXNvbHV0aW9uVW5pdD4KICAgICAgICAgPGV4aWY6 Q29sb3JTcGFjZT42NTUzNTwvZXhpZjpDb2xvclNwYWNlPgogICAgICAgICA8ZXhpZjpQaXhlbFhE aW1lbnNpb24+MTEwPC9leGlmOlBpeGVsWERpbWVuc2lvbj4KICAgICAgICAgPGV4aWY6UGl4ZWxZ RGltZW5zaW9uPjExMDwvZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0 aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hw YWNrZXQgZW5kPSJ3Ij8+X9Uz0QAAACBjSFJNAAB6JQAAgIMAAPk2AACBSwAAeRcAAPPCAAA8iwAA GccD4pQbAAAeOklEQVR42uxde1yN2fr/trvsanezu6ekopJcuqqUy9jaZYpcShx7pBGiwoQYJOPW oJGZDiecOjnmMJlh0mEMijFyNyQql1JJRTelQrv2+v3h7PfX1ru77m54Pp8+vfu9rLXe9X3Xeq5r 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 2jBpSAAAAABJRU5ErkJggg== "
+     id="image29230"
+     x="1308"
+     y="35.546082"
+     style="opacity:0.477105" />
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7935"
+     transform="translate(708,50)">
+    <path
+       d="m 2,569.0458 c 348,0 348,-175 696,-175"
+       stroke="#69bda9"
+       stroke-width="1"
+       id="path7931" />
+    <title
+       id="title7933">Serbia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7941"
+     transform="translate(708,50)">
+    <path
+       d="m 2,574.73282 c 348,0 348,-180 696,-180"
+       stroke="#496eaf"
+       stroke-width="1"
+       id="path7937" />
+    <title
+       id="title7939">Turchia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7947"
+     transform="translate(708,50)">
+    <path
+       d="m 2,580.41985 c 348,0 348,-185 696,-185"
+       stroke="#4b69ae"
+       stroke-width="1"
+       id="path7943" />
+    <title
+       id="title7945">Ucraina → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7953"
+     transform="translate(708,50)">
+    <path
+       d="m 2,586.10687 c 348,0 348,-190 696,-190"
+       stroke="#b71d48"
+       stroke-width="1"
+       id="path7949" />
+    <title
+       id="title7951">Austria → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7959"
+     transform="translate(708,50)">
+    <path
+       d="m 2,591.79389 c 348,0 348,-195 696,-195"
+       stroke="#bf2649"
+       stroke-width="1"
+       id="path7955" />
+    <title
+       id="title7957">Belgio → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7965"
+     transform="translate(708,50)">
+    <path
+       d="m 2,597.48092 c 348,0 348,-200 696,-200"
+       stroke="#d4404b"
+       stroke-width="1"
+       id="path7961" />
+    <title
+       id="title7963">Bulgaria → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7971"
+     transform="translate(708,50)">
+    <path
+       d="m 2,603.16794 c 348,0 348,-205 696,-205"
+       stroke="#eb6349"
+       stroke-width="1"
+       id="path7967" />
+    <title
+       id="title7969">Cipro → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7977"
+     transform="translate(708,50)">
+    <path
+       d="m 2,608.85496 c 348,0 348,-210 696,-210"
+       stroke="#f3794c"
+       stroke-width="1"
+       id="path7973" />
+    <title
+       id="title7975">Croazia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7983"
+     transform="translate(708,50)">
+    <path
+       d="m 2,614.54198 c 348,0 348,-215 696,-215"
+       stroke="#f6824f"
+       stroke-width="1"
+       id="path7979" />
+    <title
+       id="title7981">Danimarca → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7989"
+     transform="translate(708,50)">
+    <path
+       d="m 2,620.22901 c 348,0 348,-220 696,-220"
+       stroke="#fa9959"
+       stroke-width="1"
+       id="path7985" />
+    <title
+       id="title7987">Estonia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g7995"
+     transform="translate(708,50)">
+    <path
+       d="m 2,625.91603 c 348,0 348,-225 696,-225"
+       stroke="#fcac63"
+       stroke-width="1"
+       id="path7991" />
+    <title
+       id="title7993">Finlandia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8001"
+     transform="translate(708,50)">
+    <path
+       d="m 2,631.60305 c 348,0 348,-230 696,-230"
+       stroke="#fcb066"
+       stroke-width="1"
+       id="path7997" />
+    <title
+       id="title7999">Francia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8007"
+     transform="translate(708,50)">
+    <path
+       d="m 2,637.29008 c 348,0 348,-235 696,-235"
+       stroke="#fdc072"
+       stroke-width="1"
+       id="path8003" />
+    <title
+       id="title8005">Germania → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8013"
+     transform="translate(708,50)">
+    <path
+       d="m 2,642.9771 c 348,0 348,-240 696,-240"
+       stroke="#fed382"
+       stroke-width="1"
+       id="path8009" />
+    <title
+       id="title8011">Grecia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8019"
+     transform="translate(708,50)">
+    <path
+       d="m 2,648.66412 c 348,0 348,-245 696,-245"
+       stroke="#fef1a8"
+       stroke-width="1"
+       id="path8015" />
+    <title
+       id="title8017">Irlanda → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8025"
+     transform="translate(708,50)">
+    <path
+       d="m 2,654.35115 c 348,0 348,-250 696,-250"
+       stroke="#fdf5ac"
+       stroke-width="1"
+       id="path8021" />
+    <title
+       id="title8023">Italia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8031"
+     transform="translate(708,50)">
+    <path
+       d="m 2,660.03817 c 348,0 348,-255 696,-255"
+       stroke="#faf9b0"
+       stroke-width="1"
+       id="path8027" />
+    <title
+       id="title8029">Lettonia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8037"
+     transform="translate(708,50)">
+    <path
+       d="m 2,665.72519 c 348,0 348,-260 696,-260"
+       stroke="#f4f9ad"
+       stroke-width="1"
+       id="path8033" />
+    <title
+       id="title8035">Lituania → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8043"
+     transform="translate(708,50)">
+    <path
+       d="m 2,671.41221 c 348,0 348,-265 696,-265"
+       stroke="#ecf7a6"
+       stroke-width="1"
+       id="path8039" />
+    <title
+       id="title8041">Malta → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8049"
+     transform="translate(708,50)">
+    <path
+       d="m 2,677.09924 c 348,0 348,-270 696,-270"
+       stroke="#b3e0a1"
+       stroke-width="1"
+       id="path8045" />
+    <title
+       id="title8047">Paesi Bassi → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8055"
+     transform="translate(708,50)">
+    <path
+       d="m 2,682.78626 c 348,0 348,-275 696,-275"
+       stroke="#95d4a4"
+       stroke-width="1"
+       id="path8051" />
+    <title
+       id="title8053">Polonia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8061"
+     transform="translate(708,50)">
+    <path
+       d="m 2,688.47328 c 348,0 348,-280 696,-280"
+       stroke="#90d2a4"
+       stroke-width="1"
+       id="path8057" />
+    <title
+       id="title8059">Portogallo → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8067"
+     transform="translate(708,50)">
+    <path
+       d="m 2,694.16031 c 348,0 348,-285 696,-285"
+       stroke="#86cea5"
+       stroke-width="1"
+       id="path8063" />
+    <title
+       id="title8065">Repubblica Ceca → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8073"
+     transform="translate(708,50)">
+    <path
+       d="m 2,699.84733 c 348,0 348,-290 696,-290"
+       stroke="#77c6a6"
+       stroke-width="1"
+       id="path8069" />
+    <title
+       id="title8071">Romania → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8079"
+     transform="translate(708,50)">
+    <path
+       d="m 2,705.53435 c 348,0 348,-295 696,-295"
+       stroke="#54aaaf"
+       stroke-width="1"
+       id="path8075" />
+    <title
+       id="title8077">Slovacchia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8085"
+     transform="translate(708,50)">
+    <path
+       d="m 2,711.22137 c 348,0 348,-300 696,-300"
+       stroke="#50a6b0"
+       stroke-width="1"
+       id="path8081" />
+    <title
+       id="title8083">Slovenia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8091"
+     transform="translate(708,50)">
+    <path
+       d="m 2,716.9084 c 348,0 348,-305 696,-305"
+       stroke="#4a9eb2"
+       stroke-width="1"
+       id="path8087" />
+    <title
+       id="title8089">Spagna → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8097"
+     transform="translate(708,50)">
+    <path
+       d="m 2,722.59542 c 348,0 348,-310 696,-310"
+       stroke="#438db4"
+       stroke-width="1"
+       id="path8093" />
+    <title
+       id="title8095">Svezia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8103"
+     transform="translate(708,50)">
+    <path
+       d="m 2,728.28244 c 348,0 348,-315 696,-315"
+       stroke="#5161aa"
+       stroke-width="1"
+       id="path8099" />
+    <title
+       id="title8101">Ungheria → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8109"
+     transform="translate(708,50)">
+    <path
+       d="m 2,733.96947 c 348,0 348,-320 696,-320"
+       stroke="#b31847"
+       stroke-width="1"
+       id="path8105" />
+    <title
+       id="title8107">Australia → Palermo: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:1"
+     id="g8115"
+     transform="translate(708,50)">
+    <path
+       d="m 2,739.65649 c 348,0 348,-325 696,-325"
+       stroke="#b8e2a1"
+       stroke-width="1"
+       id="path8111" />
+    <title
+       id="title8113">Nuova Zelanda → Palermo: 1</title>
+  </g>
+  <text
+     x="1402"
+     y="426"
+     text-anchor="end"
+     id="text8125"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;opacity:0.632987"><tspan
+       alignment-baseline="middle"
+       x="1402"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan8123">Palermo</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text3892"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3894);fill:#000000;fill-opacity:1;stroke:none" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="1794.5507"
+     y="829.59766"
+     id="text8900"><tspan
+       sodipodi:role="line"
+       id="tspan8898"
+       x="1794.5507"
+       y="829.59766" /></text>
+  <text
+     xml:space="preserve"
+     id="text16230"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16232);fill:#000000;fill-opacity:1;stroke:none" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;direction:rtl;white-space:pre;inline-size:629.009;fill:#000000;fill-opacity:1;stroke:none"
+     x="2243.7852"
+     y="-181.9384"
+     id="text19098-9-2"
+     transform="translate(-840.61805,903.59178)"><tspan
+       x="2243.7852"
+       y="-181.9384"
+       id="tspan4292"><tspan
+   style="fill:#1a1a1a"
+   id="tspan4284">Gli stranieri residenti a Palermo nel</tspan> <tspan
+   style="fill:#800000"
+   id="tspan4286">2020</tspan> <tspan
+   style="fill:#1a1a1a"
+   id="tspan4288">sono</tspan> <tspan
+   style="fill:#800000"
+   id="tspan4290">25.400</tspan> e </tspan><tspan
+       x="2243.7852"
+       y="-156.93841"
+       id="tspan4306"><tspan
+   style="fill:#1a1a1a"
+   id="tspan4294">rappresentano</tspan> <tspan
+   style="fill:#800000"
+   id="tspan4296">130 nazionalità</tspan> <tspan
+   style="fill:#1a1a1a"
+   id="tspan4298">provenienti da</tspan> <tspan
+   style="fill:#800000"
+   id="tspan4300">5 </tspan><tspan
+   style="fill:#800000"
+   id="tspan4302">Continenti</tspan><tspan
+   style="fill:#1a1a1a"
+   id="tspan4304">, </tspan></tspan><tspan
+       x="2243.7852"
+       y="-131.93841"
+       id="tspan4316"><tspan
+   style="fill:#1a1a1a"
+   id="tspan4308">oggi sono il</tspan><tspan
+   style="fill:#800000"
+   id="tspan4310"> 3,89% della </tspan><tspan
+   style="fill:#800000"
+   id="tspan4312">popolazione</tspan> <tspan
+   style="fill:#1a1a1a"
+   id="tspan4314">totale (653.570)</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text21446"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect21448)" />
+  <text
+     xml:space="preserve"
+     id="text25616"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect25618)" />
+</svg>

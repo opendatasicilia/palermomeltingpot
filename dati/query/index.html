@@ -1,0 +1,1371 @@
+<!-- Elements added to main will be displayed on all pages -->
+
+<!doctype html>
+<html lang="it" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Trasformare la forma/struttura da orizontale a verticale con le query">
+      
+      
+        <meta name="author" content="gbvitrano">
+      
+      
+        <link rel="canonical" href="https://opendatasicilia.github.io/palermomeltingpot/dati/query/">
+      
+      <link rel="icon" href="../../img/favicon.ico">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.2.5">
+    
+    
+      
+        <title>Trasformazione per query - Palermo Melting Pot | 2020</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.2d9f7617.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.e6a45f82.min.css">
+        
+      
+    
+    
+
+<!-- Automatic page load progress bar https://github.com/CodeByZach/pace -->
+
+<style> 
+.pace .pace-progress{height:4rem!important; width:4rem!important; }
+.pace .pace-progress:after{font-size:4rem!important; color: rgba(0, 0, 0, 0.075)!important;}
+ @media screen and (max-width: 1000px) {
+.pace .pace-progress:after  {font-size: 2rem!important; top: 55px!important;}} 
+</style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/white/pace-theme-big-counter.min.css" />
+
+    <script>
+        paceOptions = {
+			restartOnPushState: false,
+			restartOnRequestAfter: false,
+            ajax: true,      // disabled
+            document: true,  // activated
+            eventLag: false  // disabled
+            //target: 'article'
+            //elements: {selectors: ['.my-page']}
+        };
+    </script>
+<!-- css font-awesome 4.7.0) --> 
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- Qui Progress bar) --> 
+<script src="https://opendatasicilia.github.io/palermomeltingpot/stylesheets/jquery-3.1.1.min.js"></script>
+
+<!-- eu-cookie-lawt -->
+<link href="https://opendatasicilia.github.io/palermomeltingpot/stylesheets/jquery-eu-cookie-law-popup.css" rel="stylesheet" type="text/css"/>
+<script src="https://opendatasicilia.github.io/palermomeltingpot/stylesheets/jquery-eu-cookie-law-popup.js"></script> 
+
+
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/gbextra_ukraine.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+
+  <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-GXKVRSXWES"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&gtag("event","search",{search_term:this.value})}),"undefined"!=typeof location$&&location$.subscribe(function(e){gtag("config","G-GXKVRSXWES",{page_path:e.pathname})})})</script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GXKVRSXWES"></script>
+
+
+    
+     
+<!-- Social card -->	 
+<!-- Social card full site twetter -->	 
+  
+    
+    
+  
+<!-- twitter --> 
+  <meta property="twitter:image" content="https://opendatasicilia.github.io/palermomeltingpot/img/Palermo_World_Ukraine_clip.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="https://opendatasicilia.github.io/palermomeltingpot/"/>
+  <meta name="twitter:creator" content="Giovan Battista Vitrano" />
+  <meta name="twitter:title" content="Palermo Melting Pot | 2020 - Trasformazione per query" />
+  <meta name="twitter:description" content="Quando i dati sono disponibili (open, machine readable e con la licenza giusta) ciascuno di noi può dare libero sfogo alle proprie competenze e alla propria fantasia per far parlare quei dati al meglio, scegliendo o creando la rappresentazione che ritiene più efficace per evidenziare quelli che si ritengono gli aspetti salienti." />	  
+  <!-- facebook single page -->
+  
+<!-- Social card full  site facebook-->	 
+  
+    
+    
+  
+<!-- facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Palermo Melting Pot | 2020 - Trasformazione per query" />
+  <meta property="og:description" content="Quando i dati sono disponibili (open, machine readable e con la licenza giusta) ciascuno di noi può dare libero sfogo alle proprie competenze e alla propria fantasia per far parlare quei dati al meglio, scegliendo o creando la rappresentazione che ritiene più efficace per evidenziare quelli che si ritengono gli aspetti salienti." />
+  <meta property="og:url" content="https://opendatasicilia.github.io/palermomeltingpot/dati/query/" />
+  <meta property="og:image" content="https://opendatasicilia.github.io/palermomeltingpot/img/Palermo_World_Ukraine_clip.jpg" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />	  
+<!-- Twetter single page -->
+
+  
+
+<!-- Meta tags --> 
+  <meta name="keywords" content="covid19, vaccini, zona rossa, hub vaccinali, sicilia, italia">  
+  <meta name="author" content="Template by Giovan Battista Vitrano (@gbvitrano) per OpenDataSicilia.it"> 
+  <meta name="creation_Date" content="01/07/2021">
+  <meta property="robots" content="index, follow" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <!-- RSS Feed -->
+  <link rel="alternate" type="application/rss+xml" title="RSS feed of created content" href="https://opendatasicilia.github.io/palermomeltingpot/feed_rss_created.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="https://opendatasicilia.github.io/palermomeltingpot/feed_rss_updated.xml">
+
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent="orange">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#query-e-tabelle-pivot-con-dataworld" class="md-skip">
+          Vai al contenuto
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Intestazione">
+    <a href="../.." title="Palermo Melting Pot | 2020" class="md-header__button md-logo" aria-label="Palermo Melting Pot | 2020" data-md-component="logo">
+      
+  <img src="../../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Palermo Melting Pot | 2020
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Trasformazione per query
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Cerca" placeholder="Cerca" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Cerca">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" aria-label="Condividi" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Cancella" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inizializza la ricerca
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../dati/" class="md-tabs__link md-tabs__link--active">
+        Dataset
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../dove/provenienza/" class="md-tabs__link">
+        Da dove arrivano
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../dove/quanti/" class="md-tabs__link">
+        Quanti sono
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../dove/chi/" class="md-tabs__link">
+        Chi sono
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../dove/dove_vivono/" class="md-tabs__link">
+        Dove vivono
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../rapporto/rapporto/" class="md-tabs__link">
+        Stranieri/Italiani
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigazione" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Palermo Melting Pot | 2020" class="md-nav__button md-logo" aria-label="Palermo Melting Pot | 2020" data-md-component="logo">
+      
+  <img src="../../img/logo.png" alt="logo">
+
+    </a>
+    Palermo Melting Pot | 2020
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Dataset
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Dataset" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Dataset
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dati/" class="md-nav__link">
+        Opendata
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rielaborazione/" class="md-nav__link">
+        Rielaborazione dataset
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../forma/" class="md-nav__link">
+        Trasformazione di forma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sintesi/" class="md-nav__link">
+        Trasformazione di sintesi
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Trasformazione per query
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Trasformazione per query
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Indice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Indice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#condivisione-del-dataset" class="md-nav__link">
+    Condivisione del dataset
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#query-e-pivot-con-dataworld" class="md-nav__link">
+    Query e Pivot con Data.World
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esempio-1-select-from" class="md-nav__link">
+    Esempio 1️⃣  SELECT * FROM
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esempio-2-select-from" class="md-nav__link">
+    Esempio 2️⃣  SELECT * FROM
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esempio-3-select-distinct" class="md-nav__link">
+    Esempio 3️⃣  SELECT DISTINCT
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esempio-4-pivot" class="md-nav__link">
+    Esempio 4️⃣  PIVOT
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esempio-5-pivot" class="md-nav__link">
+    Esempio 5️⃣  PIVOT
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../data_world/" class="md-nav__link">
+        Data.World
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../visidata/" class="md-nav__link">
+        VisiData
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Da dove arrivano
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Da dove arrivano" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Da dove arrivano
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dove/provenienza/" class="md-nav__link">
+        Paese di provenienza
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Quanti sono
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Quanti sono" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Quanti sono
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dove/quanti/" class="md-nav__link">
+        I numeri
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Chi sono
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chi sono" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Chi sono
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dove/chi/" class="md-nav__link">
+        Nazionalità straniere presenti
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Dove vivono
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Dove vivono" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Dove vivono
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dove/dove_vivono/" class="md-nav__link">
+        Distribuzione geografica
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dove/one-person-one-dot/" class="md-nav__link">
+        One-Person-One-Dot
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dove/melting_pot/" class="md-nav__link">
+        Melting Pot
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Stranieri/Italiani
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Stranieri/Italiani" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Stranieri/Italiani
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rapporto/rapporto/" class="md-nav__link">
+        Rapporto stranieri/italiani
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+<!-- pulsante stampa 	-->
+
+                
+
+  
+
+  <nav class="md-tags" >
+    
+      
+        <a href="../../tags/#dataset" class="md-tag">
+          Dataset
+        </a>
+      
+    
+      
+        <a href="../../tags/#csv" class="md-tag">
+          CSV
+        </a>
+      
+    
+      
+        <a href="../../tags/#query" class="md-tag">
+          Query
+        </a>
+      
+    
+  </nav>
+
+
+
+<h1 id="query-e-tabelle-pivot-con-dataworld">Query e tabelle Pivot con Data.world<a class="headerlink" href="#query-e-tabelle-pivot-con-dataworld" title="Permanent link">↵</a></h1>
+<h3 id="condivisione-del-dataset">Condivisione del dataset<a class="headerlink" href="#condivisione-del-dataset" title="Permanent link">↵</a></h3>
+<p>Il dataset rielaborato sulla popolazione straniera residente a Palermo nel 2020 è stato condiviso su <strong><a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020">Data.Worls</a></strong> | <strong><a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020">Popolazione residente a Palermo - 2020</a></strong> <a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020" title="Apri a schermo intero"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M128 32H32C14.31 32 0 46.31 0 64v96c0 17.69 14.31 32 32 32s32-14.31 32-32V96h64c17.69 0 32-14.31 32-32s-14.3-32-32-32zm288 0h-96c-17.69 0-32 14.31-32 32s14.31 32 32 32h64v64c0 17.69 14.31 32 32 32s32-14.31 32-32V64c0-17.69-14.3-32-32-32zM128 416H64v-64c0-17.69-14.31-32-32-32S0 334.31 0 352v96c0 17.69 14.31 32 32 32h96c17.69 0 32-14.31 32-32s-14.3-32-32-32zm288-96c-17.69 0-32 14.31-32 32v64h-64c-17.69 0-32 14.31-32 32s14.31 32 32 32h96c17.69 0 32-14.31 32-32v-96c0-17.7-14.3-32-32-32z"/></svg></span></a></p>
+<p><strong>Cos'è data.world...?</strong> <br>
+<em><a href="https://medium.com/tantotanto/data-world-uno-youtube-per-i-dati-6f77d3176868">data.world, è uno YouTube per i dati</a></em> come ci spiega <a href="https://twitter.com/aborruso">Andrea Borruso</a> su <a href="https://medium.com/tantotanto/data-world-uno-youtube-per-i-dati-6f77d3176868">medium</a>.</p>
+<figure>
+<p><a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020"><img alt="" src="../../img/dataworld_01.png" title="Apri il dataset su Data.World" /></a>
+  </p>
+<figcaption>Data.World dataset Popolazione residente a Palermo - 2020</figcaption>
+</figure>
+<p>In <strong><a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020">Data.Worls</a></strong> è disponibile un <em>query editor</em> con cui è possibile interrogare tutti i dataset pubblicati su data.world e metterli anche in correlazione tra loro. Qui la <strong><a href="https://docs.data.world/documentation/sql/concepts/advanced/PIVOT.html">guida</a></strong></p>
+<h3 id="query-e-pivot-con-dataworld">Query e Pivot con Data.World<a class="headerlink" href="#query-e-pivot-con-dataworld" title="Permanent link">↵</a></h3>
+<p><strong><a href="https://it.wikipedia.org/wiki/Query">Query</a></strong> in italiano significa: domanda, interrogazione, richiesta. Una <em>query</em> di ricerca è un insieme di parole chiave con cui un utente esprime il suo intento di ricerca (Search Intent). Ogni volta che scriviamo sulla barra di ricerca di un qualsiasi <em>motore di ricerca</em> scriviamo una <strong>query database</strong>, ovvero un’interrogazione che viene fatta ad un database di contenuti.</p>
+<p>Una tabella <strong><a href="https://it.wikipedia.org/wiki/Tabella_pivot">Pivot</a></strong> è uno strumento analitico e di reporting necessario alla creazione di tabelle riassuntive. Uno dei fini principali di queste tabelle è l’organizzazione di dati complessi tramite una scelta opportuna dei campi e degli elementi che devono comporla.</p>
+<hr />
+<h3 id="esempio-1-select-from">Esempio 1️⃣  SELECT * FROM<a class="headerlink" href="#esempio-1-select-from" title="Permanent link">↵</a></h3>
+<p>Filtrare in tutto il dataset <strong>SOLO</strong> cittadini stranieri di provenienza dai Paesi dell'Unione Europea <strong>EU-27</strong></p>
+<div class="highlight"><pre><span></span><code>select * from palermo_residenti_ita_world_iso3166_territorio where palermo_residenti_ita_world_iso3166_territorio.sub_region_unsd like &quot;EU-27&quot;
+</code></pre></div>
+<figure>
+<p><a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020/workspace/query?queryid=6117f73f-a46f-44c0-b620-f327f1191379"><img alt="" src="../../img/dataworld_02.png" title="Apri il dataset su Data.World" /></a>
+  </p>
+<figcaption>Data.World | query Cittadini stranieri EU-27</figcaption>
+</figure>
+<hr />
+<h3 id="esempio-2-select-from">Esempio 2️⃣  SELECT * FROM<a class="headerlink" href="#esempio-2-select-from" title="Permanent link">↵</a></h3>
+<p>Filtrare in tutto il dataset <strong>SOLO</strong> cittadini stranieri residenti nella <strong>I°</strong> Circoscrizione</p>
+<div class="highlight"><pre><span></span><code>select * from palermo_residenti_ita_world_iso3166_territorio where palermo_residenti_ita_world_iso3166_territorio.circoscrizione
+ like &quot;I&quot;
+</code></pre></div>
+<figure>
+<p><a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020/workspace/query?queryid=6bb058b6-eb9f-41e0-a678-bb211e92ead4"><img alt="" src="../../img/dataworld_03.png" title="Apri il dataset su Data.World" /></a>
+  </p>
+<figcaption>Data.World | quey Residenti nella I° Circoscrizione</figcaption>
+</figure>
+<hr />
+<h3 id="esempio-3-select-distinct">Esempio 3️⃣  SELECT DISTINCT<a class="headerlink" href="#esempio-3-select-distinct" title="Permanent link">↵</a></h3>
+<p>La query estrare/filtra il dataset in base alle nostre richieste.
+Abbiamo chiesto di estrarre i residenti del quartiere <strong>Noce</strong>, per <em>sezioni censuarie, upl, circoscrizione e nazionalità di provenienza</em></p>
+<div class="highlight"><pre><span></span><code>SELECT DISTINCT sez, upl, circoscrizione, residenti, denominazione_it
+FROM palermo_residenti_ita_world_iso3166_territorio where palermo_residenti_ita_world_iso3166_territorio.quartiere like &quot;Noce&quot;
+</code></pre></div>
+<figure>
+<p><a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020/workspace/query?queryid=5ff732e4-80d9-442d-89a4-da560a2ffa98"><img alt="" src="../../img/dataworld_04.png" title="Apri il dataset su Data.World" /></a>
+  </p>
+<figcaption>Data.World Esempio di Query SELECT DISTINCT</figcaption>
+</figure>
+<hr />
+<h3 id="esempio-4-pivot">Esempio 4️⃣  PIVOT<a class="headerlink" href="#esempio-4-pivot" title="Permanent link">↵</a></h3>
+<p>Residenti stranieri per Circoscrizione e Sub-Regione</p>
+<div class="highlight"><pre><span></span><code>WITH table1 AS (
+    SELECT t1.circoscrizione AS circoscrizione, sub_region_unsd AS nome
+      FROM palermo_residenti_ita_world_iso3166_territorio AS t1
+)
+SELECT *
+  FROM table1
+ PIVOT (COUNT (nome) FOR nome IN (&quot;Australia and New Zealand&quot;, &quot;Central Asia&quot;, &quot;Eastern Asia&quot;, &quot;EU-27&quot;, &quot;Europeans out of EU&quot;, &quot;Latin America and the Caribbean&quot;, &quot;Northern Africa&quot;,&quot;Northern America&quot;, &quot;South-eastern Asia&quot;, &quot;Southern Asia&quot;, &quot;Sub-Saharan Africa&quot;, &quot;Western Asia&quot; ))
+</code></pre></div>
+<figure>
+<p><a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020/workspace/query?queryid=94154b8b-e779-4ba4-befb-40dd1131f7cc"><img alt="" src="../../img/dataworld_05.png" title="Apri il dataset su Data.World" /></a>
+  </p>
+<figcaption>Data.World Esempio di Query per tabella Pivot</figcaption>
+</figure>
+<hr />
+<h3 id="esempio-5-pivot">Esempio 5️⃣  PIVOT<a class="headerlink" href="#esempio-5-pivot" title="Permanent link">↵</a></h3>
+<p>Residenti stranieri per quartiere e Continente</p>
+<div class="highlight"><pre><span></span><code>WITH table1 AS (
+    SELECT t1.quartiere AS quartiere, denominazione_continente_it AS nome
+      FROM palermo_residenti_ita_world_iso3166_territorio AS t1
+)
+SELECT *
+  FROM table1
+ PIVOT (COUNT (nome) FOR nome IN (&quot;Africa&quot;, &quot;America&quot;, &quot;Europa&quot;, &quot;Asia&quot;, &quot;Oceania&quot;))
+</code></pre></div>
+<figure>
+<p><a href="https://data.world/gbvitrano/popolazione-residente-a-palermo-2020/workspace/query?queryid=93243c8a-e78b-4f04-a048-599e8bf5cda4"><img alt="" src="../../img/dataworld_06.png" title="Apri il dataset su Data.World" /></a>
+  </p>
+<figcaption>Data.World Esempio di Query per tabella Pivot</figcaption>
+</figure>
+<p>Grazie a <a href="https://twitter.com/totofiandaca">Totò Fiandaca</a> e  <a href="https://twitter.com/aborruso">Andrea Borruso</a> per gli esempi  4️⃣  e 5️⃣  Altri esempi di query con data.world consiglio questa <a href="https://tansignari.opendatasicilia.it/ricette/query/creare_tabella_pivot/">ricetta</a> su <a href="https://tansignari.opendatasicilia.it/">tansignari.opendatasicilia.it</a></p>
+
+              
+ <!-- zoomn image  -->
+ <link rel="stylesheet" href="https://opendatasicilia.github.io/palermomeltingpot/stylesheets/zoomimage/simple-lightbox.css?v2.8.0" />
+
+<script src="https://opendatasicilia.github.io/palermomeltingpot/stylesheets/zoomimage/simple-lightbox.js?v2.8.0"></script>
+
+<script>
+    (function() {
+        var $gallery = new SimpleLightbox('p a', {});
+    })();
+</script>
+
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            Torna su
+          </a>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Piede">
+      
+        
+        <a href="../sintesi/" class="md-footer__link md-footer__link--prev" aria-label="Precedente: Trasformazione di sintesi" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Precedente
+              </span>
+              Trasformazione di sintesi
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../data_world/" class="md-footer__link md-footer__link--next" aria-label="Prossimo: Data.World" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Prossimo
+              </span>
+              Data.World
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+	  <a href="https://twitter.com/opendatasicilia" title="@opendatasicilia " target="_blank">@opendatasicilia </a>2021 |   
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)" target="_blank" class="link-dark text-decoration-none">CC BY-SA 4.0</a> | <a href="https://opendatasicilia.github.io/palermomeltingpot/ods/" target="_self" title="About" >About</a> | <a href="https://opendatasicilia.github.io/palermomeltingpot/tags/" target="_self" title="Tags" >Tags</a>  | <a href="https://opendatasicilia.github.io/palermomeltingpot/privacy/" target="_self" title="Informativa privacy estesa" >Privacy</a>
+		<div class="md-footer-copyright__highlight">      
+          </div>
+        
+        
+Template by  <a href="https://twitter.com/gbvitrano" title="@gbvitrano " target="_blank">@gbvitrano</a> <br> 
+ Realizzato con <a href="https://squidfunk.github.io/mkdocs-material/" title="Material for MkDocs" target="_blank"> Material for MkDocs </a> e altre <a href="https://opendatasicilia.github.io/palermomeltingpot/strumenti/" title="Principali risorse usate per realizzare il sito"> risorse </a>
+          </a>
+        
+        
+      </div>
+      <div class="md-social">
+ <div>
+    <!-- menù top -->
+      
+       
+  
+  
+
+
+  <li class="md-tabs__itemfooter">
+    <a href="../.." class="md-tabs__linkfooter">
+      Home
+    </a>
+  </li>
+
+      
+       
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__itemfooter">
+      <a href="../dati/" class="md-tabs__linkfooter md-tabs__linkfooter--active">
+        Dataset
+      </a>
+    </li>
+  
+
+      
+       
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__itemfooter">
+      <a href="../../dove/provenienza/" class="md-tabs__linkfooter">
+        Da dove arrivano
+      </a>
+    </li>
+  
+
+      
+       
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__itemfooter">
+      <a href="../../dove/quanti/" class="md-tabs__linkfooter">
+        Quanti sono
+      </a>
+    </li>
+  
+
+      
+       
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__itemfooter">
+      <a href="../../dove/chi/" class="md-tabs__linkfooter">
+        Chi sono
+      </a>
+    </li>
+  
+
+      
+       
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__itemfooter">
+      <a href="../../dove/dove_vivono/" class="md-tabs__linkfooter">
+        Dove vivono
+      </a>
+    </li>
+  
+
+      
+       
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__itemfooter">
+      <a href="../../rapporto/rapporto/" class="md-tabs__linkfooter">
+        Stranieri/Italiani
+      </a>
+    </li>
+  
+
+        
+      <!-- fine menù top --> </div> 
+  
+    
+    
+    <a href="https://opendatasicilia.github.io/palermomeltingpot/" target="_blank" rel="noopener" title="Home Page" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.1c0 2.8-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40h-16c-1.1 0-2.2-.9-3.3-.1-1.4-.8-2.8.1-4.2.1H392c-22.1 0-40-17.9-40-40v-88c0-17.7-14.3-32-32-32h-64c-17.7 0-32 14.3-32 32v88c0 22.1-17.9 40-40 40h-55.9c-1.5 0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2h-16c-22.09 0-40-17.9-40-40V360c0-.9.03-1.9.09-2.8v-69.6H32.05C14.02 287.6 0 273.5 0 255.5c0-9 3.004-17 10.01-24L266.4 8.016c7-7.014 15-8.016 22-8.016s15 2.004 21.1 7.014L564.8 231.5c8 7 12.1 15 11 24z"/></svg>
+    </a>
+  
+    
+    
+    <a href="http://twitter.com/opendatasicilia" target="_blank" rel="noopener" title="account twitter" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://www.facebook.com/groups/opendatasicilia/" target="_blank" rel="noopener" title="gruppo facebook" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://github.com/opendatasicilia/palermomeltingpot" target="_blank" rel="noopener" title="Repoisitory GitHub" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    <a href="http://twitter.com/opendatasicilia" target="_blank" rel="noopener" title="gruppo Telegram" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M248 8C111.033 8 0 119.033 0 256s111.033 248 248 248 248-111.033 248-248S384.967 8 248 8zm114.952 168.66c-3.732 39.215-19.881 134.378-28.1 178.3-3.476 18.584-10.322 24.816-16.948 25.425-14.4 1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25 5.342-39.5 3.652-3.793 67.107-61.51 68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608 69.142-14.845 10.194-26.894 9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7 18.45-13.7 108.446-47.248 144.628-62.3c68.872-28.647 83.183-33.623 92.511-33.789 2.052-.034 6.639.474 9.61 2.885a10.452 10.452 0 0 1 3.53 6.716 43.765 43.765 0 0 1 .417 9.769z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank" rel="noopener" title="mailing list OpenDataSicilia" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M256 352c-16.53 0-33.06-5.422-47.16-16.41L0 173.2V400c0 26.5 21.49 48 48 48h416c26.51 0 48-21.49 48-48V173.2L303.2 335.7C289.1 346.6 272.5 352 256 352zM16.29 145.3l212.2 165.1c16.19 12.6 38.87 12.6 55.06 0l212.2-165.1C505.1 137.3 512 125 512 112c0-26.51-21.5-48-48-48H48C21.49 64 0 85.49 0 112c0 13 6.01 25.3 16.29 33.3z"/></svg>
+    </a>
+  
+    
+    
+    <a href="../feed_rss_created.xml" target="_blank" rel="noopener" title="Feed RSS" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M25.57 176.1C12.41 175.4.912 185.2.052 198.4s9.173 24.65 22.39 25.5c120.1 7.875 225.7 112.7 233.6 233.6C256.9 470.3 267.4 480 279.1 480c.531 0 1.062-.031 1.594-.063 13.22-.843 23.25-12.28 22.39-25.5C294.6 310.3 169.7 185.4 25.57 176.1zM32 32C14.33 32 0 46.31 0 64s14.33 32 32 32c194.1 0 352 157.9 352 352 0 17.69 14.33 32 32 32s32-14.31 32-32C448 218.6 261.4 32 32 32zm31.1 319.9C28.63 351.9 0 380.6 0 416s28.63 64 63.1 64 64.08-28.62 64.08-64-27.81-64.1-64.08-64.1z"/></svg>
+    </a>
+  
+    
+    
+    <a href="http://opendatasicilia.it/" target="_blank" rel="noopener" title="opendatasicilia.it" class="md-social__link">
+      <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 600 512"
+   version="1.1"
+   id="svg850"
+   sodipodi:docname="ods.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   width="600"
+   height="512"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs854" />
+  <sodipodi:namedview
+     id="namedview852"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     showgrid="false"
+     inkscape:zoom="0.74121094"
+     inkscape:cx="-26.982872"
+     inkscape:cy="118.05007"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg850"
+     scale-x="1" />
+  <polygon
+     class="fil3 str1"
+     points="30279.07,103026.43 15545.66,77445.57 811.64,51864.91 15545.66,26284.05 30279.07,703.39 59747.29,703.39 89215.31,703.39 103948.73,26284.05 118682.74,51864.91 103948.73,77445.57 89215.31,103026.43 59747.29,103026.43 "
+     id="polygon863"
+     transform="matrix(0.00491612,0,0,0.00491612,6.2756446,1.0258787)"
+     style="clip-rule:evenodd;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#e6e6e6;stroke-width:1406.77;stroke-miterlimit:22.9256;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+  <g
+     id="g2125"
+     transform="matrix(1.2079036,0,0,1.2079036,-36.667457,-62.51933)"
+     style="fill:#000000">
+    <path
+       class="fil0"
+       d="m 120.89639,220.93785 c 2.17465,-22.88007 16.42112,-39.0468 40.69742,-37.12909 26.68763,2.10872 27.79399,21.56243 39.67225,37.16118 l -80.36967,-0.0321 z m 177.43263,-37.46039 c -1.04803,-14.8888 -7.58218,-29.60185 -1.78337,-43.67926 14.3868,-34.92227 74.8295,-30.89749 71.71582,22.08894 39.72969,0.45051 52.51401,22.88511 39.53447,59.36255 l -48.53319,0.20539 c -16.37042,47.50797 -60.73343,46.84618 -76.53761,-0.35669 -19.69204,-0.003 -45.01806,3.82871 -60.28043,-6.49189 -46.30865,-31.31332 10.83444,-99.06523 49.68262,-54.44778 7.24665,8.32256 5.71009,14.6885 10.55046,23.23841 l 15.65118,0.0803 z m 116.39155,55.23213 c 28.17853,-32.52112 18.31098,-71.49182 -11.16408,-87.19456 -19.48918,-10.38397 -13.3979,1.59404 -22.45915,-20.02672 -7.50778,-17.91541 -29.21388,-34.124437 -55.83813,-31.537313 -25.4359,2.473003 -39.95284,19.320973 -47.48428,39.846353 -45.60036,-25.23814 -82.07779,-2.88463 -88.74802,34.1743 -25.72244,-8.81444 -44.35542,-13.22804 -65.83332,5.07449 -12.97699,11.05759 -27.717888,34.38223 -16.30619,59.02871 l 159.25353,0.34316 c 26.20504,4.65024 33.20487,58.09476 88.7142,21.03922 l 9.87683,-16.42875 c 5.09142,-8.48988 7.35988,-4.86825 24.13599,-4.5133 8.66992,0.18173 17.16998,0.23328 25.85258,0.19441 z"
+       id="path852"
+       style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:0.00423924;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <path
+       class="fil2 str0"
+       d="m 125.74354,293.54874 7.21705,-36.58223 h -23.86302 l -1.70307,8.66234 h 8.93025 l -5.51148,27.91989 h 14.93022 z m 38.85407,-36.89496 c -14.64623,0 -23.95768,6.62712 -26.31491,18.57805 -2.35808,12.00252 4.33327,18.63044 18.9795,18.63044 14.43156,0 23.88583,-6.62797 26.24475,-18.63044 2.35639,-11.95093 -4.47778,-18.57805 -18.90938,-18.57805 z m -1.54753,7.87969 c 5.21481,0 6.715,2.87026 5.16746,10.69836 -1.53655,7.82814 -4.19129,10.74995 -9.40776,10.74995 -5.35764,0 -6.84519,-2.92181 -5.31033,-10.74995 1.54923,-7.82814 4.19214,-10.69836 9.55063,-10.69836 z m 43.63869,29.01527 7.21705,-36.58223 h -23.86217 l -1.70307,8.66234 h 8.93025 l -5.51232,27.91989 h 14.93022 z m 30.36419,0 7.21706,-36.58223 H 220.407 l -1.70308,8.66234 h 8.93111 l -5.51233,27.91989 h 14.93022 z m 38.85408,-36.89496 c -14.64539,0 -23.95768,6.62712 -26.31491,18.57805 -2.35723,12.00252 4.33496,18.63044 18.9795,18.63044 14.43325,0 23.88583,-6.62797 26.24475,-18.63044 2.35638,-11.95093 -4.47697,-18.57805 -18.90938,-18.57805 z m -1.54753,7.87969 c 5.21481,0 6.71499,2.87026 5.16746,10.69836 -1.53655,7.82814 -4.19129,10.74995 -9.40692,10.74995 -5.35848,0 -6.84603,-2.92181 -5.31032,-10.74995 1.54838,-7.82814 4.19214,-10.69836 9.54978,-10.69836 z m 52.12942,-7.87969 c -14.64539,0 -23.95683,6.62712 -26.31491,18.57805 -2.35808,12.00252 4.33411,18.63044 18.98035,18.63044 14.43156,0 23.88583,-6.62797 26.2439,-18.63044 2.35639,-11.95093 -4.47778,-18.57805 -18.90938,-18.57805 z m -1.54753,7.87969 c 5.21481,0 6.71584,2.87026 5.16746,10.69836 -1.53655,7.82814 -4.19129,10.74995 -9.40691,10.74995 -5.35849,0 -6.84604,-2.92181 -5.31118,-10.74995 1.54923,-7.82814 4.19299,-10.69836 9.55063,-10.69836 z m 43.63954,29.01527 7.21705,-36.58223 h -23.86302 l -1.70307,8.66234 h 8.93025 l -5.51148,27.91989 h 14.93023 z m 38.85408,-36.89496 c -14.64539,0 -23.95769,6.62712 -26.31492,18.57805 -2.35892,12.00252 4.33327,18.63044 18.9795,18.63044 14.43156,0 23.88583,-6.62797 26.24476,-18.63044 2.35638,-11.95093 -4.47779,-18.57805 -18.90939,-18.57805 z m -1.54754,7.87969 c 5.21482,0 6.715,2.87026 5.16746,10.69836 -1.53655,7.82814 -4.19129,10.74995 -9.40776,10.74995 -5.35764,0 -6.84518,-2.92181 -5.31033,-10.74995 1.54923,-7.82814 4.19215,-10.69836 9.55063,-10.69836 z m -271.6541,55.73503 c -14.64539,0 -23.95684,6.62627 -26.31407,18.57719 -2.35892,12.00337 4.33327,18.63129 18.9795,18.63129 14.43156,0 23.88583,-6.62796 26.24391,-18.63129 2.35723,-11.95092 -4.47698,-18.57719 -18.90938,-18.57719 z m -1.54754,7.87968 c 5.21567,0 6.71585,2.87027 5.16832,10.69756 -1.53741,7.82813 -4.19299,10.74995 -9.40777,10.74995 -5.35848,0 -6.84603,-2.92182 -5.31117,-10.74995 1.55008,-7.82729 4.19299,-10.69756 9.55062,-10.69756 z m 43.63955,29.01527 7.2162,-36.58307 h -23.86217 l -1.70223,8.66318 h 8.92941 l -5.51233,27.91989 h 14.93107 z m 30.36334,0 7.21705,-36.58307 h -23.86217 l -1.70307,8.66318 h 8.93025 l -5.51232,27.91989 h 14.93022 z m 38.85492,-36.89495 c -14.64623,0 -23.95768,6.62627 -26.31491,18.57719 -2.35892,12.00337 4.33327,18.63129 18.9795,18.63129 14.43156,0 23.88583,-6.62796 26.24391,-18.63129 2.35723,-11.95092 -4.47698,-18.57719 -18.90854,-18.57719 z m -1.54753,7.87968 c 5.21482,0 6.715,2.87027 5.16746,10.69756 -1.53655,7.82813 -4.19214,10.74995 -9.40776,10.74995 -5.35764,0 -6.84603,-2.92182 -5.31033,-10.74995 1.54923,-7.82729 4.19214,-10.69756 9.55063,-10.69756 z m 43.63869,29.01527 7.21706,-36.58307 h -23.86303 l -1.70222,8.66318 h 8.92941 l -5.51148,27.91989 h 14.93022 z m 30.36335,0 7.21705,-36.58307 h -23.86217 l -1.70308,8.66318 h 8.93111 l -5.51233,27.91989 h 14.92938 z m 30.36504,0 7.2162,-36.58307 h -23.86302 l -1.70307,8.66318 h 8.9311 l -5.51232,27.91989 h 14.93107 z m 30.36334,0 7.21621,-36.58307 h -23.86218 l -1.70307,8.66318 h 8.9311 l -5.51317,27.91989 h 14.93107 z m 30.36419,0 7.21621,-36.58307 h -23.86302 l -1.70307,8.66318 h 8.9311 l -5.51233,27.91989 h 14.93107 z m -220.76367,63.61387 7.2162,-36.58223 h -23.86217 l -1.70308,8.66318 h 8.93026 l -5.51233,27.91909 h 14.93107 z m 124.23911,0 7.2162,-36.58223 H 295.9202 l -1.70308,8.66318 h 8.93111 l -5.51318,27.91909 h 14.93107 z m 38.85407,-36.89496 c -14.64539,0 -23.95768,6.62712 -26.31406,18.57805 -2.35893,12.00252 4.33326,18.63044 18.97865,18.63044 14.43241,0 23.88583,-6.62797 26.24391,-18.63044 2.35807,-11.95093 -4.47613,-18.57805 -18.90854,-18.57805 z m -1.54838,7.87969 c 5.21651,0 6.71585,2.87026 5.16831,10.69836 -1.5374,7.82814 -4.19214,10.74995 -9.40692,10.74995 -5.35933,0 -6.84683,-2.92181 -5.31117,-10.74995 1.54923,-7.82814 4.19214,-10.69836 9.54978,-10.69836 z m 59.28564,29.01527 7.21705,-36.58223 h -23.86302 l -1.70222,8.66318 h 8.92941 l -5.51148,27.91909 h 14.93022 z"
+       id="path860"
+       style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:0.00423924;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+  </g>
+</svg>
+    </a>
+  
+    
+    
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" target="_blank" rel="noopener" title="Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="m245.83 214.87-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31 15.5c-2.1 3.75-21.39 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.63-77.06 30.71-.01 52.58 11.95 65.56 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" target="_blank" rel="noopener" title="Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M314.9 194.4v101.4h-28.3v120.5h-77.1V295.9h-28.3V194.4c0-4.4 1.6-8.2 4.6-11.3 3.1-3.1 6.9-4.7 11.3-4.7H299c4.1 0 7.8 1.6 11.1 4.7 3.1 3.2 4.8 6.9 4.8 11.3zm-101.5-63.7c0-23.3 11.5-35 34.5-35s34.5 11.7 34.5 35c0 23-11.5 34.5-34.5 34.5s-34.5-11.5-34.5-34.5zM247.6 8C389.4 8 496 118.1 496 256c0 147.1-118.5 248-248.4 248C113.6 504 0 394.5 0 256 0 123.1 104.7 8 247.6 8zm.8 44.7C130.2 52.7 44.7 150.6 44.7 256c0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8.1-113.8-90.2-203.3-202.8-203.3z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" target="_blank" rel="noopener" title="Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M247.6 8C389.4 8 496 118.1 496 256c0 147.1-118.5 248-248.4 248C113.6 504 0 394.5 0 256 0 123.1 104.7 8 247.6 8zm.8 44.7C130.2 52.7 44.7 150.6 44.7 256c0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8.1-113.8-90.2-203.3-202.8-203.3zM137.7 221c13-83.9 80.5-95.7 108.9-95.7 99.8 0 127.5 82.5 127.5 134.2 0 63.6-41 132.9-128.9 132.9-38.9 0-99.1-20-109.4-97h62.5c1.5 30.1 19.6 45.2 54.5 45.2 23.3 0 58-18.2 58-82.8 0-82.5-49.1-80.6-56.7-80.6-33.1 0-51.7 14.6-55.8 43.8h18.2l-49.2 49.2-49-49.2h19.4z"/></svg>
+    </a>
+  
+   </div>
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.top", "navigation.tabs", "toc.integrate", "search.suggest", "search.highlight", "search.share", "content.code.annotate"], "translations": {"clipboard.copy": "Copia", "clipboard.copied": "Copiato", "search.config.lang": "it", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Cerca", "search.result.placeholder": "Scrivi per iniziare a cercare", "search.result.none": "Nessun documento trovato", "search.result.one": "1 documento trovato", "search.result.other": "# documenti trovati", "search.result.more.one": "1 altro in questa pagina", "search.result.more.other": "# altri in questa pagina", "search.result.term.missing": "Non presente", "select.version.title": "Seleziona la versione"}, "search": "../../assets/javascripts/workers/search.bd0b6b67.min.js"}</script>
+    
+    
+
+      <script src="../../assets/javascripts/bundle.467223ff.min.js"></script>
+      
+        <script src="../../stylesheets/extra.js"></script>
+      
+    
+<!-- script top	-->
+<!-- eu-cookie-lawt -->
+<div class="eupopup eupopup-top "></div>
+
+<!-- Qui Progress bar) --> 
+<script src="https://opendatasicilia.github.io/palermomeltingpot/stylesheets/prognroll.min.js"></script>
+<script>
+    $(function() {
+      $("body").prognroll({
+        height: 4, //Progress bar height in pixels
+        color: "rgb(0 91 187 / 80%)", //Progress bar background color
+      });
+    });
+</script> 
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-62227358e80ee65c"></script>
+
+  </body>
+</html>

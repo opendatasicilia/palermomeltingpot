@@ -1,0 +1,30 @@
+<!-- Automatic page load progress bar https://github.com/CodeByZach/pace -->
+
+<style> 
+.pace .pace-progress{height:4rem!important; width:4rem!important; }
+.pace .pace-progress:after{font-size:4rem!important; color: rgba(0, 0, 0, 0.075)!important;}
+ @media screen and (max-width: 1000px) {
+.pace .pace-progress:after  {font-size: 2rem!important; top: 55px!important;}} 
+</style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/white/pace-theme-big-counter.min.css" />
+
+    <script>
+        paceOptions = {
+			restartOnPushState: false,
+			restartOnRequestAfter: false,
+            ajax: true,      // disabled
+            document: true,  // activated
+            eventLag: false  // disabled
+            //target: 'article'
+            //elements: {selectors: ['.my-page']}
+        };
+    </script>
+
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
+<script src="{{ config.site_url}}stylesheets/pace/pace.js"></script>  
+<link href="{{ config.site_url}}stylesheets/pace/counter.css" rel="stylesheet" type="text/css"/>
+<script src="{{ config.site_url}}stylesheets/pace/pace.min.1.0.2.js"></script> -->
+    
+   

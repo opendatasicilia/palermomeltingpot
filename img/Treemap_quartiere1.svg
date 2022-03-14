@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="1000"
+   version="1.1"
+   id="svg1136"
+   sodipodi:docname="Treemap_quartiere1.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1140">
+    <clipPath
+       id="clip_ancestor0">
+      <rect
+         width="960"
+         height="960"
+         id="use826"
+         fill="#cccccc"
+         fill-opacity="0"
+         stroke="#cccccc"
+         stroke-opacity="0.1"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="clip7">
+      <use
+         xlink:href="#path7"
+         id="use919"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-892,-337)" />
+    </clipPath>
+    <clipPath
+       id="clip17">
+      <use
+         xlink:href="#path17"
+         id="use1039"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-752,-762)" />
+    </clipPath>
+    <clipPath
+       id="clip18">
+      <use
+         xlink:href="#path18"
+         id="use1051"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-752,-844)" />
+    </clipPath>
+    <clipPath
+       id="clip14">
+      <use
+         xlink:href="#path14"
+         id="use1003"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-752,-616)" />
+    </clipPath>
+    <clipPath
+       id="clip16">
+      <use
+         xlink:href="#path16"
+         id="use1027"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-911,-616)" />
+    </clipPath>
+    <clipPath
+       id="clip22">
+      <use
+         xlink:href="#path22"
+         id="use1099"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-873,-890)" />
+    </clipPath>
+    <clipPath
+       id="clip21">
+      <use
+         xlink:href="#path21"
+         id="use1087"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-932,-762)" />
+    </clipPath>
+    <clipPath
+       id="clip24">
+      <use
+         xlink:href="#path24"
+         id="use1123"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-961,-890)" />
+    </clipPath>
+    <clipPath
+       id="clip0">
+      <use
+         xlink:href="#path0"
+         id="use835"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-22,-32)" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <use
+         xlink:href="#path3"
+         id="use871"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-422,-32)" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <use
+         xlink:href="#path4"
+         id="use883"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-719,-32)" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <use
+         xlink:href="#path5"
+         id="use895"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-424,-337)" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <use
+         xlink:href="#path6"
+         id="use907"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-699,-337)" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <use
+         xlink:href="#path1"
+         id="use847"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-22,-411)" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <use
+         xlink:href="#path2"
+         id="use859"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-22,-727)" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1138"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.69718059"
+     inkscape:cx="623.94164"
+     inkscape:cy="544.33529"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1272"
+     inkscape:window-y="199"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1136" />
+  <rect
+     width="1000"
+     height="1000"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="backgorund" />
+  <rect
+     id="path0"
+     fill="#08306b"
+     width="400"
+     height="377"
+     x="22"
+     y="32" />
+  <text
+     clip-path="url(#clip0)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+     id="text842"
+     transform="translate(22,32)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:13.33333333px;font-family:Arial, sans-serif;fill:#ffffff;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan838">Oreto - Stazione</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:13.33333333px;font-family:Arial, sans-serif;fill:#ffffff;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan840">4261</tspan></text>
+  <rect
+     id="path1"
+     fill="#125ca3"
+     width="400"
+     height="314"
+     x="22"
+     y="411" />
+  <text
+     clip-path="url(#clip1)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+     id="text854"
+     transform="translate(22,411)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:13.33333333px;font-family:Arial, sans-serif;fill:#ffffff;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan850">Politeama</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:13.33333333px;font-family:Arial, sans-serif;fill:#ffffff;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan852">3556</tspan></text>
+  <rect
+     id="path2"
+     fill="#3888c1"
+     width="400"
+     height="251"
+     x="22"
+     y="727" />
+  <text
+     clip-path="url(#clip2)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+     id="text866"
+     transform="translate(22,727)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:13.33333333px;font-family:Arial, sans-serif;fill:#ffffff;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan862">Palazzo Reale - Monte di Pietà</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:13.33333333px;font-family:Arial, sans-serif;fill:#ffffff;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan864">2843</tspan></text>
+  <rect
+     id="path3"
+     fill="#509bcb"
+     width="293"
+     height="303"
+     x="422"
+     y="32" />
+  <text
+     clip-path="url(#clip3)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a"
+     id="text878"
+     transform="translate(422,32)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:16px;font-family:Arial, sans-serif;fill:#1a1a1a;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan874">Zisa</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:16px;font-family:Arial, sans-serif;fill:#1a1a1a;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan876">2511</tspan></text>
+  <rect
+     id="path4"
+     fill="#66aad3"
+     width="259"
+     height="303"
+     x="719"
+     y="32" />
+  <text
+     clip-path="url(#clip4)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="text890"
+     transform="translate(719,32)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:16px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan886">Noce</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:16px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan888">2226</tspan></text>
+  <rect
+     id="path5"
+     fill="#6daed5"
+     width="273"
+     height="277"
+     x="424"
+     y="337" />
+  <text
+     clip-path="url(#clip5)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="text902"
+     transform="translate(424,337)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:16px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan898">Tribunali-Castellammare</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:16px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan900">2151</tspan></text>
+  <rect
+     id="path6"
+     fill="#a6cde4"
+     width="191"
+     height="277"
+     x="699"
+     y="337" />
+  <text
+     clip-path="url(#clip6)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="text914"
+     transform="translate(699,337)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:16px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan910">Libertà</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:16px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan912">1505</tspan></text>
+  <rect
+     id="path7"
+     fill="#d9e8f5"
+     width="86"
+     height="277"
+     x="892"
+     y="337" />
+  <g
+     transform="translate(424,616)"
+     id="g940"
+     style="stroke:none">
+    <rect
+       id="path8"
+       fill="#dae8f6"
+       width="183"
+       height="128"
+       x="0"
+       y="0"
+       style="stroke:none" />
+    <clipPath
+       id="clip8">
+      <use
+         xlink:href="#path8"
+         id="use931"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip8)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text938"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan934">Pallavicino</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan936">672</tspan></text>
+  </g>
+  <g
+     transform="translate(424,746)"
+     id="g952"
+     style="stroke:none">
+    <rect
+       id="path9"
+       fill="#dceaf6"
+       width="183"
+       height="117"
+       x="0"
+       y="0"
+       style="stroke:none" />
+    <clipPath
+       id="clip9">
+      <use
+         xlink:href="#path9"
+         id="use943"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip9)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text950"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan946">Montepellegrino</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan948">617</tspan></text>
+  </g>
+  <g
+     transform="translate(424,865)"
+     id="g964"
+     style="stroke:none">
+    <rect
+       id="path10"
+       fill="#ddeaf7"
+       width="183"
+       height="113"
+       x="0"
+       y="0"
+       style="stroke:none" />
+    <clipPath
+       id="clip10">
+      <use
+         xlink:href="#path10"
+         id="use955"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip10)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text962"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan958">Cuba - Calatafimi</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan960">594</tspan></text>
+  </g>
+  <g
+     transform="translate(609,616)"
+     id="g976"
+     style="stroke:none">
+    <rect
+       id="path11"
+       fill="#e0ecf8"
+       width="141"
+       height="130"
+       x="0"
+       y="0"
+       style="stroke:none" />
+    <clipPath
+       id="clip11">
+      <use
+         xlink:href="#path11"
+         id="use967"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip11)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text974"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan970">Montegrappa - S. Rosalia</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan972">530</tspan></text>
+  </g>
+  <g
+     transform="translate(609,748)"
+     id="g988"
+     style="stroke:none">
+    <rect
+       id="path12"
+       fill="#e1edf8"
+       width="141"
+       height="126"
+       x="0"
+       y="0"
+       style="stroke:none" />
+    <clipPath
+       id="clip12">
+      <use
+         xlink:href="#path12"
+         id="use979"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip12)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text986"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan982">Uditore - Passo di Rigano</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan984">511</tspan></text>
+  </g>
+  <g
+     transform="translate(609,876)"
+     id="g1000"
+     style="stroke:none">
+    <rect
+       id="path13"
+       fill="#e6f0f9"
+       width="141"
+       height="102"
+       x="0"
+       y="0"
+       style="stroke:none" />
+    <clipPath
+       id="clip13">
+      <use
+         xlink:href="#path13"
+         id="use991"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip13)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text998"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan994">Partanna Mondello</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan996">416</tspan></text>
+  </g>
+  <rect
+     id="path14"
+     fill="#e9f2fb"
+     width="82"
+     height="144"
+     x="752"
+     y="616" />
+  <text
+     clip-path="url(#clip14)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge"
+     id="text1010"
+     transform="translate(752,616)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:8px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1006">Malaspina - Palagonia</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:8px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1008">340</tspan></text>
+  <g
+     transform="translate(836,616)"
+     id="g1024"
+     style="stroke:none">
+    <rect
+       id="path15"
+       fill="#ebf3fb"
+       width="73"
+       height="144"
+       x="0"
+       y="0"
+       style="stroke:none" />
+    <clipPath
+       id="clip15">
+      <use
+         xlink:href="#path15"
+         id="use1015"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip15)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text1022"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan1018">Settecannoli</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan1020">307</tspan></text>
+  </g>
+  <rect
+     id="path16"
+     fill="#ecf4fb"
+     width="67"
+     height="144"
+     x="911"
+     y="616" />
+  <rect
+     id="path17"
+     fill="#ecf4fb"
+     width="119"
+     height="80"
+     x="752"
+     y="762" />
+  <text
+     clip-path="url(#clip17)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge"
+     id="text1046"
+     transform="translate(752,762)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:8px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1042">Mezzomonreale - Villa Tasca</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:8px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1044">278</tspan></text>
+  <rect
+     id="path18"
+     fill="#eef5fc"
+     width="119"
+     height="69"
+     x="752"
+     y="844" />
+  <text
+     clip-path="url(#clip18)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge"
+     id="text1058"
+     transform="translate(752,844)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:8px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1054">Cruillas - S.Giovanni Apostolo</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:8px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1056">239</tspan></text>
+  <g
+     transform="translate(752,915)"
+     id="g1072"
+     style="stroke:none">
+    <rect
+       id="path19"
+       fill="#eff6fc"
+       width="119"
+       height="63"
+       x="0"
+       y="0"
+       style="stroke:none" />
+    <clipPath
+       id="clip19">
+      <use
+         xlink:href="#path19"
+         id="use1063"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip19)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text1070"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan1066">Villagrazia - Falsomiele</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000;stroke:none"
+         id="tspan1068">218</tspan></text>
+  </g>
+  <g
+     transform="translate(873,762)"
+     id="g1084">
+    <rect
+       id="path20"
+       fill="#eff6fc"
+       width="57"
+       height="126"
+       x="0"
+       y="0" />
+    <clipPath
+       id="clip20">
+      <use
+         xlink:href="#path20"
+         id="use1075"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip20)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text1082"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1078">Altarello</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1080">214</tspan></text>
+  </g>
+  <rect
+     id="path21"
+     fill="#f1f7fd"
+     width="46"
+     height="126"
+     x="932"
+     y="762" />
+  <text
+     clip-path="url(#clip21)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.66667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge"
+     id="text1094"
+     transform="translate(932,762)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:6.66666667px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1090">Borgo Nuovo</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:6.66666667px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1092">171</tspan></text>
+  <rect
+     id="path22"
+     fill="#f2f8fd"
+     width="86"
+     height="58"
+     x="873"
+     y="890" />
+  <text
+     clip-path="url(#clip22)"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     dominant-baseline="text-before-edge"
+     class="txt"
+     style="stroke:none;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;-inkscape-font-specification:'Arial, sans-serif, Normal';font-family:Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge"
+     id="text1106"
+     transform="translate(873,890)"><tspan
+       x="3"
+       y="0.2em"
+       style="font-style:normal;font-weight:normal;font-size:8px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1102">Brancaccio - Ciaculli</tspan><tspan
+       x="3"
+       y="1.3em"
+       style="font-weight:normal;font-size:8px;font-family:Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Arial, sans-serif, Normal';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none"
+       id="tspan1104">149</tspan></text>
+  <g
+     transform="translate(873,950)"
+     id="g1120">
+    <rect
+       id="path23"
+       fill="#f6faff"
+       width="86"
+       height="28"
+       x="0"
+       y="0" />
+    <clipPath
+       id="clip23">
+      <use
+         xlink:href="#path23"
+         id="use1111"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <text
+       clip-path="url(#clip23)"
+       font-family="Arial, sans-serif"
+       font-size="10px"
+       dominant-baseline="text-before-edge"
+       class="txt"
+       style="stroke:#ffffff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke"
+       id="text1118"><tspan
+         x="3"
+         y="0.2em"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1114">Boccadifalco</tspan><tspan
+         x="3"
+         y="1.3em"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan1116">75</tspan></text>
+  </g>
+  <rect
+     id="path24"
+     fill="#f7fbff"
+     width="17"
+     height="88"
+     x="961"
+     y="890" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:188.582;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x="948.50476"
+     y="344.02454"
+     id="text48423"
+     transform="rotate(-90,1038.0357,427.79621)"><tspan
+       x="948.50476"
+       y="344.02454"
+       id="tspan98506">Resuttana - San Lorenzo
+</tspan><tspan
+       x="948.50476"
+       y="364.02455"
+       id="tspan98508">687</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.33333px;line-height:1.25;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:112.076;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x="948.50476"
+     y="344.02454"
+     id="text48423-65"
+     transform="rotate(-90,1270.6825,647.10886)"><tspan
+       x="948.50476"
+       y="344.02454"
+       id="tspan98510">Arenella - Vergine Maria
+</tspan><tspan
+       x="948.50476"
+       y="353.19118"
+       id="tspan98512">47</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:162.386;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x="948.50476"
+     y="344.02454"
+     id="text48423-6"
+     transform="rotate(-90,1151.4084,528.44254)"><tspan
+       x="948.50476"
+       y="344.02454"
+       id="tspan98514">Tommaso Natale - Sferracavallo
+</tspan><tspan
+       x="948.50476"
+       y="354.02454"
+       id="tspan98516">282</tspan></text>
+</svg>

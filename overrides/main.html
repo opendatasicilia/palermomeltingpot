@@ -1,0 +1,32 @@
+<!-- Elements added to main will be displayed on all pages -->
+{% extends "base.html" %}
+
+
+{% block libs %}
+{{ super() }}
+{% include "partials/pace.html" %}
+{% include "partials/script_top.html" %}
+{% endblock %}
+
+
+<!-- blocco meta tag e social -->
+{% block extrahead %} 
+<!-- Social card -->	 
+{% include "partials/social_card.html" %}
+<!-- Meta tags --> 
+{% include "partials/metatag_rss.html" %}
+{% endblock %}
+
+ 
+{% block content %}
+<!-- pulsante stampa 	-->
+{{ super() }}
+ <!-- zoomn image  -->
+ {% include "partials/zoom_image_simple-lightbox.html" %}
+{% endblock content %}
+
+{% block scripts %}
+{{ super() }}
+<!-- script top	-->
+{% include "partials/script_bottom.html" %}
+{% endblock %}
